@@ -1,0 +1,47 @@
+Reference translations (from glossary):
+1. [similarity: 0.665] Chinese: 本文中想特别提出城和镇的两个概念来，目的是想指出这两种性质上不完全相同的社区，它们和乡村的关系也有差别。这里所指的城，那种以官僚地主为基础的社区，对于乡村偏重于统治和剥削的关系；而那种我称作镇的社区，因为是偏重于乡村间的商业中心，在经济上是有助于乡村的。
+最后让我补一笔，在很多事例中，城镇可能是合一的，我在本文中，因为注重于社区的分类，所以着眼于比较单纯的事例，两种形式的混合是不免的，但是为了分析的方便，我们在概念上最好能分开来。如果我们要分析现实的社区，还得增加一个概念就是“都会”。我在本文里不能对这一个概念多加说明，只能简单地说，它是以现代工商业为基础的人口密集的社区。但是中国的都会性质上也不能完全和西洋的都会相比，因为它主要的经济基础是殖民地性质的。它可以说是西洋都会的附庸。关于这一方面，我想留到以后再分析了。
+English: But even though these two types of towns do tend to overlap and are sometimes even combined into one community, it seems worth while to try to differentiate them conceptually, the garrison town as the seat of traditional bureaucratic authority and the wealthy gentry, the market town as a link between the peasants’ local industry and more highly developed commerce and manufacturing.
+2. [similarity: 0.661] Chinese: 我觉得，我们对于城乡关系问题的讨论，已经到了对这有关的双方——城和乡——的性质在概念上应当作更进一步加以详细检讨的时候了。记得我最初写《乡村·市镇·都会》的那篇短文中，就已感觉到应当把我们通常归入“城”的一类的社区，加以分别成“市镇”和“都会”两种形式，我那时的看法多少带了一点历史的观点，就是把没有受到现代工业影响的“城”和由于现代工业的发生而出现的“城”分开来说，前者称之作“市镇”，后者称之作“都会”。半年多以来，参考了许多朋友们的讨论，我已觉得这种分类还不够；不够的意思是说，依这分类，每个形式中还有值得再加以分类的“次形”。换一句话说，在原来所分出的形式中，还包括若干在某些方面性质相异的社区。当我们讨论时，如果不在概念上有清楚的规定，很容易因为用同一名词指着不同对象而发生混淆。我在本文中，想对于“城”这一类社区加以分析，希望能有助于今后的讨论。
+English: Having discussed the place of the gentry in the political structure of China, I now turn to their place in the economic order. But, in order to understand this, we must first make clear the difference in form between rural and urban communities and the nature of the economic and other relationships which hold them together.
+3. [similarity: 0.629] Chinese: 这一类多少是自给的生活单位的聚居，不论人数有多少，在性质上并不能构成我们普通所谓“城”。“城”的形成必须是功能上的区位分化，那就是说，有一个赋予某种特殊社区功能的中心区。换句话说，为了功能分化而发生的集中形式。
+English: Whatever the variation in form and whatever the size, as an assemblage of self-sufficient units, without a differentiation of function or division of labor among its members, we may recognize it as a village or rural community rather than as a town or urban center. The village, then, may be seen as one type of organization. The towns of China, on the other hand, are not all of one type but vary according to their function.
+4. [similarity: 0.624] Chinese: 村中更大的社会群体是由若干家根据多种不同目的基于亲属、地域等关系组成的。
+English: Larger social groups in the village are formed by combining a number of Chia for various purposes and along kinship or territorial principles.
+5. [similarity: 0.621] Chinese: 这个根就是供给他生长资料，供给他教育文化的社会：小之一家一村，大之一乡一国。
+English: For man the roots are the society from which he gets his material well-being and his education; they are the family, the village, the region, and the nation.
+
+Chinese text to translate:
+---
+1. 西洋的社会有些像我们在田里捆柴，几根稻草束成一把，几把束成一扎，几扎束成一捆，几捆束成一挑。
+2. 在中国，这句话是含糊得很。
+3. 这个网络像个蜘蛛的网，有一个中心，就是自己。
+4. “公民”的观念不能不先有个“国家”。
+5. 生活相倚赖的一群人不能单独地、零散地在山林里求生。
+6. 宪法观念是和西洋公务观念相配合的。
+7. 这社群的结合是为了子女的生和育。
+8. 在父亲方面却可以扩大得很远，五世同堂的家，可以包括五代之内所有父系方面的亲属。
+9. 夫妇成为主轴，两性之间的感情是凝合的力量。
+10. 我在《美国人性格》一书中曾用“生活堡垒”一词去形容它。
+11. “家里的”可以指自己的太太一个人；“家门”可以指伯叔侄子一大批；“自家人”可以包罗任何要拉入自己的圈子，表示亲热的人物。自家人的范围是因时因地可伸缩的，大到数不清，真是天下可成一家。
+12. 中国乡土社会的基层机构是一种我所谓“差序格局”，是一个“一根根私人联系所构成的网络”。这种格局和现代西洋的“团体格局”是不同的。
+13. 可是我现在看来却觉得这并不妥当，比较确当的应该称中国乡土社会基本社群作“小家族”。
+14. 家族在结构上包括家庭，最小的家族也可以等于家庭。因为亲属的结构的基础是亲子关系，父母子的三角。
+15. 依人类学上的说法，氏族是一个事业组织，再扩大就可以成为一个部落。
+16. 我的假设是中国乡土社会采取了差序格局，利用亲属的伦常去组合社群，经营各种事业，使这基本的家，变成氏族性了。
+17. 中国的家是一个事业组织，家的大小是依着事业的大小而决定。
+18. 我们的家既是个绵续性的事业社群，它的主轴是在父子之间，在婆媳之间，是纵的，不是横的。
+19. 我用这譬喻是在想具体一些使我们看到社会生活中人和人的关系的一种格局。我们不妨称之作团体格局。
+20. 现代的保甲制度是团体格局性的，但是这和传统的结构却格格不相入。
+21. 从生育和婚姻所结成的网络，可以一直推出去包括无穷的人，过去的、现在的和未来的人物。我们俗语里有“一表三千里”，就是这个意思，其实三千里者也不过指其广袤的意思而已。
+22. 我们在亲属体系里都有父母，可是我的父母却不是你的父母。再进一步说，天下没有两个人所认取的亲属可以完全相同的。兄弟两人固然有相同的父母了，但是各人有各人的妻子儿女。
+23. 这和我们的亲属圈子一般的。像贾家的大观园里，可以住着姑表林黛玉、姨表薛宝钗，后来更多了，什么宝琴、岫烟，凡是拉得上亲戚的，都包容得下。可是势力一变，树倒猢狲散，缩成一小团。
+24. 以“己”为中心，像石子一般投入水中，和别人所联系成的社会关系，不像团体中的分子一般大家立在一个平面上的，而是像水的波纹一般，一圈圈推出去，愈推愈远，也愈推愈薄。
+25. 伦重在分别，在《礼记·祭统》里所讲的十伦，鬼神、君臣、父子、贵贱、亲疏、爵赏、夫妇、政事、长幼、上下，都是指差等。“不失其伦”是在别父子、远近、亲疏。伦是有差等的次序。
+26. “本立而道生”，“其为人也孝悌，而好犯上者鲜矣，不好犯上而好作乱者，未之有也”。从己到家，由家到国，由国到天下，是一条通路。《中庸》里把五伦作为“天下之达道”。
+27. 团体是个超于个人的“实在”，不是有形的东西。我们不能具体地拿出一个有形体的东西来说这是团体。它是一束人和人的关系，是一个控制各个人行为的力量，是一种组成分子生活所倚赖的对象，是先于任何个人而又不能脱离个人的共同意志……
+28. “代理者”Minister是团体格局的社会中一个基本的概念。执行上帝意志的牧师是Minister，执行团体权力的官吏也是Minister，都是“代理者”，而不是神或团体的本身。这上帝和牧师、国家和政府的分别是不容混淆的。
+29. 从己向外推以构成的社会范围是一根根私人联系，每根绳子被一种道德要素维持着。社会范围是从“己”推出去的，而推的过程里有着各种路线，最基本的是亲属：亲子和同胞，相配的道德要素是孝和悌。
+30. 亲子是双系的，兼指父母双方；子女限于配偶所出生的孩子。这社群的结合是为了子女的生和育。在由个人来担负孩子生育任务的社会里，这种社群是不会少的。
+---
+Using the reference translations above for terminology and style, provide the best English translation of the Chinese text.

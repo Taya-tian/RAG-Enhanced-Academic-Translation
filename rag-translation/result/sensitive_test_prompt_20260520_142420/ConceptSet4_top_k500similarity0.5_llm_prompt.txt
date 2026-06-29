@@ -1,0 +1,1025 @@
+Reference translations (from glossary):
+1. [similarity: 10.000] Chinese: “家庭”这个名词，人类学家普遍使用时，是指一个包括父母及未成年子女的生育单位。
+English: The term family, as commonly used by anthropologists, refers to the procreative unit consisting of parents and immature children.
+2. [similarity: 10.000] Chinese: 之所以称它是一个扩大了的家庭，是因为儿子在结婚之后并不和他们的父母分居，因而把家庭扩大了。
+English: We can call it an expanded family, because it is an expansion of a family due to the reluctance of the sons to separate from their parents after marriage.
+3. [similarity: 10.000] Chinese: 家是一个未分家的、扩大的父系亲属群体，它不包括母亲方面的亲戚和已出嫁的女儿。
+English: The Chia is an undivided expanded patrilineal family, because it excludes the relatives on the mother's side and also married daughters.
+4. [similarity: 10.000] Chinese: 就现有材料看，可以说，这个村里的家是一个小的亲属群体，以一个家庭为核心，并包含有几个依靠他们的亲属。
+English: For the present material, it can be said that in the village here described, the Chia is a small kinship group consisting of a family as its nucleus and several dependent relatives.
+5. [similarity: 10.000] Chinese: 最常见的类型是：以一对已婚配偶为核心，再包括几个依赖于此家的父系亲属。
+English: The most common type is that which consists of a nucleus of a married couple and several dependent patrilineal relatives.
+6. [similarity: 10.000] Chinese: 家，强调了父母和子女之间的相互依存。
+English: Chia emphasizes the inter-dependence of parents and children.
+7. [similarity: 10.000] Chinese: 根据已接受的原则，五代以内同一祖宗的所有父系后代及其妻，属于一个亲属关系集团称为“族”，互相间称“祖宗门中”，意思是“我同族门中的人”。
+English: According to accepted principle, all the patrilineal descendants and their wives that can be traced to a common ancestor within five kinship grades consider themselves as belonging to a kinship group called Tsu, and refer to each other as tsezomenzon, meaning "one who comes from the same door of my Tsu."
+8. [similarity: 10.000] Chinese: “一个族的大小平均约有八家。
+English: The average size of a Tsu is about eight Chia.
+9. [similarity: 10.000] Chinese: 因此，在村子中，传代的原则是父系的。
+English: Therefore, in the village, the principle of descent is patrilineal.
+10. [similarity: 10.000] Chinese: 亲属关系的社会延续问题，由于强调单系的亲属关系而变得复杂起来。
+English: Social continuity in kinship is complicated by the unilateral emphasis of affiliation.
+11. [similarity: 10.000] Chinese: 虽然如此，保持的区别说明了同样一个事实，即在较大的亲属关系单位的家中，家庭核心并未完全被淹没。
+English: Nevertheless, the maintainence of the distinction shows the same fact as indicated above that the family nucleus is not entirely submerged in the larger kinship unit Chia.
+12. [similarity: 10.000] Chinese: （e）家庭群体的区别。
+English: (e) Distinction of family groups.
+13. [similarity: 10.000] Chinese: 四、村庄的亲属关系基础
+English: 〔4〕Kinship Basis of the Village
+14. [similarity: 10.000] Chinese: 它是生产和消费的基本社会单位，因此它便成为群体所有权的基础。
+English: It is the basic social unit of production and consumption and thus becomes the basis of the collective aspect of ownership.
+15. [similarity: 10.000] Chinese: 一、家，扩大的家庭
+English: 〔1〕Chia as an Expanded Family
+16. [similarity: 10.000] Chinese: 亲嗣规则中的单系秩序，对社会结合来说是最重要的。”
+English: Order and simplicity in the rule of filiation are of the greatest importance for social cohesion."
+17. [similarity: 10.000] Chinese: 亲属的联系使他们在一块儿居住。
+English: The fact of kinship keeps people living together in the same locality.
+18. [similarity: 10.000] Chinese: 因此，先从父母与孩子的关系着手来描述和研究家的组织是有根据的。
+English: It is, therefore, justifiable to start our description of the organization of Chia from the parent-child relation.
+19. [similarity: 10.000] Chinese: 在上述情况中，父系继嗣的原则已作修改，婚姻制度有所改变。
+English: In the above-mentioned cases, the patrilineal principle of descent is obliterated and the marriage institution is modified.
+20. [similarity: 10.000] Chinese: 田面所有权通常属于家这个群体。家提供男子到田里劳动，
+English: Ownership of the land surface is always held by the Chia group, which supplies male members to work on the farm.
+21. [similarity: 10.000] Chinese: 在这一节，我想把土地占有和农业与亲属关系联系起来。
+English: In this section, I intend to link the land tenure and agriculture with kinship.
+22. [similarity: 10.000] Chinese: 但有一件事是明确的，不同姓的人，不可能属于同一父系的亲属群体。
+English: But one thing is clear, those who have different surnames cannot be of the same patrilineal kinship group.
+23. [similarity: 10.000] Chinese: 这些法律条款付诸实际社会实施时，将形成以双系亲属关系原则为基础的组织。
+English: These legal provisions when translated into actual social practice will lead to an organization based on a bilateral principle of kinship.
+24. [similarity: 10.000] Chinese: 一、父系亲属关系的扩展
+English: 〔1〕Paternal Extension
+25. [similarity: 10.000] Chinese: 不论是土地或房屋均为单系继承。
+English: Both the land and house are unilaterally inherited.
+26. [similarity: 10.000] Chinese: 父亲方面的亲属称谓见下表。
+English: Terms used for this group of fatherside relatives are given in the following table.
+27. [similarity: 10.000] Chinese: 一个已婚妇女到了丈夫的家，便自动成了丈夫的族的一员。
+English: A married woman entering her husband's Chia automatically becomes a member of her husband's Tsu.
+28. [similarity: 10.000] Chinese: 一旦男女平等的思想被接受，这样的规定将产生一种修改单方亲属原则的行动。
+English: Since the situation is so defined, once the idea of sex equality has been accepted, the resultant actions would involve a revision of the unilateral kinship principle.
+29. [similarity: 9.000] Chinese: 农村中的基本社会群体就是家，一个扩大的家庭。
+English: The basic social group in the village is the Chia, an expanded family.
+30. [similarity: 9.000] Chinese: 父母与子女、夫与妻这两种关系是家庭组织的基本轴心。
+English: The parent-child and the husband-wife relations are two fundamental axes in the family organization.
+31. [similarity: 9.000] Chinese: 使得家的各个成员联系起来的基本纽带便是亲属关系。但亲属关系并不把它自己只限制在这个群体之内。
+English: Kinship is the fundamental bond uniting the members of the Chia, but it does not confine itself within this group.
+32. [similarity: 9.000] Chinese: 父系方面的较大的亲属群体是这样一个群体：即其成员在分家后，仍然在一定程度上，保持着家的原来的社会关系。
+English: The larger kinship group on the father's side is the group in which members have still preserved, to a certain degree, the social relations originated in the Chia after it is divided.
+33. [similarity: 9.000] Chinese: 拥有财产的群体中，家是一个基本群体。
+English: Among the property-owning groups, the Chia is the fundamental one.
+34. [similarity: 9.000] Chinese: 但在中国所谓的“家”中，前者的关系似乎更为重要。
+English: But in the Chia the former seems more important.
+35. [similarity: 9.000] Chinese: 族这个单位的另一个特征是：它的成员是家。
+English: Another character of this unit is that its membership is the Chia.
+36. [similarity: 9.000] Chinese: 它扩展到一个较广的范围，并成为较大社会群体的联系原则。
+English: It extends to a much wider circle and forms the principle of association of larger social groups which will be the subject-matter of this chapter.
+37. [similarity: 9.000] Chinese: 他们都用父亲的姓氏。但当他们长大成亲后，儿子在分家前还继续住在父母的房屋里，而女儿则离开父母去和自己的丈夫住在一起。
+English: Both assume their father's surname, but when they grow up, and get married, the son will continuously live in the parents' house before division while the daughter will leave her parents and live with her husband.
+38. [similarity: 9.000] Chinese: 供养老人的义务，落在子女身上的社会里，在目前父居家庭的婚姻制度下，女儿和儿子不能分担同等的义务。
+English: the obligation of supporting the old, in a society where that responsibility falls upon the children, cannot be equally shared by sons and daughters under the present system of patrilocal marriage.
+39. [similarity: 9.000] Chinese: 必须弄清楚亲属称谓的结构分析至多只能作为研究整个亲属系统问题的一部分，如果仅仅提供一个称呼表是没有什么用处的，因为这不能说明它们的社会意义。
+English: It is essential to make clear that a structural analysis of relationship terms, at best, covers only a part of the whole problem of kinship system and that a mere presentation of a chart of terms is of little use by itself because it fails to show their sociological implications.
+40. [similarity: 9.000] Chinese: 它是由于经济便利才被采用的，但对亲属组织却发生了深远的影响。
+English: It is adopted for economic expedience but has far-reaching consequences in kinship organization.
+41. [similarity: 9.000] Chinese: 必须指出的是亲属称谓的延伸使用不应被当作过去或现在在中国这部分地区有“族村”存在的证据。
+English: It must be pointed out that the extended use of relationship terms should not be taken as evidence of an existence of "clan village," at present or in the past, in this part of China.
+42. [similarity: 9.000] Chinese: 换句话说，有这样一种趋势，同姓的家，可能因亲属关系联系在一起并住在一个邻近的居住地区。
+English: In other words, there is a tendency for the Chia bearing the same surname, probably bound by kinship ties, to live in an adjacent residential area.
+43. [similarity: 9.000] Chinese: 让我们仍以前面章节中一父两子的分“家”为例。
+English: Let us take the example, given in the previous chapter, of the division of a Chia among a father and two sons.
+44. [similarity: 9.000] Chinese: （4）家产。此类财产是下一节要讨论的主要题目。
+English: (4) Chia property. This category will be the main subject of the next section.
+45. [similarity: 9.000] Chinese: 因此，那些住在一起、参加部分共同经济活动的人，不一定被看作是家的成员。
+English: Therefore, those who live in the same house and participate in most of the economic pursuits may not be necessarily considered as members of Chia.
+46. [similarity: 9.000] Chinese: 的基本特征是已婚的儿子中往往有一个不离开他们的父母，父母之中如有一人亡故，更是如此。
+English: The essential character of the Chia is that married sons do not always leave their parents, especially when either father or mother is dead.
+47. [similarity: 9.000] Chinese: 因此，每个家庭，夫妻必须住在一起，他们也同时有供养双方亲属的义务。
+English: Therefore each family has the obligation to maintain relatives of both husband and wife while husband and wife have to live together.
+48. [similarity: 9.000] Chinese: 一个人的身份和财产并不是平等地传递给子女的。
+English: Membership and property of a person is not transmitted equally to the son and daughter.
+49. [similarity: 9.000] Chinese: 由于感情上的联系及老人经济保证的缘故，他们宁愿从外面领养一个儿子，而不愿在亲属中指定一个继承人。他们领养女婿，改变了父系原则。
+English: Owing to the tie of affection and economic security of the old, they prefer an adopted son from outside to an appointed heir among the kindred, and modify the patrilineal principle to adopt a son-in-law.
+50. [similarity: 9.000] Chinese: 根据技术需要出发的农田安排，对劳力组织、土地所有权和亲属组织都有深远的影响。
+English: The lay-out of the farm, based on technical considerations, has far-reaching effects on the organization of labour, on land tenure, and on the kinship organization.
+51. [similarity: 9.000] Chinese: 在第三代，只有儿子的儿子接续他的家系。
+English: In the third generation, only the children of the son carry on the continuous line of affiliation.
+52. [similarity: 9.000] Chinese: 在家的总数中，我们发现有一对以上已婚夫妇的家不到十分之一。
+English: In less than ten per cent. of the total number of Chia do we find more than one married couple.
+53. [similarity: 9.000] Chinese: 儿童们也是在这个群体中出生、养育并继承了财物、知识及社会地位。
+English: It is also in this group that children are born and brought up and material objects, knowledge, and social positions are inherited.
+54. [similarity: 9.000] Chinese: 亲属纽带不仅仅是感情上的关系。
+English: The kinship tie is not a matter of sentimental relation only.
+55. [similarity: 9.000] Chinese: 因此，人们住在一起或相互为邻这个事实，产生了对政治、经济、宗教及娱乐等各种组织的需要。
+English: Thus the fact of living together and near to each other produces the need of political, economic, religious, and recreative organizations.
+56. [similarity: 9.000] Chinese: 对父系亲属分类时可从上表看出几个主要规则：
+English: Several principles in classifying paternal relatives can be seen in the above list:
+57. [similarity: 9.000] Chinese: 在父系社会中，姓是由父亲传给儿子的。
+English: In the patrilineal society, the surname is handed down from father to son.
+58. [similarity: 9.000] Chinese: 这个群体的成员占有共同的财产，有共同的收支预算，他们通过劳动的分工过着共同的生活。
+English: The members of this group possess a common property, keep a common budget and co-operate together to pursue a common living through division of labour.
+59. [similarity: 9.000] Chinese: 此外，有同一个祖宗的那些人，社会上不一定承认他们是宗族关系。
+English: Furthermore, those with a common ancestor may not be recognized socially as kindred owing to the clan organization.
+60. [similarity: 9.000] Chinese: 有时，它还包括一些远房的父系亲属。
+English: Sometimes it also includes some relatively remote patrilineal kinsmen.
+61. [similarity: 9.000] Chinese: 白天，她在婆婆的监督下从事家务劳动，受她婆婆的管教。
+English: By day, she shares in the housework under the supervision of her mother-in-law, who has authority over her.
+62. [similarity: 9.000] Chinese: 这使原来较广的亲属纽带变得松散。从长远看，就可能封闭了一些经济援助的渠道。
+English: This loosens the wider kinship ties and thus closes, in the long run, a possible channel of financial help.
+63. [similarity: 9.000] Chinese: 在父系社会里，女人没有权利继承她父母的财产。
+English: Under the patrilineal system, a woman has no rights of inheritance to the property of her parents.
+64. [similarity: 9.000] Chinese: 有了劳动分工，成员通过不同的职业向共同生活的来源作出自己的贡献，同时从这一来源获取各自生活所需的资料。
+English: Where there is division of labour, the members contribute by their different occupations to the common source from which each derives his living.
+65. [similarity: 9.000] Chinese: 从经济地位来说，家长在这个群体中确实是有权威的。
+English: From his economic position, the head of the Chia derives the actual authority in the group.
+66. [similarity: 9.000] Chinese: 布·马林诺夫斯基教授曾经指出：“单系继嗣是与亲子关系的性质密切联系在一起的，就是与地位、权力、官职和财产从一代传给另一代有密切的关系。
+English: Professor B. Malinowski has pointed out that "unilateral descent is also intimately bound up with the nature of filiation, that is, with the handing over of status, power, office and possessions, from one generation to the other.
+67. [similarity: 9.000] Chinese: 四、继承对婚姻和继嗣的影响
+English: 〔4〕Effects of Inheritance on Marriage and Descent
+68. [similarity: 9.000] Chinese: 从上述情况，我们可以看出亲属关系的语言与亲属社会学之间大体上是相关的。
+English: From this examination, we can see there is a rough correlation between kinship language and kinship sociology.
+69. [similarity: 9.000] Chinese: 由于男女平等的新概念，现行的法律制度企图改变这种传统的偏重单系的亲属制度。
+English: The present legal system has attempted to alter the traditional unilateral emphasis of kinship affiliation owing to the new conception of sex equality.
+70. [similarity: 9.000] Chinese: 只要一个人自己有一个儿子，就沿着这种惯例进行。
+English: It followed the custom so long as a person had a son of his own.
+71. [similarity: 9.000] Chinese: 舅姨家的亲属是不属于这个功能群体之内的。
+English: Their extended kindred is excluded from the functional grouping.
+72. [similarity: 9.000] Chinese: 由于对人类学中亲属称谓问题具有特殊的兴趣，我想为本书增写一个附录，作为“亲属关系的扩展”这一章的补充。
+English: In view of the special interest in anthropology on the problem of relationship terms, I would like to add an appendix to the present book as a supplement to the chapter on kinship extension.
+73. [similarity: 9.000] Chinese: 已婚夫妇和七八岁以下的孩子合睡一张床。
+English: The married couple and their young child up to seven or eight years old share one bed.
+74. [similarity: 9.000] Chinese: 女儿的孩子则被视为亲戚关系，他们使用自己父亲的姓氏。
+English: The children of the daughter are regarded as affinal relatives, and assume their father's surname.
+75. [similarity: 9.000] Chinese: 婚礼在女孩家中举行，丈夫将住在妻子家里与岳父母一起生活。
+English: The wedding ceremony will take place in the girl's house and the husband will live in his wife's house with the wife's parents.
+76. [similarity: 9.000] Chinese: 九、对亲属关系的影响
+English: 〔9〕Effects on Kinship Relations
+77. [similarity: 9.000] Chinese: 这种逻辑结构不仅模糊了年长和年轻的类别的存在，特别是年少的一类失去了特殊的称呼，而且还错误地表述了这些原则实际应用时的现实性。
+English: Such logical construction has not only over-shadowed the existence of the senior-junior classification, especially the fact of the absence of special terms of address for the junior class, but also misrepresented the relative working influence of these principles.
+78. [similarity: 9.000] Chinese: 首先是传宗接代；
+English: it ensures, in the first place, the continuity of the line of descent;
+79. [similarity: 9.000] Chinese: 从这时候起，妻方的亲属便成为孩子的母系亲戚。
+English: From that time on relatives on the wife's side become maternal relatives of the child.
+80. [similarity: 9.000] Chinese: 小家庭私用的卧室并不损害家长对房屋的最终处理权。
+English: The private use of the bedroom by the family does not undermine the final right of disposal of the house to the head of the Chia.
+81. [similarity: 9.000] Chinese: 和土地的情况一样，家长对不动产的处理有最后决定权。
+English: As in the case of land, the head of the Chia has the final decision in any transaction concerning immovable property.
+82. [similarity: 9.000] Chinese: 假如儿子成婚后死去，未留下孩子，其父母将为死去的儿子找一个替代人作为儿媳妇的后夫。
+English: If the son dies after his marriage and leaves no grandson, his parents will find a substitute for his son as the second husband of their daughter-in-law.
+83. [similarity: 9.000] Chinese: 但同时， “妻以其本姓冠以夫姓”（第1,000条），“妻以夫之住所为住所”（第1,002条），除非她父母为她招赘。
+English: But as a wife, she will "prefix to her surname that of the husband" (Article 1,000), and take "the domicile of her husband as her domicile" (Article 1,002), except her parent adopt a son-in-law for her.
+84. [similarity: 8.000] Chinese: 中国人所说的“家”，基本上也是一个家庭，但它包括的子女有时甚至已成年或已婚。
+English: A Chia is essentially a family but it sometimes includes children even when they have grown and married.
+85. [similarity: 8.000] Chinese: 家庭的作用就是把一个没有独立生活能力的婴儿抚养成为社会中的一名完全的成员。
+English: It is the function of the family to bring up a dependent infant to become a full member of the community.
+86. [similarity: 8.000] Chinese: 家是由亲属纽带结合在一起的，在经济生活中，它并不必定是一个有效的劳动单位。
+English: The Chia, held together by kinship ties, is not necessarily an efficient working unit in economic life.
+87. [similarity: 8.000] Chinese: 我们已看到，家中的家庭核心增大时，这个群体就变得不稳定起来。
+English: As we have seen, when the family nucleus in the Chia increases in size, the group becomes unstable.
+88. [similarity: 8.000] Chinese: 这种情况说明了单个家庭不断从家的复合群体中分化出来。
+English: These facts show the increasing differentiation of the individual family from the compound group Chia.
+89. [similarity: 8.000] Chinese: 它也有利于保证社会的延续和家庭成员之间的合作。
+English: It tends to ensure social continuity and co-operation among the members.
+90. [similarity: 8.000] Chinese: 让我们以有一父、一母、两个儿子、一个女儿的一个五口之“家”为例。
+English: Let us take an example of a Chia, consisting of a father, a mother, two sons, and a daughter.
+91. [similarity: 8.000] Chinese: 在农村中，结成婚姻的主要目的是为了保证传宗接代。
+English: The main purpose of marriage, in the village, is to secure the continuity of descent.
+92. [similarity: 8.000] Chinese: 以上事实说明了亲属关系以新的形式进行着重新组合，并将随着工业的变迁得到调整。
+English: All these facts point to the re-organization of the kinship relations in a new pattern which will find adjustment with the industrial changes.
+93. [similarity: 8.000] Chinese: 尚未与父母分家的儿子供养在世的父亲或母亲。父亲或母亲甚至不通过分家的方式就将大部分经济权交给已婚的儿子。
+English: The younger son who has not yet separated from his parents will support the remaining parent, who will hand over most of his or her economic authority to the married son even without division.
+94. [similarity: 8.000] Chinese: （3）扩大的亲属群体的财产。
+English: (3) Property of extended kinship groups.
+95. [similarity: 8.000] Chinese: 贯穿此书的两个主题是：土地的利用和农户家庭中再生产的过程。
+English: Two main motives dominate the story of this book: the exploitation of the soil, and the reproductive processes within the household and the family.
+96. [similarity: 8.000] Chinese: 中国亲属称谓从语言处境来说大致可分为四类：
+English: Chinese relationship terms can be classified into four categories based on the general contexts of speech:
+97. [similarity: 8.000] Chinese: 但这个村子里的姓很多而且同姓住得也分散，这个事实也清楚地说明，村里有许多亲属群体，而亲族联系和地方联系的相互关系不大。
+English: But it is also clear that the fact of numerous surnames and their dispersion indicate the multiple kinship groups and the low correlation of consanguinial and local ties.
+98. [similarity: 8.000] Chinese: 这表明了对一个儿媳妇所要求的两个主要职能，即：能绵续家世，及对家中的经济有所贡献。
+English: These represent the two main functions that are expected from a daughter-in-law: the continuity of the family, and the economic contribution to the household.
+99. [similarity: 8.000] Chinese: 我们即将看到，家是会分的，即所谓“分家”。而且，分家只要较为可取，它就分。
+English: As we shall see presently, the Chia will divide whenever the division proves to be advisable.
+100. [similarity: 8.000] Chinese: 然而中国社会组织的新变化，如族的部分瓦解、母系亲属的日益重要、妇女社会地位的变化等，正如对吴江情况分析中所显示的，已经形成了一种变化的趋向，这些是过去的理论家所未预见到的，同时也是在已编纂的书面称谓系统中找不到的。
+English: However, new changes in the Chinese social organization, such as the partial disintegration of the clan organization, the growing importance of the mother clan, and the change of the social status of the females, as shown in the analysis of the Wukiang system, has resulted in a direction of change which was not foreseen by the old theorists and is not to be found in the codified written system.
+101. [similarity: 8.000] Chinese: 在这个意义上，家长对财产具有较大的权利，超过这个群体中的任何一员。
+English: In this sense, the head of the Chia possesses a superior right to the property over that of anyone in the group.
+102. [similarity: 8.000] Chinese: 另一个普遍的形式是：当父母一方去世时，活着的一方将与儿子的家进行合并，并一起居住。
+English: Another form common when one of the parents is dead, is that the remaining one will re-incorporate into the son's Chia and live there.
+103. [similarity: 8.000] Chinese: 一、中国传统政治结构是有着中央集权和地方自治的两层。
+English: (1) In the traditional Chinese power structure there were two different layers: on the top, the central government; at the bottom, the local governing unit whose leaders were the gentry class.
+104. [similarity: 8.000] Chinese: 村里每家的生产量相差不大，因为这种群体的大小大致相仿，生产技术亦基本相同。
+English: The amount of production of each Chia in the village does not vary much because the groups are very similar in size, and in their technique of production.
+105. [similarity: 8.000] Chinese: 另一例是一个小孩，他自己的家住在另一个村子里，但他是这个村的一家人抚养大的。
+English: Another case was that of a child whose own family lived in another village, but who was brought up and nursed in a house in the village.
+106. [similarity: 8.000] Chinese: 在农村，家的规模小，所以称谓数目不会大。
+English: In the village, the size of the Chia is small, therefore, the number cannot be large.
+107. [similarity: 8.000] Chinese: 他们和这家人并不存在一定的亲属纽带关系，并不把自己的财产永久地投入这一家中。通常情况是，他们在一定条件下参加这个单位。
+English: They were not connected with the Chia by the necessary kinship ties and did not permanently pool their property without discrimination into the Chia but usually joined the unit upon definite terms.
+108. [similarity: 8.000] Chinese: 在亲属组织中，目前法律对财产继承问题的规定似已成为两性不平等的实例。
+English: In kinship organization, the present practice of inheritance is defined by the legislature as an instance of inequality between sexes.
+109. [similarity: 8.000] Chinese: 上述集权的家庭经济体系削弱了年轻夫妇的独立性。
+English: The centralized system in the domestic economy, as described in the above section, reduces the independence of the young couple.
+110. [similarity: 8.000] Chinese: 一代或几代以后亲属联系就停止发生作用。
+English: After one or more generations, kinship ties cease to function.
+111. [similarity: 8.000] Chinese: 由于技术知识通常是通过亲属关系传授，本地人不易很快地吸收这种知识。
+English: Since technical knowledge is usually transmitted through the kinship line, it is often not easily assimilated by the indigenous population.
+112. [similarity: 8.000] Chinese: 对于情况的分析越深入，这个问题就越明显，土地不仅在一般意义上对人们有特殊的价值，并且在一家所继承的财产中有其特殊价值。
+English: The deeper we analyse the situation, the more it appears, not only that land in general has a particular value to the people, but that the property inherited by a Chia has for it a particular value.
+113. [similarity: 8.000] Chinese: 父母年老不能工作时，他们又将再合并到儿子的家中去。
+English: when the parents are old and unable to work, they will be re-incorporated into their son's Chia.
+114. [similarity: 8.000] Chinese: 这种成员和这家的关系大有差别，有些是长期的客人，有些是除了没有财产的法定权利外，其他都和家里人是一样的。
+English: The relation of such members to the group varies from that of a long-term guest to having practically no distinction from the members of the Chia except over the legal rights of property.
+115. [similarity: 8.000] Chinese: 一方面是财产的传递，另一方面是赡养老人的义务。
+English: ...the transmission of property on the one hand and the obligation of supporting the old on the other.
+116. [similarity: 8.000] Chinese: 除了父亲、母亲、祖父、祖母的称呼外，人们根据不同的性别、年龄、血统关系和姻亲关系，用父方的所有亲属称谓来称呼同村人。
+English: All the terms for relatives on the father's side, with the exceptions of those for father, mother, grandfather, and grandmother, are used for addressing fellow villagers according to their sex and age and the consanguinity and affinity to the village.
+117. [similarity: 8.000] Chinese: 但由于是单系继嗣，因而孩子对他母亲方面的亲戚承担的义务较小（第四章第五节及第五章第二节）。
+English: But descent is unilateral, and the child has fewer obligations to its relatives on the mother's side (IV–5 and V–2).
+118. [similarity: 8.000] Chinese: 当婆婆的有特权，这
+是事实，只要她得到她的丈夫和儿子的支持。但也应当考虑到她维护家规所具有的教育作
+用。男孩从父亲那里受到的管教，媳妇从婆婆处得到。
+English: It is true that the mother-in-law has a privileged position, so long as she is supported by her husband and her son, but the educational value of her discipline should also be taken into consideration.
+119. [similarity: 8.000] Chinese: 在另一方面，有些人的家破裂了，可能希望暂时参加另一劳动单位，但并不希望承认新的亲属关系。
+English: On the other hand, members of a Chia, which has broken up may wish to be temporarily in-corporated into another working unit without assuming new kinship relations.
+120. [similarity: 8.000] Chinese: 因此才相信对亲属称谓的分析就足以了解亲属关系的组织情况。
+English: Therefore it is believed that an analysis of the relationship terms will be enough to understand the organization of kinship.
+121. [similarity: 8.000] Chinese: 在土地所有权这一问题上，我们可以看到，土地的使用权、处理权和利益的享用权是如何在这一群体的各个成员中分布的。
+English: In the ownership of land, we can see how the right of use, the right of enjoying the benefit and the right of disposal have been diffused among the members of the group.
+122. [similarity: 8.000] Chinese: 因为首先在集体经济中，分配和交换的过程不易区别。
+English: For in the first place the processes of distribution and exchange in a collective economy are not easily differentiated.
+123. [similarity: 8.000] Chinese: 就土地和房屋而言，继承是按继嗣系统进行的。
+English: As far as the land and house are concerned, the line of inheritance goes along the line of descent.
+124. [similarity: 8.000] Chinese: 一家养蚕的总数取决于房屋大小和劳力多少。
+English: The total amount of silkworms that can be raised by a Chia depends on the size of the house and the labour available.
+125. [similarity: 8.000] Chinese: 村庄综合各种社会职能，有时承担一些小的单位不能胜任的特殊职能。这一切都由村长通过村政府来执行。
+English: It synthesizes various social functions and also takes up special functions that cannot be fulfilled by smaller units—all these are performed through the village government by the village headmen.
+126. [similarity: 8.000] Chinese: 广义地说，继承是根据亲属关系传递财产的整个过程。
+English: Inheritance in its wide sense is the entire process of transmission of property according to kinship affiliation.
+127. [similarity: 8.000] Chinese: 一、户
+English: 〔1〕Household
+128. [similarity: 8.000] Chinese: 因此，我们所研究的单位必须是实际存在的职能单位——村庄。我们研究的目的在于了解人民的生活。
+English: Thus the unit of our study, the aim of which is to understand the life of the people, must follow the real existing functioning unit—the village.
+129. [similarity: 8.000] Chinese: 另一方面，被研究的社会单位也不宜太小。
+English: The unit of study, on the other hand, should not be too small.
+130. [similarity: 8.000] Chinese: 此外，在书面语中分类别的亲属在口语中可能就没有区别。
+English: Moreover, the classes of relatives made in literary language may be undifferentiated in colloquial language;
+131. [similarity: 8.000] Chinese: 孩子的技术知识增长并参加了生产劳动，就逐步获得了那些属于家的物品的使用权。
+English: As technical knowledge increases and he participates in productive work, the child gradually acquires the right of use over objects that belong to the Chia.
+132. [similarity: 8.000] Chinese: 通过名义上的收养与他们建立关系，孩子将在这个社区内获得较好的经济和社会地位。
+English: By creating a pseudo-kinship relation with them, the child will acquire a better economic and social position in the community.
+133. [similarity: 8.000] Chinese: 再者，结婚时的宴会为亲戚们提供了一个相聚的机会，对新建立的亲属纽带予以承认，对旧有的关系加以巩固。
+English: Again, the marriage feast provides an opportunity for the gathering of relatives for recognizing newly established kinship ties and reinforcing the old.
+134. [similarity: 8.000] Chinese: 另一方面，如不考虑亲属关系这一因素，在土地占有及农业技术方面仍有些问题尚不明了。
+English: On the other hand, some points of land tenure and of agricultural technology still remain obscure unless the factor of kinship is taken into account.
+135. [similarity: 8.000] Chinese: 严格地说，这个村既不是外婚制也不是内婚制的单位。
+English: Strictly the village is neither an exogamous nor an endogamous unit.
+136. [similarity: 8.000] Chinese: 结婚初期，她是一个新来的人，不便于同她丈夫一方的亲属有过多密切的接触。
+English: At the beginning of her married life she is a newcomer and refrains from making intimate and frequent contacts with her husband's relatives.
+137. [similarity: 8.000] Chinese: 分给个人住的房间，或多或少是小家庭专用的。
+English: The room allotted for individual use is more or less exclusive to the family group.
+138. [similarity: 8.000] Chinese: 在扩展进程中，其成员之间的磨擦增加了。
+English: In the process of expansion social friction among the members increases.
+139. [similarity: 8.000] Chinese: 分家后弟兄们如果住得较远，互相帮助的机会就减少，下一代的兄弟姐妹更是如此。
+English: If brothers after division reside in distant houses, the opportunity for mutual help is decreased, and this is still more so among siblings of the next generation.
+140. [similarity: 8.000] Chinese: 三、描述亲属关系用的称谓
+English: 〔3〕Terms to Describe Relationships
+141. [similarity: 8.000] Chinese: 家的成员对属于这个群体内任一个成员的任何东西都有保护的义务。
+English: Members of a Chia are under an obligation to protect any article belonging to any particular member in the group.
+142. [similarity: 8.000] Chinese: 以上是村中不属于家的成员而进入户的全部情况。
+English: These are all the cases in the village in which members who do not belong to the Chia were introduced into the household.
+143. [similarity: 8.000] Chinese: 妇女在生育了孩子之后，她的社会地位才得到完全的确认。
+English: Again, the full status of a woman is acquired after the birth of her child.
+144. [similarity: 8.000] Chinese: 这些事实表明居住地亲属关系之间的密切联系。
+English: These facts indicate a close relation between residence and kinship relations.
+145. [similarity: 8.000] Chinese: 但并不是每一个家都有一对已婚配偶。
+English: But there is not a married couple in every Chia.
+146. [similarity: 8.000] Chinese: 族是外婚制单位，叔嫂婚例外。
+English: The Tsu is an exogamous unit except in case of levirate.
+147. [similarity: 8.000] Chinese: 家的财权在一家之长的手里。
+English: The financial power of the Chia is in the hands of the head.
+148. [similarity: 8.000] Chinese: 在这群体中，基本的情况是合作的。
+English: In the group, co-operation is essential.
+149. [similarity: 8.000] Chinese: 这将最终迫使父母在逐渐退出劳动的过程中，同时放弃他们的权力。
+English: It will eventually force the parents to relinquish their power along with their withdrawal from work.
+150. [similarity: 8.000] Chinese: 我已提到过，族人分散后，族就分开了（第五章第一节）。
+English: As I have mentioned, the clan is usually divided when the members disperse (V–1).
+151. [similarity: 8.000] Chinese: 同样，姻亲关系只有在她生育孩子以后才开始有效。
+English: Similarly, the affinal relation remains impotent unless a child is born.
+152. [similarity: 8.000] Chinese: 因为当这个女孩自己有了一个儿子并娶了妻，她自己也能享受当婆婆的特权。
+English: for when the girl's own son takes a wife, the mother will enjoy the same privilege as her own mother-in-law.
+153. [similarity: 8.000] Chinese: 主妇，特别是媳妇，坐在下首，或者不上桌，在厨房里吃饭。
+English: The women, especially the daughter-in-law, take the lower side, or they do not appear at the table but take their food in the kitchen.
+154. [similarity: 8.000] Chinese: 马林诺夫斯基教授指出：“但是，这种体系产生于土壤的用途，产生于与其关联的经济价值。
+English: But, as Professor Malinowski has pointed out, "this system grows out of the uses to which the soil is put, out of the economic values which surround it.
+155. [similarity: 8.000] Chinese: 家中如有两个家庭单位时，就把卧室用木板隔成两间。
+English: It is sometimes divided by wooden partitions into two rooms if there are two family units in the Chia.
+156. [similarity: 8.000] Chinese: 如仅有一子，只有在发生严重冲突的情况下他才会要求和父母分家。
+English: If there is one son only, he will demand separation from his parents only in case of serious conflict.
+157. [similarity: 8.000] Chinese: 正如我已在上面说明的，与自己有亲密关系的母系亲属限于母亲的父母、母亲的兄弟和姐妹以及他们的儿女。
+English: As I have shown above, those maternal relatives who have intimate association with ego are limited to mother's parents, mother's brothers and sisters and their children.
+158. [similarity: 8.000] Chinese: 一开始，家庭里尚未添丁时，成人自己割羊草。
+English: To begin with, in a childless family, the adults themselves will collect grass for the sheep.
+159. [similarity: 8.000] Chinese: 这与传统的集体生产相互关联。
+English: It is correlated with the traditional system of collective production.
+160. [similarity: 8.000] Chinese: 公众舆论迫使他为弟弟安排了婚事，并准备婚后接着分家，但在我离开村子以前，分家尚未举行。
+English: Public opinion has forced him to arrange a marriage for his younger brother which would be followed by a division of Chia, but it had not taken place before I left the village.
+161. [similarity: 8.000] Chinese: 如果一个人死后无子女，他的近亲层中最近的亲属便自然地成了他的嗣子，并根据惯例继承他的财产。
+English: If the person dies without issue, his nearest kin in the next kinship grade will automatically become his descendant and inherit his property according to custom.
+162. [similarity: 8.000] Chinese: 除举行婚礼外，女孩的父母还将与男孩的父母签订一项契约，与领养一个儿子的契约类似，并有同族人联署。
+English: In addition to the general wedding ceremony, the girl's parents will sign a contract with the boy's parents, similar to that of adoption of a son and witnessed by their clansmen.
+163. [similarity: 8.000] Chinese: 如果有两个儿子，他们可以轮流赡养。
+English: If there are two sons, they may support their parent alternately.
+164. [similarity: 8.000] Chinese: 有了一个正当的目的，组织者便去找一些亲戚，如叔伯、兄弟、姐夫、妹夫、舅父、丈人等。
+English: Given a proper purpose, the organizer will approach his relatives: father's brother, brother, sister's husband, mother's brother, wife's father, etc.
+165. [similarity: 8.000] Chinese: 他们和自己在社会关系方面没有区别。
+English: No difference in social relation with ego is found between them.
+166. [similarity: 8.000] Chinese: 根据传统的观念，丈夫是不侍候妻子的，至少在大庭广众之下，他不能这样做。
+English: According to the traditional conception, the husband is not supposed to serve his wife, at least he cannot do so in public.
+167. [similarity: 8.000] Chinese: 这个态度实际上有助于维持夫妻关系。
+English: This attitude is a very practical aid in the adjustment of husband and wife.
+168. [similarity: 8.000] Chinese: 如果婆媳之间发生纠纷，当丈夫的不能完全置身事外。
+English: If there is any conflict between the daughter-in-law and the mother-in-law, the husband cannot keep entirely aloof.
+169. [similarity: 8.000] Chinese: 传宗接代的重要性可以从宗教和伦理角度加以理解。
+English: The importance of the posterity is conceived in religious and ethical terms.
+170. [similarity: 8.000] Chinese: 他们自己的家破裂之后，跟随着母方的亲戚。
+English: After the breaking up of their own Chia, they join their relatives on the mother's side.
+171. [similarity: 8.000] Chinese: 这类称谓与上述称谓不同，后者指特定的人，前者指这种关系。
+English: Terms of this type differ from those of the above types in that the latter refer to particular persons and the former refer to relationships as such.
+172. [similarity: 8.000] Chinese: 第二，如果严格遵照这一原则，从理论上说，在每一代，族都要淘汰一些远亲。
+English: Secondly, if the principle were strictly observed, theoretically there would be a division of Tsu for each generation.
+173. [similarity: 8.000] Chinese: 而且是一个为人们所公认的事实上的社会单位。
+English: It is a de facto social unit recognized by the people themselves.
+174. [similarity: 8.000] Chinese: 妻方的亲属，在妻子生孩子之前，并没有密切的联系。
+English: Relatives on the wife's side do not come into intimate contact before a child is born.
+175. [similarity: 8.000] Chinese: 一户里的男子在同一农田里工作。
+English: The male members of a household work together on the same farm.
+176. [similarity: 8.000] Chinese: 女孩子未婚时，如果她有母亲，而家长是她的祖父，她的母亲会将她的钱收下一部分以供她将来结婚时所用。
+English: When the girl is not married and has a mother, but when the head of the Chia is her grandfather, her mother may hold up a part of her earning for future use in her marriage.
+177. [similarity: 8.000] Chinese: 但妻子同丈夫分开会使婚姻的关系松散。
+English: But the separation of wife from husband will loosen the marital tie.
+178. [similarity: 8.000] Chinese: 这意味着实际上儿子必须为父母出一份劳力。
+English: This means in fact that the son must set apart a share of his labour for his parents.
+179. [similarity: 8.000] Chinese: 他的女儿，出嫁后与丈夫住在一起并参加后者的经济单位。
+English: His daughter after marriage would live with her husband and join the economic unit of the latter.
+180. [similarity: 8.000] Chinese: 名义上的收养就是一个人不通过生育和婚姻，部分地被接受到另一个亲属关系群体中去的制度。
+English: Pseudo-adoption is a system by which a person is partially included in another's kinship group without the connection of procreation or marriage.
+181. [similarity: 8.000] Chinese: 人们从父亲那里继承土地。
+English: People inherit their land from their fathers.
+182. [similarity: 8.000] Chinese: 儿子分得多少，无关重要，因为这只是一种暂时的分配。
+English: The amount of the son's share is not important because it is only a temporary allotment.
+183. [similarity: 7.000] Chinese: 中国农村家庭，平均的人数大约是在 4 至 6 人之间。
+English: The variation lies between six to four persons per family.
+184. [similarity: 7.000] Chinese: 尽管大部分对中国的研究强调中国大家庭制度的重要性，但非常奇怪，在这个村里，大家庭很少。
+English: In spite of the fact that most studies of China have stressed the importance of the large-family system in China, curiously enough, in this village a large-family is rare.
+185. [similarity: 7.000] Chinese: 因此，家的规模大小是由两股对立的力量的平衡决定的：一股要结合在一起的力量，另一股要分散的力量。
+English: The size of the group is, therefore, maintained by the balance of the opposing forces working for integration on the one hand and for disintegration on the other.
+186. [similarity: 7.000] Chinese: 亲属称谓的这种延伸的用法，起到了区分不同的地方和年龄组的作用，并可由现存的亲属关系派生的这种关系来说明不同类型的社会关系。
+English: This type of usage of kinship terms serves the function of classifying local and age groups, and defines the different types of social relation towards each of them by that derived from the existing kinship relation.
+187. [similarity: 7.000] Chinese: 这两个过程是总的过程的两个方面，这就是社会职能逐代的继替。虽然在生物学上一代代的个体是要死亡的，但社会的连续性却由此得到了保证。
+English: These two processes are actually two phases of a general process, that is, the transmission of social functions from one generation to the other—whereby social continuity is secured in spite of biological discontinuity.
+188. [similarity: 7.000] Chinese: 亲属关系的这种扩大方式在这个村里很普遍，它既与生育无关，也不与婚姻相联系。
+English: This type of extension of the kinship relations to persons bound neither by procreation nor by marriage is very common in the village.
+189. [similarity: 7.000] Chinese: 他们虽然有各自的房子和财产，但仍然有社会纽带把他们联系起来，照顾彼此的福利。
+English: Although they may have separate houses and properties, they are still bound by social ties to look after each other's welfare.
+190. [similarity: 7.000] Chinese: 我已经讲过，户是基本经济单位。
+English: I have said that the household is the basic economic unit.
+191. [similarity: 7.000] Chinese: 从长远看来，经济互惠还是存在的，它是亲属制度基本稳定力量。
+English: Admittedly in the long run, there is a reciprocity of economic advantage, and this is the fundamental stabilizing force in the kinship institutions;
+192. [similarity: 7.000] Chinese: 一个媳妇的经济价值和对小孩的共同兴趣，使家庭中得失相抵，大致上得到了和谐。
+English: The economic value of a daughter-in-law, and the common interest in the child, make for a harmonious give and take.
+193. [similarity: 7.000] Chinese: 若干“家”联合在一起形成了较大的地域群体。
+English: A number of Chia combined together to form larger territorial groups.
+194. [similarity: 7.000] Chinese: 这一事实对土地占有、对农田分散的制度、对分家的频率以及对小型的户都有深远的影响。
+English: This fact has far-reaching influence on land tenure, on the scattered system of farms, on the frequency of family division, and on the small size of the household.
+195. [similarity: 7.000] Chinese: 正如我要说明的，财产的继承是两代人之间相互关系的一部分。
+English: As I shall show, the transmission of property is a part of the reciprocal relation between generations;
+196. [similarity: 7.000] Chinese: 在这一过程中知识和物质的东西从老的一代传递给青年一代，同时，后者便逐步承担起对社区和老一代的义务。
+English: In the process, knowledge and material objects are transmitted from the old to the young, and the latter gradually takes over at the same time his obligation towards the community and the older generation.
+197. [similarity: 7.000] Chinese: 但这种互助会的核心总是亲属关系群体。
+English: But the nucleus of such a society is always the kinship group.
+198. [similarity: 7.000] Chinese: 家产的所有权，实际表示的是这个群体以各种不同等级共有的财产和每个成员个人所有的财产。
+English: What it really indicates is only a title under which there is a wide range of intermediary gradations between property jointly owned by the group and individually owned by each member.
+199. [similarity: 7.000] Chinese: 他们之间互相帮助和日常交往的密切程度，视亲属关系的远近和居住地区的远近而异。
+English: The intensity of daily intercourse and mutual help varies according to the kinship proximity and also to the territorial proximity of residence.
+200. [similarity: 7.000] Chinese: 财产传递过程中的一个重要步骤发生在结婚的时候。
+English: An important step in the process of transmission of property takes place at marriage.
+201. [similarity: 7.000] Chinese: 因此，家中的经济关系就逐步地得到改变。
+English: Therefore, the economic relation in the Chia is gradually modified.
+202. [similarity: 7.000] Chinese: 父母和已婚儿子分家，通常是在某一次家庭摩擦之后发生的。
+English: The division between the parents and the married son usually takes place after some accident of domestic friction.
+203. [similarity: 7.000] Chinese: 甚至在这个群体里，这种流动已经向传统亲属关系和家庭群体的稳定性提出了挑战（第十二章第九节）。
+English: Even in this group, such mobility has already challenged the traditional kinship relation and the stability of the domestic group (XII–9).
+204. [similarity: 7.000] Chinese: 在人口普查记录里，家庭的职业是根据一家之长的职业而定的。
+English: The occupation of a Chia is recorded in the census according to the occupation of its head.
+205. [similarity: 7.000] Chinese: 长子成婚后，如果要求分家，便将土地分成（不一定等量的）四份。
+English: When the first son gets married and demands a division, the land will be divided into four parts.
+206. [similarity: 7.000] Chinese: 因此，从它的个人成员来说，族并不是单系的亲属关系。
+English: Therefore it is not a unilateral kinship as its individual members are concerned.
+207. [similarity: 7.000] Chinese: 但家庭纠纷更经常地发生在媳妇和婆婆之间。
+English: Domestic conflicts are more frequently found between the daughter-in-law and her mother-in-law.
+208. [similarity: 7.000] Chinese: 在这个新的形势下，为了保持集体和集中的经济体系，即使牺牲他的权威，家长也必须对家中的成员作出考虑。
+English: To maintain the collective and centralized system of economy under the new situation, the head of the Chia, even at the expense of his authority, will be forced to be considerate towards fellow members of the Chia.
+209. [similarity: 7.000] Chinese: 我已扼要地叙述了父母与子女的关系及夫妻关系。
+English: I have now briefly reviewed the parent-child relation and the husband-wife relation.
+210. [similarity: 7.000] Chinese: 它既然也被媳妇用来称呼公公，这表明了两种表亲婚姻——“上山”型和“回乡”型（第三章第八节）。
+English: Since it is also used by a daughter-in-law to call her father-in-law, it indicates both types of cross-cousin marriage—the up-hill type and the reverting type (III–8).
+211. [similarity: 7.000] Chinese: （d）自己同代中，年长的或年幼的亲属的区别或自己直接的男性上代中，年长的和年幼的亲属的区别：
+English: (d) Distinction between the elder and younger relatives in reference to ego or ego's direct ascending male relatives:
+212. [similarity: 7.000] Chinese: 亲属群体有集中的倾向。
+English: There appears a tendency of concentration of kinship related groups.
+213. [similarity: 7.000] Chinese: 家中的不和睦也不应当加以夸张。
+English: Disharmony in the Chia should not be exaggerated.
+214. [similarity: 7.000] Chinese: 父系传代及从父居婚姻影响了妇女的社会地位。
+English: The patrilineal descent and the patrilocal marriage have effected the social status of women.
+215. [similarity: 7.000] Chinese: 家庭的日常费用由公共财源开支。
+English: The daily expenditure of the household is paid from the common source.
+216. [similarity: 7.000] Chinese: 我在前面已经指出过，父母和孩子之间的联系是紧密的。
+English: I have pointed out in the above section that the tie between parent and child is strong.
+217. [similarity: 7.000] Chinese: 所以必须分析不同种类的物如何为不同的成员所拥有。同时也需要分析不同类型的所有权是如何在各成员之间分配的。
+English: It is therefore necessary to analyse how different kinds of objects are owned by different members and how different types of ownership are diffused among them.
+218. [similarity: 7.000] Chinese: 她在家中，特别对从事蚕丝生产是有用的。后面还要讲到，蚕丝业在家庭经济中占有很重要的地位（第七章第二节）。
+English: She is useful in the house especially in the silk industry, which, as will be shown later, is of great importance in domestic economy (XII–2).
+219. [similarity: 7.000] Chinese: （孩子与亲属的关系，参看第三章第四节和第五章第一、二节）。
+English: (The relation of the child with its relatives, cf. III–4 and V–1, 2).
+220. [similarity: 7.000] Chinese: 这就导致分家。
+English: This leads to division.
+221. [similarity: 7.000] Chinese: 普遍接受的观念是：既然一个人在童年时代受了父母的抚育，又接受了父母的财产，为父母劳动就是他的责任，但为兄弟劳动却不是义务。
+English: The accepted idea is this, that since one owes a debt to one's parents in childhood and receives property from them, it is one's duty to work for them, but not for one's brother.
+222. [similarity: 7.000] Chinese: 孩子最先接触要称呼的人便是家里的人——父母、父亲的双亲，有时父亲的兄弟和他们的妻子、孩子以及父亲的未婚的姐妹等等。
+English: The first group of persons whom the child will come into contact and whom he will address are his fellow members in the Chia—his parents, father's parents, sometimes father's brothers and their wives and children, and father's unmarried sisters.
+223. [similarity: 7.000] Chinese: 这是一个妻子对丈夫的义务，也是儿媳对公婆的义务。
+English: This is the obligation of a wife towards her husband and a daughter-in-law towards her parents-in-law.
+224. [similarity: 7.000] Chinese: 这里不妨举出一个村子的情形来表示。在“江村”（太湖附近的一个村子）每农家经营的农场平均面积是8亩半，合1.29英亩。
+English: I shall take one village as an example. In Kiang-ts’un, a village near Lake Tai midway between Nanking and Shanghai, the
+avetage area cultivated by each peasant family is 8.5 mow, which is equivalent to 1.29 English acres.
+225. [similarity: 7.000] Chinese: 这说明，继承和继嗣的问题应被视为两代人之间相互关系的一部分：
+English: It shows that the problem of inheritance and descent should be viewed as a part of the reciprocal relation between the two generations:
+226. [similarity: 7.000] Chinese: 但他们不在的时候，他们不能算作户的成员，虽然他们和这一户有着明确的经济关系。
+English: But during their absence, they cannot be considered as a member of the household, although they have definite economic relations with it.
+227. [similarity: 7.000] Chinese: 譬如，一个人称呼他村里的年长的人时，用父亲兄弟的称谓，这就是说，他将像对待他伯伯或叔叔那样来服从或尊敬他们。
+English: For instance, a person addressing his fellow senior villagers as father's brother will tend to show the same obedience and respect to them as to his father's brother.
+228. [similarity: 7.000] Chinese: 应当注意的是延伸地用这种感情态度来对待实际上并不是属于这种亲属地位的人，并不意味着他们之间就延伸特定的权利和义务。
+English: It should be noted that the extension of such emotional attitudes to persons not actually related as the terms would imply does not necessarily involve an extension of specific privileges and obligations.
+229. [similarity: 7.000] Chinese: 这是很有意思的，因为这件小事反映了夫妻之间关系的变化。
+English: It is interesting because this little incident indicates changes in the relation between husband and wife.
+230. [similarity: 7.000] Chinese: 如果要组织有效果的行动并达到预期的目的，必须对情况有细致的阐述，而这种阐述需要对社会制度的功能进行细致的分析，而且要同它们意欲满足的需要结合起来分析，也要同它们的运转所依赖的其他制度联系起来分析。
+English: An adequate definition of situation, if it is to organize successful actions and attain the desired end, must be reached through a careful analysis of the functions of the social institutions, in relation to the need that they purport to satisfy and in relation to other institutions on which their working depends.
+231. [similarity: 7.000] Chinese: 不是家长的人对物的享有权既有限也不完整。
+English: The right over objects enjoyed by a person who is not the head of a Chia is limited and incomplete.
+232. [similarity: 7.000] Chinese: 如父亲去世后才分家，长子便占住老房子，幼子同母亲一起迁往新居。
+English: If the division of Chia occurs after the death of the father, the elder son will occupy the old house and the younger son moves out with the mother.
+233. [similarity: 7.000] Chinese: 真正使丈夫的家接受一个妇女的，是那个孩子。
+English: It is the child that actually admits a woman to her husband's household.
+234. [similarity: 7.000] Chinese: 四、父母和子女
+English: 〔4〕Parents and Children
+235. [similarity: 7.000] Chinese: 因此，也就产生了教育、继承和子女义务等问题。
+English: Here we find the problems of education, inheritance and filial obligation.
+236. [similarity: 7.000] Chinese: It aims at showing the relation of this economic system to a specific geographical setting and to the social structure of the community.
+English: It aims at showing the relation of this economic system to a specific geographical setting and to the social structure of the community.
+237. [similarity: 7.000] Chinese: 例如，描述父亲的关系：书面词用FU（父），但口语，在村庄中用JA（爷）。
+English: Take the term describing the relationship of father as an example: the literary term is FU, but the colloquial term in the village is JA.
+238. [similarity: 7.000] Chinese: 在妻子养育孩子时，丈夫会接过她的一部分工作，甚至是厨房里的工作。
+English: The husband will take over a part of his wife's work, even in the kitchen, to relieve his wife when she is nursing the child.
+239. [similarity: 7.000] Chinese: 这就是所谓的“小媳妇”制度，“小媳妇”的意思是年幼的儿媳妇，即别的地方所说的“童养媳”。
+English: This is the so-called siaosiv system: siaosiv meaning small daughter-in-law or more precisely the foster daughter-in-law.
+240. [similarity: 7.000] Chinese: 实际上，个人所有权总是包括在“家”的所有权名义之下。
+English: The fact is that individual ownership is always included under the name of Chia ownership.
+241. [similarity: 7.000] Chinese: 家中的成员有时会暂时离去，有时死亡。
+English: Members of a Chia may be temporarily absent or removed by death.
+242. [similarity: 7.000] Chinese: 儿子通常分得一笔钱以开始经营他那新的经济单位。
+English: The son usually gets a sum of money to start his new economic unit...
+243. [similarity: 7.000] Chinese: 像其他一切语言资料一样，亲属关系的称谓应该结合其整个处境来研究。
+English: Relationship terms, like all other linguistic data, should be studied in their contexts.
+244. [similarity: 7.000] Chinese: 每一个称谓，当它最初被用来称呼时就包含了与亲密的亲属相应的某种心理态度。
+English: To each term there has become attached certain psychological attitudes corresponding to the intimate relationships for which they were initially devised.
+245. [similarity: 7.000] Chinese: 哥哥和弟弟称呼的区别可与长子的特殊权利和义务联系起来（第四章第三节）。
+English: The distinction between elder and younger brothers may be correlated with the special privilege and obligations of the eldest son (IV–3).
+246. [similarity: 7.000] Chinese: 如果发生后一种情况，就要闹分家。
+English: In the latter case, a division of Chia will result.
+247. [similarity: 7.000] Chinese: 但在短时期内，媳妇的处境不利于这个群体的和睦相处。
+English: but the temporary grievances of the daughter-in-law are not favourable to the smooth working of the group.
+248. [similarity: 7.000] Chinese: 土地是按照一定的规则传递的（第四章第三节）。
+English: Land is transmitted according to fixed rules (IV–3).
+249. [similarity: 7.000] Chinese: 自己的上一代，父亲这个称谓与称呼父亲的兄弟用同一个主要词素PA。
+English: In the first ascending grade, the term for father has the same root, PA, as found in the terms for father's brothers.
+250. [similarity: 7.000] Chinese: 开始时，他们通常住在邻近的房屋里，有时共用一间大的堂屋。
+English: At the beginning, they usually live in adjacent houses and sometimes share the big front room in common.
+251. [similarity: 7.000] Chinese: 在一定的经济条件下，这个群体本身无限的扩展很可能是不利的。
+English: In a given economy, the indefinite expansion of the group may not be advantageous.
+252. [similarity: 7.000] Chinese: 每家实际耕种的土地量取决于可用的劳动量。
+English: The amount of land actually cultivated by each Chia is determined by the amount of labour available.
+253. [similarity: 7.000] Chinese: 但各种社会义务仍然把他们联系在一起。
+English: But they are still bound together by various social obligations.
+254. [similarity: 7.000] Chinese: 他们互相帮助，在日常生活中关系比较密切。
+English: They stand very close to each other in matters of mutual help and in daily intercourse.
+255. [similarity: 7.000] Chinese: 家长面南，坐在“上首”。
+English: The head of the family sits at the "upper side," facing south.
+256. [similarity: 7.000] Chinese: 她出嫁后回娘家，便成了客人；如果父母去世，更是如此。
+English: When she goes back after marriage, she is a guest, the more so if her parents are dead and the house is owned by her brother.
+257. [similarity: 7.000] Chinese: 当祖母的接过母亲的责任，继续照看、抚养孩子。
+English: The grandmother will take up the mother's obligation in further nursing and care of the child.
+258. [similarity: 7.000] Chinese: 这种区别只存在于自己的一代或自己的上一代。
+English: This distinction holds good only in ego's own grade and the first ascending grade.
+259. [similarity: 7.000] Chinese: 这是一本描述中国农民的消费、生产、分配和交易等体系的书，是根据对中国东部太湖东南岸开弦弓村的实地考察写成的。
+English: This is a descriptive account of the system of consumption, production, distribution and exchange of wealth among Chinese peasants as observed in a village, Kaihsienkung, south of Lake Tai, in Eastern China.
+260. [similarity: 7.000] Chinese: 这也使婆媳之间产生了新的关系。
+English: This also establishes new relations between the daughter-in-law and mother-in-law.
+261. [similarity: 7.000] Chinese: 因为我儿子结婚的时候，全族都要围着一张桌子团坐
+English: This is because when my son marries, all the Tsu will come and sit at the same table.
+262. [similarity: 7.000] Chinese: 在孩子的幼年，就孩子来说，父亲只是母亲的一个助手，偶尔还是他的玩伴。
+English: During the child's infancy, so far as the child is concerned, its father is only an assistant of its mother and sometimes an occasional playmate.
+263. [similarity: 7.000] Chinese: 新娘婚后将要在她丈夫家里生活和劳动，这对她父母来说，是一种损失。
+English: Since the bride will live and work at her husband's house, this means a net loss to her parents.
+264. [similarity: 7.000] Chinese: 假如父母年老时仍然掌握一份土地，但已无力耕种，儿子将代他们耕种。
+English: If the parents have in their old age still a share of the land, and are not able to work it themselves, the son will cultivate it for them.
+265. [similarity: 7.000] Chinese: 但在此种情况下，继承人不会同他自己的父母断绝社会关系。
+English: But in this case, the heir will not sever social relations with his own parents.
+266. [similarity: 7.000] Chinese: 她的前途，即使是一个安定的生活，也只有通过她的婚姻才能得到。
+English: Her future, even a proper livelihood, can only be received through marriage.
+267. [similarity: 7.000] Chinese: 在祖先的生日、忌日和固定的节日要祭祖，但有些节日是根据传统的节气来安排的。
+English: Ceremonies of ancestral worship are carried out on the dates of birth and death of the ancestors and on regular festivals; though among the festivals some of them are regulated according to the traditional solar system.
+268. [similarity: 7.000] Chinese: 甚至那些受到未来婆婆虐待的人，逐渐习惯于自己的地位，在婚后也不至于经受不起。
+English: Even those who are badly treated by the future mother-in-law become used to their position and do not thus experience a crisis after marriage.
+269. [similarity: 7.000] Chinese: 人们理所当然地认为婆婆是媳妇的潜在对手。
+English: It comes to be taken more or less for granted that the mother-in-law is a potential enemy of the daughter-in-law.
+270. [similarity: 7.000] Chinese: 换句话说，他们有权利将其女儿的一个男孩作为他们自己的孙子。
+English: In other words, they will have the right to take one of their daughter's male children as their own grandson.
+271. [similarity: 6.000] Chinese: 所谓大家庭，看来主要存在于城镇之中，很明显，它们具有不同的经济基础。
+English: The so-called large-family is chiefly found in towns and evidently has a different economic basis.
+272. [similarity: 6.000] Chinese: 按照当地的习惯，孩子长大后就要分家产。
+English: For example, a family, with a small holding of nine mow, will face a serious problem if a second boy is born. According to local custom, the children when grown up will divide the estate.
+273. [similarity: 6.000] Chinese: 并提出了这样的事实，在男方和女方亲家之间，很明显地缺少经济的互惠关系。而且婚姻的安排很少考虑到丈夫和妻子的爱好，因而存在着家庭不和睦的可能性，它会导致家的不稳定。
+English: I have brought out the fact that there is an apparent lack of economic reciprocity between the boy's and girl's families, and that owing to the marriages being arranged without regard for the inclinations of husband and wife, there is the possibility of domestic disharmony which may lead to the instability of the Chia.
+274. [similarity: 6.000] Chinese: 在那里，一样存在父系家庭制度以及婆媳之间潜在冲突，同样，也存在着偏爱上山型表亲婚姻中的情况。
+English: The same type of patrilineal family system and the potential conflict between the mother-in-law and daughter-in-law is found, together with the same preference for the up-hill type of cross-cousin marriage.
+275. [similarity: 6.000] Chinese: 从社会学方面看，它的重要性在于，这些聘礼与嫁妆事实上都是双方父母提供新家庭的物质基础，同时也是为每一家物
+质基础定期的更新。
+English: On the sociological side, it is important because the marriage gifts and dowry are, in fact, the contribution of the parents on both sides to provide the material basis for the new family, and a periodic renewing of the material basis of the household for each generation.
+276. [similarity: 6.000] Chinese: 孩子长大之后就要分家产。
+English: When the children grow up, the estate is divided.
+277. [similarity: 6.000] Chinese: 在孩子的成长过程中，父母的控制是必要的，但婚后继续进行这种控制，就是另一回事了。
+English: The parental control is necessary for the development of a child, but the persistence of such control over him after his marriage is a different matter.
+278. [similarity: 6.000] Chinese: 在家中要吸收新的劳动成员，通过亲属关系，如生养、结婚、收养等办法，有时不易做到，有时则因涉及继承等问题而不宜进行。
+English: The introduction of new working members, through kinship ties such as birth, marriage and adoption, is not always easy to effect and sometimes is not advisable owing to questions of inheritance.
+279. [similarity: 6.000] Chinese: 所以分家并非就此完全结束了父母与子女之间的经济关系。
+English: Therefore the process of division does not completely end the economic relation between the parents and the child.
+280. [similarity: 6.000] Chinese: 对这个村子的姓的分布的调查可以说明，虽然亲属关系群体倾向于集中在某地区，但家族关系并没有形成地方群体的基础。
+English: A study of the distribution of the surnames in the village can demonstrate that, although kinship groups tend to concentrate in compact areas, genealogical relation does not form a basis of local groups.
+281. [similarity: 6.000] Chinese: 年轻一代对经济独立的要求便成为家这一群体的瓦解力量，最终导致分家。
+English: The demand for economic independence of the young then becomes one of the disorganizing forces, and finally leads to the division of the group.
+282. [similarity: 6.000] Chinese: 例如，父母对孩子的义务可以通过年轻一代以后对父母的赡养，或者年轻一代对下一代的义务来取得平衡。
+English: For example, parental obligation towards the child is balanced by the support given later by the young to the old, by the obligation to the next generation, or both.
+283. [similarity: 6.000] Chinese: 夫妻之间的关系，在一定的意义上说，是父母与儿女关系中的干扰因素。
+English: The relation between husband and wife is in a certain sense a disturbing factor in the parent-child relation.
+284. [similarity: 6.000] Chinese: 这些退却的步骤与下一代义务的增加是相互关联的。下一代从完全依赖于父母到担当合作的角色，最后到挑起赡养父母的全部责任。
+English: These steps of retreat correlated with the increase of obligation of the young from entire dependence to taking a co-operative rôle and finally to bearing responsibility for the whole livelihood of the parents.
+285. [similarity: 6.000] Chinese: 也有时夫妇双方各自接续双方的家系。
+English: Sometimes the husband and wife may carry both lines of their parents.
+286. [similarity: 6.000] Chinese: 年轻夫妇如果挑起了家中的大部分劳动重担，而由于经济权力集中在老一代手里，青年仍然没有独立的地位时，他们也会产生不满。
+English: When a young couple undertakes the greater part of the work in the household but still is without an independent status owing to the economic power being centralized in the hands of the older generation, there will be much dissatisfaction.
+287. [similarity: 6.000] Chinese: 互相帮助的真正的社会义务则在更小的群体内进行，例如刚分家的兄弟。
+English: Real social obligations of mutual aid exist between smaller groups, such as brothers with newly divided households.
+288. [similarity: 6.000] Chinese: 在这个村子里，我发现28起个人被吸收到另外的经济单位中的情况。作为户的一员，一起居住、吃饭和劳动，但他们和家的成员有着明显的区别。
+English: In the village I found that in twenty-eight cases individuals have been introduced into the economic unit, living, eating, and working as members of the household but clearly distinguished from the members of the Chia.
+289. [similarity: 6.000] Chinese: 在第二代，由于他们双方父母之间的关系密切，儿辈之间也亲密相处。
+English: In the second generation, children of both units share the intimacy of the relation between their parents.
+290. [similarity: 6.000] Chinese: 父母对孩子的义务是根据亲属关系确定财产传递的一般原则的基础。
+English: The parental obligation towards the child is the basis for the universal principle of transmission of property according to the kinship affiliation.
+291. [similarity: 6.000] Chinese: 关于继承问题和子女的义务问题，在通常情况下并不会提出来，要到孩子长大成人并且要结婚的时候才会提出来。
+English: The problems of inheritance and filial obligation do not arise in normal conditions until the children grow up and get married.
+292. [similarity: 6.000] Chinese: 这是亲属会集的一个场合，他们之间的联系因而也得到了加强。
+English: This is one of the occasions for the kinship group to assemble, and the ties of relationship between them are thus reinforced.
+293. [similarity: 6.000] Chinese: 另一方面，婚姻的法定行为尽管先于生孩子，但结婚总是为了有后代。
+English: On the other hand, the legal act of marriage, although preceding the birth of the child, always anticipates the realization of parenthood.
+294. [similarity: 6.000] Chinese: 由于这种新的制度，家中的成员之关系和姻亲之间的关系起了很大的变化。
+English: The relations among the members of the Chia and between the affinal relatives are greatly modified by the new institution.
+295. [similarity: 6.000] Chinese: 主要变化是工厂代替了家庭手工业系统，并从而产生的社会问题。
+English: the change has been chiefly concerned with the substitution of the factory for the domestic system and the social problems rising therefrom.
+296. [similarity: 6.000] Chinese: 在以后的章节里我将说明子女如何有助于建立夫妇间亲密的关系，因为丈夫和妻子在结婚前是互不相识的。
+English: In later sections I shall show how the child helps the development of intimate relations between husband and wife, who are little acquainted with one another before marriage.
+297. [similarity: 6.000] Chinese: 在研究社会制度之间的功能关系时，研究变迁的顺序是特别有意义的。
+English: The sequence of change is of special interest for studying the functional relations between social institutions.
+298. [similarity: 6.000] Chinese: 在第三章中，我推迟了对这个问题的论述，即在家产的传递过程中，土地实际上是如何划分的。这是由于谈这个问题需要预先了解土地的占有制。
+English: In Chapter III, I postponed the problem of how the land is actually divided in the process of transmission of property, because it required a prior knowledge of the system of land tenure.
+299. [similarity: 6.000] Chinese: 如果考虑到日常的家庭生活，婆媳之间存在的潜在冲突是可想而知的了
+English: The potential conflict between them can be understood considering the daily life of the household.
+300. [similarity: 6.000] Chinese: 再说女儿结婚后，她的父母和兄弟又对这门亲戚承担了一系列新的义务，特别是对女儿生的孩子将承担更多的义务。
+English: Furthermore, when the girl is married, her parents and brothers assume a new series of obligations towards their relatives, specially to the children of their girls.
+301. [similarity: 6.000] Chinese: 对于他妻子的其他亲戚，根据不同的场合用他妻子或孩子用的合适的称呼。
+English: The other relatives of his wife will be addressed by the term used by his wife or his children, according to the appropriate contexts.
+302. [similarity: 6.000] Chinese: 几代在城镇居住的人，他们与村子里同族的关系已经比较疏远。
+English: Those who have been resident in the town for some generations, have allowed kinship ties with their clansmen in the village to become very loose.
+303. [similarity: 6.000] Chinese: 在这个意义上说，族也可以说是一个礼仪的群体，有婚丧大事时，聚集在一起，宴会或祭祀共同的祖先，同时也送少量礼金勉强够食物的开支。
+English: In this sense, the Tsu can be taken as no more than a ceremonial group which assembles periodically at wedding and funeral occasions, taking a common feast, offering sacrifices to the common ancestors together, and contributing a small sum barely enough to cover the food.
+304. [similarity: 6.000] Chinese: 在某种程度上，这意味着母系继承，但由于儿媳也往往分得一份，这个惯例便不是绝对的了。
+English: This suggests, in some degree, the matrilineal inheritance; but since the daughter-in-law also has her share, the rule is not absolute.
+305. [similarity: 6.000] Chinese: 家中的成员也可能不住在家里而在远处工作。
+English: The members of a Chia may not live in the house but pursue their work in distant places.
+306. [similarity: 6.000] Chinese: 每“家”占有相隔甚远的几条带状田地。
+English: Each Chia possesses several belts of lands widely apart.
+307. [similarity: 6.000] Chinese: 因此在平常的环境里，母子的接触几乎是不间断的。
+English: Contact between mother and child is thus in ordinary circumstances almost uninterrupted.
+308. [similarity: 6.000] Chinese: 但总的来说，人口流动是缓慢的，特别是男性人口流动得很少，这说明了外界对劳动的需求不大和村里传统生产系统的僵化。
+English: But on the whole the slow mobility of population, especially of the male population, indicates the slow effect of the outside demand for labour and the rigidity of the traditional productive system in the village.
+309. [similarity: 6.000] Chinese: 家中的男性成员对照看孩子负较少的直接责任。
+English: Male members of the Chia have less direct a duty in caring for the child.
+310. [similarity: 6.000] Chinese: 甚至在家中，只要有别人在场，她的丈夫如果表示出对她有一些亲密的感情都会被认为是不妥当的，结果会成为人们背后议论的一个话题。
+English: Even in the house, in anyone's presence, if he shows any intimate feeling for his wife it will be considered improper and consequently will become a topic for gossiping.
+311. [similarity: 6.000] Chinese: 只有在一些需要很长时期才能相互完成的义务，有关的个人才会更强烈地感受到他们之间的社会关系，
+English: Where obligations can be fulfilled only over a long period of time the individuals involved tend to feel more strongly their social relationship.
+312. [similarity: 6.000] Chinese: 在父母和孩子之间并不计较经济贡献上的平等问题，但在兄弟之间确有这个问题。
+English: The problem of equality between parents and children in economic contribution does not arise, but it does arise between siblings.
+313. [similarity: 6.000] Chinese: 描述关系用的一般称谓是可以“归类的”，因为可能有一群人与自己有同一类关系。
+English: The general term for describing relationship may be "classificatory," because there may be a group of persons related to ego in similar relationships.
+314. [similarity: 6.000] Chinese: 总之，随着父母年老依赖儿子的程度的增加，他们的权威便按比例地缩小。
+English: In any case, the authority of the parents is reduced in proportion to the degree of their dependence.
+315. [similarity: 6.000] Chinese: 每个人做同样的工作，除在插秧时，孩子不插秧而是给成人递秧苗。
+English: Everybody does the same work, except that in transplantation the children do not take part in actual planting but supply the young shoots to the adults.
+316. [similarity: 6.000] Chinese: 它还调节各种类型的社会关系。
+English: It regulates various types of social relation.
+317. [similarity: 6.000] Chinese: 儿媳从婆母处分离出来可以减少日常的争吵。
+English: The separation of a daughter-in-law from her mother-in-law will reduce the possibility of daily conflict.
+318. [similarity: 6.000] Chinese: 为了对人们的生活进行深入细致的研究，研究人员有必要把自己的调查限定在一个小的社会单位内来进行。
+English: To carry out intensive study of the life of the people, it is necessary to confine oneself to the investigation of a small social unit.
+319. [similarity: 6.000] Chinese: 这些群体并不构成等级从属的系列，而是互相重叠的。
+English: These groups do not form a hierarchical series but superimpose on each other.
+320. [similarity: 6.000] Chinese: 她的子女将“从父姓”（第1,059条），除另有安排协议外，未成年之子女以其父之住所为住所（第1,060条）。
+English: Her children will "assume the surname of the father" (Article 1,059), except there is an agreement for another arrangement, and the domicile of her child is that of the father (Article 1,060).
+321. [similarity: 6.000] Chinese: 同段的每一户每年要出一名男的或女的代表，在正月和八月里各聚会一次。
+English: Every year households of the same segment, each represented by one member, male or female, will meet twice, in the first and eighth months.
+322. [similarity: 6.000] Chinese: 同舅舅这个称谓来称呼他母亲村里的人便意味着，他可以在这些人之中自由自在地行动，并乐于被他们待为上客。
+English: By addressing his mother's fellow villagers as mother's brother he behaves freely among that group of persons, and enjoys their treating him as a guest.
+323. [similarity: 6.000] Chinese: 但如果把研究限制在这样一个范围内，势必把其他各种事实遗漏，例如父母活着时的财产传递、后代接受已故祖先的经济义务等。
+English: But to limit the study in this way is to leave out various facts, such as the transmission of property during the parents' lifetime and the economic obligation of the descendants towards their deceased ancestors.
+324. [similarity: 6.000] Chinese: 主要的项目如税金、工资、食物、衣服和其他开销由家长控制。
+English: The main items such as taxes, wages, food, clothes, and other services are controlled by the head.
+325. [similarity: 6.000] Chinese: 下面几节将对这个村子的各种地域性群体作概括的描述，但有关经济活动的各种群体，将在以后几章里详细讨论。
+English: The following sections will give a general description of territorial groupings found in the village, but those groups formed specially for economic activities will be discussed in later chapters in detail.
+326. [similarity: 6.000] Chinese: 但正如已经提到过的，不同村的人互相通婚更为经常。
+English: But, as mentioned, marriage is more frequently arranged among people of different villages.
+327. [similarity: 6.000] Chinese: 这种再合并的过程不损害儿子已获得的权利，反而是将其余的财产权传给儿子。
+English: The process of re-incorporation does not undermine the rights acquired by the son, but, on the contrary, conveys to him the rights to the rest of the property.
+328. [similarity: 6.000] Chinese: 土地是由农户全体成年男子或一些成年男子耕种的。
+English: Land is cultivated by all or some of the male adult members of the household.
+329. [similarity: 6.000] Chinese: 我们从村里的人了解到他们对财产的一种分类办法。他们是根据所有者的性质来分类的。
+English: From the villagers, we can get a classification of property based on the nature of the owner.
+330. [similarity: 6.000] Chinese: 一个女孩的传统经济地位是依附于她的父亲或丈夫的。
+English: The traditional economic status of a girl is subordinate to her father or to her husband.
+331. [similarity: 6.000] Chinese: 一个女孩子嫁给她母亲的兄弟的儿子，叫做“回乡丫头”，就是一个女孩又回到她的本地。
+English: A girl married to the son of mother's brother is called wesienodiu, meaning a girl going back to the native place.
+332. [similarity: 6.000] Chinese: 孩子与父亲的关系稍有不同。
+English: The relation between the father and the child is slightly different.
+333. [similarity: 6.000] Chinese: 孩子们从自己的家庭中受到教育。
+English: Children receive their education from their families.
+334. [similarity: 6.000] Chinese: 通过这一过程，年轻一代获得了对原属其父亲的部分财产的法定权利，对这部分财产开始享有了专有权。
+English: Through the process the young acquire a legal title over a part of the property formerly belonging to the father and enjoy a more exclusive right to it.
+335. [similarity: 6.000] Chinese: 他们暂时不在家，并不影响他们的亲属关系。
+English: Their temporary absence from the house does not affect their kinship affiliation.
+336. [similarity: 6.000] Chinese: 他们对自己有为数众多的子女感到自豪，而在人们的眼中，又视之为富裕的象征。
+English: They are proud of their numerous children, and these are taken as a sign of their wealth in the eyes of the people.
+337. [similarity: 6.000] Chinese: 这一类不稳定的家占总数的 27%。
+English: This type of unstable Chia amounts to 27 per cent. of the total.
+338. [similarity: 6.000] Chinese: 婆婆就代表着权力。
+English: The mother-in-law represents authority.
+339. [similarity: 6.000] Chinese: 他们只知道家庭的具体收入。
+English: They only know the concrete income of the family.
+340. [similarity: 6.000] Chinese: 因此，称谓的识别不能只用婚姻方式来理解。
+English: Therefore, the identification of terms cannot be interpreted only by the married system.
+341. [similarity: 6.000] Chinese: 因此，会员可能扩展至亲戚的亲戚或朋友。
+English: Membership may then be extended to relatives' relative or friends.
+342. [similarity: 6.000] Chinese: 在灌溉过程中一户的成员，包括女人和孩子都在同一水车上劳动。
+English: In the process of irrigation, the members of the household, including women and children, always work on the same pump.
+343. [similarity: 6.000] Chinese: 每家土地面积窄小，限制了抚育孩子的数量。
+English: The small size of holding of the Chia limits the number of children who can be raised.
+344. [similarity: 6.000] Chinese: 他们互相承担着特别的社会义务。
+English: They have towards one another special social obligations.
+345. [similarity: 6.000] Chinese: 那时，舅父便出来当调解人，并代表年轻一代提出分家的建议。
+English: The maternal uncle acts as mediator and proposes the division on behalf of the young man.
+346. [similarity: 6.000] Chinese: 房屋有几种分法。
+English: The house is divided in several ways.
+347. [similarity: 6.000] Chinese: 第二是向祖宗表示孝敬。
+English: and, in the second place, it is a concrete expression of filial piety by the future father towards his ancestors.
+348. [similarity: 6.000] Chinese: 他们认为这是一种做人的责任，因为只有通过他们的子女才能向自己的父母偿还他们对自己的抚育之恩。
+English: They conceive it to be their duty because it is through their children that they can pay back their debt to their own parents.
+349. [similarity: 6.000] Chinese: 但如果她必须称呼亲戚时，她用丈夫所用的称谓。
+English: But when she must address the relatives, she uses her husband's system of terms.
+350. [similarity: 6.000] Chinese: 由于结婚花费很贵，人们甚至不会轻易遗弃有不轨行为的儿媳。
+English: The expense of marriage prevents people even from repudiating a misbehaved daughter-in-law.
+351. [similarity: 6.000] Chinese: 这被认为是女孩子一生中的重要时刻，据此可以确定她在丈夫家中的地位。
+English: This is considered an important event in the life of a girl and on it depends her position in her husband's house.
+352. [similarity: 6.000] Chinese: 对于其他亲属来说，情况也是相同的。
+English: It is the same with other relatives.
+353. [similarity: 6.000] Chinese: 只要他父亲在世，便可以对他使用土地和房屋施加影响。
+English: His father, as long as he is living, can strongly influence his use of the land and house.
+354. [similarity: 6.000] Chinese: 有时候，在一个妇女丧夫之后，她就和她的子女在一起生活，而不去加入另一个单位。
+English: Sometimes, for instance, after the death of her husband, a woman lives with her children without joining another unit.
+355. [similarity: 6.000] Chinese: 对此，他们有一个特别的名词，叫做“乡邻”。
+English: For these they have a special term shanlin.
+356. [similarity: 6.000] Chinese: 但不允许她把所有的工资都花掉，工资的大部分要交给家长，归入一家的共同预算。
+English: But she is not allowed to spend all her wage; a large portion of it must be handed over to the head to go into the common budget.
+357. [similarity: 6.000] Chinese: 如父母之一在他成婚前去世，就不再分家。
+English: If one of the parents dies before his marriage, further division will be ruled out.
+358. [similarity: 6.000] Chinese: 有人用纯伦理的观点来解释生育子女的重要性。
+English: Some explain the importance of having children on purely ethical grounds.
+359. [similarity: 6.000] Chinese: 从表中，我们可以看出，服丧的时间及戴孝的轻重并不与传嗣相关，而在某种程度上与实际的社会关系及他们与死者之间的标准化的感情关系相关。
+English: From the table, we can see that both the period and the act of mourning are not correlated with descent but to a certain extent with the actual social relations and their standardized ties of affection.
+360. [similarity: 6.000] Chinese: 但一旦生了孩子，当丈夫的就能称他的妻子为孩子的妈。
+English: But when a child is born, the husband can refer to his wife as the mother of his child.
+361. [similarity: 6.000] Chinese: 因此，兄弟之间或其他亲戚之间的互相帮助便不能满足需要。
+English: Here the mutual help among brothers or other relatives becomes inadequate.
+362. [similarity: 6.000] Chinese: 例如，该村副村长周某，他是幼子，同父母一起住在老房屋内。
+English: In the case of Chou, the junior village head, he, being the younger son, lives with his parents in the old house.
+363. [similarity: 6.000] Chinese: 如果他站在妻子一边，就成为母子纠纷。
+English: If he takes side with his wife, the conflict becomes one between mother and son.
+364. [similarity: 6.000] Chinese: 我知道，他打算在他以后的研究中说明关于崇祀祖先的详细情况以及在村庄和城镇中广为流传的关于信仰和知识等更复杂的体系。
+English: He proposes, I know, in his subsequent studies, to give a fuller account of ancestor-worship; of the more complicated systems of belief and knowledge which flourish in village and township alike.
+365. [similarity: 6.000] Chinese: 我称这类组织作为自治单位是因为这是一地方社区里人民因为公共的需要而自动组织成的团体。
+English: I speak of this type of organization as a “‘self-governing unit’’ because it was organized by local people to look out for the public affairs of the community.
+366. [similarity: 6.000] Chinese: 其大小将根据他对这个集体单位的经济贡献而定。
+English: The size of the extra share depends on the economic contribution that he has made to the collective unit.
+367. [similarity: 6.000] Chinese: 她们之间发生摩擦是司空见惯的，因而关系和睦就会得到特殊的赞扬。
+English: Friction between them is taken as usual and harmony as worth special praise.
+368. [similarity: 6.000] Chinese: 父母双方年老或有一方在世时，他必须负责赡养。
+English: When the parents are old or one of them is dead, he is obliged to support them.
+369. [similarity: 6.000] Chinese: 有时，也在夫妻之间引起一场争辩。
+English: Sometimes, the result is a dispute between husband and wife.
+370. [similarity: 6.000] Chinese: 一个孩子叫母亲ma，但两者之间的关系被描述为NITZE （儿子）和njian （娘）。
+English: A child calls his mother mma but the relationship between them is described as NITZE (son) and njian (mother).
+371. [similarity: 6.000] Chinese: 彩礼和嫁妆的取消延长了青年在经济上依赖父母的时间。
+English: The cancelling of marriage gifts and dowry prolongs the economic dependence of the young.
+372. [similarity: 6.000] Chinese: 对遗体的处理、服丧和定期祭祀，都是子女义务的延续。
+English: The disposal of the corpse, the mourning and the periodical offering of sacrifices are a prolongation of filial obligations.
+373. [similarity: 6.000] Chinese: 他帮村里的居民写信、念信，以及代办其他文书，按照当地借贷规则算账、办婚礼、仲裁社会争议、照看公共财产。
+English: They help the people to read and to write letters and other documents, to make the calculations required in the local credit system, to manage marriage ceremonies, to arbitrate in social disputes and to look after public property.
+374. [similarity: 6.000] Chinese: 当地的土地占有理论进一步掩盖了这种差别。
+English: The difference is again obscured by the existence of the native theory of land tenure.
+375. [similarity: 5.000] Chinese: 村中更大的社会群体是由若干家根据多种不同目的基于亲属、地域等关系组成的。
+English: Larger social groups in the village are formed by combining a number of Chia for various purposes and along kinship or territorial principles.
+376. [similarity: 5.000] Chinese: 每一代用同一主干定名，垂直分裂成两组，年长的和年轻的，然后在这个‘家庭’（父母子女这个团体）的称谓前加修饰词以此表示它不同于其他‘家庭’；其他‘家庭’又根据其与这个‘家庭’的亲疏加以区别。
+English: Each generation is designated by the same stem, vertically split into two groups of older and younger, and then the family group is distinguished, by using modifications of the terms, from the other groups which are again differentiated according to their closeness to the family group.
+377. [similarity: 5.000] Chinese: 在这种家庭情况下，可以看到心理上的因素往往超过了经济上的因素。因为从经济观点来看，第二种情况更利于两家在承担义务问题上取得平衡。
+English: In this family situation, we can see that the psychological factor is stronger than the economic factor, because from the economic point of view the second type is much preferable for a balancing of obligations.
+378. [similarity: 5.000] Chinese: 社会的一个完全的成员，需要一定数量属于他自己支配的财物，同时一个家庭的正常功能需要较丰富的物质基础。
+English: A full member of the community needs a certain amount of property under his own disposal and a normal functioning of a family requires a larger material basis;
+379. [similarity: 5.000] Chinese: 为了履行多种社会职能，各户聚合在一起形成较大的地域群体。
+English: For various social functions, households are associated together to form larger local groups.
+380. [similarity: 5.000] Chinese: 只有通过这样一个过程，一个依赖别人的孩子才逐渐成为社区的一个正式成员，同样，通过这种逐渐的变化，老年人退到了一个需要依靠别人的地位。
+English: It is only through a gradual process that a dependent child becomes a full member of the community and it is also by a gradual process that the old retire to a dependent position.
+381. [similarity: 5.000] Chinese: 对孩子的关怀是家中的一种结合力量。
+English: The care of the child is an integrative force in the domestic circle.
+382. [similarity: 5.000] Chinese: 子女还起着稳定家庭群体里各方关系的作用。
+English: The child stabilizes the relations in the domestic circle.
+383. [similarity: 5.000] Chinese: 在村庄里，保持密切关系的亲属圈子有时较小。
+English: In the village the kinship circle, in which intimate relations are maintained, is sometimes smaller.
+384. [similarity: 5.000] Chinese: 用这种称呼，并不等于他们之间真的建立了这样的亲属关系，但这种称呼有助于说明这个社区内不同的人的地位。在这个社区内，老年人受到尊敬，而且通常是具有威信的。
+English: It does not imply a real extension of kinship relation, but it is useful in defining a person's status in the community where the old are respected and usually possess authority.
+385. [similarity: 5.000] Chinese: 挣钱的人同其他家人分开，对亲属关系也产生了实质的变化。
+English: The physical separation of the wage-earner from the members of her family may also produce essential changes in the kinship relations.
+386. [similarity: 5.000] Chinese: 再者，孩子长大结婚后，年轻的夫妇代替父母担负起在田地上及家庭中的重担。
+English: Moreover, when a boy grows up and gets married, his parents are relieved by the young couple of the full burden of work on the land and in the house.
+387. [similarity: 5.000] Chinese: 当他们对家庭的贡献超出他们自己的消费时，便已开始赡养父母。虽则由于经济收入归家庭的缘故，他们供给家庭的份额并不明显。
+English: When their contribution to the family exceeds their own consumption, they begin to support their parents, although their share is not apparent owing to the collective economy.
+388. [similarity: 5.000] Chinese: 此外，一个孩子的母亲如果是通过“小媳妇”制度成婚的，则整个母系亲戚群可能就消灭了。
+English: Moreover, for the child of a mother who had been married through the institution of siaosiv, the entire group of mother-side relatives may be eliminated.
+389. [similarity: 5.000] Chinese: 在村中可以看到有两种不同的“表亲”婚姻。
+English: In the village, two kinds of "cross-cousin" marriage can be distinguished.
+390. [similarity: 5.000] Chinese: 就这一点而言，家庭劳务中就产生了一种新的劳动分工。
+English: A new division of labour in the household has been developed in this connection.
+391. [similarity: 5.000] Chinese: 家庭中的这种三角关系使家庭很难保持和睦相处。
+English: With this triangular relation in the house it is often very difficult to maintain harmony.
+392. [similarity: 5.000] Chinese: 另一方面，扩大亲属关系，即使是采取名义领养的方式，在经济上也有重要的意义（第五章第三节）。
+English: On the other hand, the widening of kinship relation, even through such means as pseudo-adoption, has an important economic significance (V–3).
+393. [similarity: 5.000] Chinese: 此外，它使姻亲联系松散，影响亲属结构的正常功能。
+English: Moreover, its effect in loosening ties of affinal relationship, affects the normal working of kinship organization.
+394. [similarity: 5.000] Chinese: 在家中全家团聚的时间是在晚上，全天劳动完毕以后。
+English: In the household the period for domestic gatherings is in the evening when the daily work is over.
+395. [similarity: 5.000] Chinese: 从这一点来说，我们可以看到，像“小媳妇”（第三章第八节）这样的制度，使亲属圈子缩小，最终将产生不利于经济的后果；
+English: In this connection we can see that institutions such as the siaosiv (III–8), which diminish the kinship circle, will in the long run produce unfavourable economic consequences.
+396. [similarity: 5.000] Chinese: 从理论上说，地租原是在土地能在供养耕者之外还有剩余的情形下发生的。可是中国的租佃制度却并不直接建筑在土地生产的剩余上，而间接地建筑在农民兼营的乡村工业上，所以乡土工业崩溃实在打击了中国“地租”的基础，注定了地主阶层的命运。
+English: Since the tenant system in China is not built up on the basis of a surplus of produce from the land but rather ts supported
+by the surplus income derived from rural industries, rural
+ industries really determine the basic rents for land and,
+in fact, the future of the landlord class.
+397. [similarity: 5.000] Chinese: 这样，孩子们的劳动与家庭经济结合了起来。
+English: The children's labour is thus incorporated into the domestic economy.
+398. [similarity: 5.000] Chinese: 人们凭借慷慨相助和尽亲属义务的思想（第十五章第二节）去帮助生活困难的人，使他们的生活标准不致于同公认的标准相差太远。
+English: It is the idea of generosity and kinship obligation in helping relatives (XV– 2), that keeps individuals from sinking too much below the standard.
+399. [similarity: 5.000] Chinese: 另一方面，土地相对较多的农户生养较多的孩子，从而在几代人之后，他们占有土地的面积就将缩小。
+English: On the other hand, the relatively large landholders will raise more children and consequently the size of their holding will be reduced within a few generations.
+400. [similarity: 5.000] Chinese: 对话时的称呼是个人生活中最早使用的一套亲属称呼。
+English: Terms of address are the first set of relationship terms used in individual life.
+401. [similarity: 5.000] Chinese: 时间越长，物品和劳务的转换范围越大，群体中社会纽带亦越强。
+English: The longer the time involved and the more roundabout the transfer of goods and services, the stronger are the social ties in the group.
+402. [similarity: 5.000] Chinese: 在这个村子里，儿女将婚姻大事完全交由父母安排并且服从父母的安排。
+English: In the village, sons and daughters give their parents a free hand in arranging their marriage affairs and will obey accordingly.
+403. [similarity: 5.000] Chinese: 个人不容易意识到在一家的集体生产中的贡献。
+English: The private sense of the production is overshadowed by the collective aspect.
+404. [similarity: 5.000] Chinese: 这种区别可以用亲属称谓举例说明。
+English: This difference may be illustrated by the relationship terms.
+405. [similarity: 5.000] Chinese: 在此种情况下，分家仅意味着是一种经济独立的要求。
+English: In this case it means no more than a demand for economic independence.
+406. [similarity: 5.000] Chinese: 礼仪开支与一生中的重大事件——出生、结婚、死亡——有着密切联系。从经济观点来看，这种开支是一家不可缺少的负担。
+English: Ceremonial expenses connected with the crises of life—birth, marriage, and death—looked at from the economic point of view are indispensable items of liability to the domestic economy.
+407. [similarity: 5.000] Chinese: 家里有了孩子并能工作时，成人就摆脱了这项工作。
+English: But when a child is born and able to work, they are relieved of this work.
+408. [similarity: 5.000] Chinese: 分家以后，儿子获得单独的住房或分得一部分老房屋。
+English: The son, after the process of division, has a separate house or a part of the house.
+409. [similarity: 5.000] Chinese: 男女双方的父母都要以聘礼和嫁妆的名义供给新婚夫妇一套属于个人的礼物，作为家庭财产的核心。
+English: In the marriage, the parents of both bride and bridegroom contribute to the new couple, in terms of marriage gifts and dowry, a set of objects, consisting of personal belongings, as a nucleus of family property.
+410. [similarity: 5.000] Chinese: 也有这样的情况，一个父亲和他儿子居住在一起，家中没有女人。
+English: It may also be the case that a father lives with his son without a woman in the house.
+411. [similarity: 5.000] Chinese: 从各类型所有权的角度看，父母退却的一般规律是从使用产品的权利退到处理产品的权利，最后到处理用具的权利。
+English: From the point of view of types of ownership the general line of retreat of the parents is from the right to use to the right of disposal of the produce and finally to the right of disposal of the objects itself.
+412. [similarity: 5.000] Chinese: 在现实生活中，不论父方还是母方的亲戚，都对孩子很上心。
+English: In actual life, interest is taken in a child by relatives both on the father's and mother's side.
+413. [similarity: 5.000] Chinese: 关于这村里家的规模，有一些定量的数据可以帮助我们进一步开展讨论。
+English: Some quantitative data about the size of the Chia in the village may be helpful for our further discussion.
+414. [similarity: 5.000] Chinese: 我曾观察到，有许多从幼年起就被未来的婆婆带领大的女孩子，十分依附于她的婆婆，就像一个女儿对母亲一样。特别是，如果这家真的没有女儿，情况就更是如此。
+English: The girl brought up from an early age by her future mother-in-law, becomes, as I have observed in many cases, very closely attached to the latter and feels towards her just like a daughter, especially in the frequent cases where there is no real daughter.
+415. [similarity: 5.000] Chinese: 年轻一代供养老人的义务不仅靠法律的力量来维持，而且是靠人的感情来保持的。
+English: The obligation of the young to support the old is maintained not by legal force alone but by human affection.
+416. [similarity: 5.000] Chinese: 当母亲的总和她出嫁的女儿之间存在着一种亲密的关系，而这种亲密的关系往往被她的儿媳所忌恨。
+English: An intimate relation of a mother towards her married daughter is usually jealously resented by her son's wife.
+417. [similarity: 5.000] Chinese: 在经济萧条时期，甚至真正的亲属关系也成为一种负担，那时，亲属关系的组织明显缩小。
+English: During the economic depression, even real kinship relations are a burden, and there is a clear sign of the shrinking of kinship organization.
+418. [similarity: 5.000] Chinese: 但当孩子长大时，父亲作为孩子的纪律教育者，他的作用便逐渐显得重要起来
+English: But when it grows up, the father as a source of discipline becomes more and more important.
+419. [similarity: 5.000] Chinese: 这直接说明了下代对上代的经济义务，甚至延长到老人去世以后。
+English: This indicates directly the prolonged economic obligation of the young towards the old even after death.
+420. [similarity: 5.000] Chinese: 非家成员进入一户，通常采取三种办法。
+English: There are three ways in which non-Chia members may be introduced into a household.
+421. [similarity: 5.000] Chinese: 女人由于有家务在身，还需照顾孩子，因此到城里去的机会比男人少。
+English: The women in the village go to the town less frequently than the men, since they have duties in household work and care of the children.
+422. [similarity: 5.000] Chinese: 但如前所述，家的集体所有权的部分，对这个群体的各个成员并不完全保持同等权利。
+English: But, as mentioned, the collective aspect of ownership of the Chia does not entirely rule out the group.
+423. [similarity: 5.000] Chinese: 积蓄是指村里的经济单位家庭的收入超过支出时的剩余。
+English: Saving is the surplus of income over expenditure in an economic unit, in the village the Chia.
+424. [similarity: 5.000] Chinese: 如果一个媳妇不直接挣钱，她向家长要的钱往往超过实际的开支，把多余的节省下来。
+English: If a daughter-in-law does not earn money directly, she will ask for more than the real cost of the daily commodities and save the surplus.
+425. [similarity: 5.000] Chinese: 庆祝这样一些节日只限于在家人和近亲中进行。
+English: Celebration of such festivals is limited to domestic groups and intimate relatives.
+426. [similarity: 5.000] Chinese: 起源于亲属关系又在对祖先的祭祀中加深的那种情感，也表现在对某块土地的个人依恋上。
+English: The sentiment originating in the kinship relation and reinforced by ancestor worship is manifested also in this personal attachment to the particular plots of land.
+427. [similarity: 5.000] Chinese: 成人控制孩子同物之间的关系，主要是为了孩子的福利或为了防止孩子由于技术不熟练而用坏物品。
+English: The control of the elders over the child in his relation with objects is mainly for the welfare of the child and for preventing damage to the object by the child's unskilful use.
+428. [similarity: 5.000] Chinese: 父母年老，丧失劳动能力时，保留的不动产部分将传给儿子。
+English: The reserved part of the immovable property will be transmitted to the son when the parents are too old to work.
+429. [similarity: 5.000] Chinese: 丈夫和公公白天不在家中，终日外出劳动。
+English: The husband and father-in-law do not spend their whole time in the house, but work outside.
+430. [similarity: 5.000] Chinese: 从妻子对生产过程的贡献来说，她对农产品的权利，应该列在产品分配的项目下。
+English: In so far as the wife has contributed to the process of production, her claim on the farm produce comes under the head of distribution of the product.
+431. [similarity: 5.000] Chinese: 由于称谓的延伸使用，这种感情上的态度也逐渐被用来对待实际上并不处于这样一种亲属关系的人。
+English: These emotional attitudes may, by the extended use of the term, be taken up to persons not actually standing in such an intimate relationship.
+432. [similarity: 5.000] Chinese: 它对妇女的地位、甚至对年轻夫妇建立一个独立的家庭都有不利的影响，因为他们缺少双方父母供给的聘礼和嫁妆。
+English: It is also unfavourable to the status of women and to the possibility of the young couple forming an independent family, since they lack the contribution of their parents in marriage gifts and dowry.
+433. [similarity: 5.000] Chinese: 收入指家庭的全部产品。
+English: Income is the total production of the Chia.
+434. [similarity: 5.000] Chinese: 或者最近的亲属答应赡养领养父母，或者年老的父母领养一个外人，但是允诺把一份财产传给潜在的继承人。
+English: Either the nearest kin will support the adopting parents or the old will adopt an outsider but promise a share to the potential heir in the inheritance.
+435. [similarity: 5.000] Chinese: 遗产的各次相继划分，结果使个人占有土地的界线变得非常复杂。
+English: The boundaries of individual holdings become very complex as the result of successive divisions upon inheritance.
+436. [similarity: 5.000] Chinese: 这些可以由以下的事实来说明：这个村子中有 145 名寡妇，她们不能靠自己的经济来源维持生活，但这并没有形成一个严重的社会问题，因为她们之中的绝大多数都由成年子女赡养。
+English: This is illustrated by the following fact: there are 145 widows in this village who are unable to live on their own resources, but this does not constitute a serious social problem because most of them are supported by their adult children.
+437. [similarity: 5.000] Chinese: 女儿不一定在此之列，但一旦父母死亡，出嫁了的女儿便得迅速赶到。
+English: Daughters are not necessarily among the group but will come promptly after their parent's death.
+438. [similarity: 5.000] Chinese: 这种相对较长期的信贷在分家后的兄弟之间常见。
+English: Such relatively long-term credit is frequently found among brothers after division of the Chia.
+439. [similarity: 5.000] Chinese: 故婆媳之间的纠纷，即使不能完全避免，却常常不是那么尖锐。
+English: Thus the conflict between the mother-in-law and the daughter-in-law is often not so acute, even if not entirely avoided.
+440. [similarity: 5.000] Chinese: 第一，没有文字记载的家谱，对家系的记忆并不准确。
+English: Firstly, there is no written document of genealogy and memory of descent is not very exact.
+441. [similarity: 5.000] Chinese: 例如，父亲的兄弟的儿子这一亲属关系和父亲的父亲的兄弟的儿子的儿子，在口语中都叫Z-ZOSHONDI（自族兄弟——我本族的兄弟），但在书面则分别称TONSON（堂兄）和ZETONSHON（族堂兄）。
+English: for instance, the relationships of father's brother's son and father's father's brother's sons' son are all described in colloquial terms as Z-ZOSHONDI (brothers of my clan) but are distinguished in literary terms as TONSHON and ZETONSHON respectively.
+442. [similarity: 5.000] Chinese: 他在这个环境中学到了母亲一方的亲属称谓，这个环境不同于父亲一方的环境，他在那里学到自己的亲属称谓。
+English: He learns the relationship terms for his mother-side relatives in a context which is different from that in which he learns the terms for his own kindred.
+443. [similarity: 5.000] Chinese: 八、表亲婚姻与“小媳妇”
+English: 〔8〕Cross-Cousin Marriage and Siaosiv
+444. [similarity: 5.000] Chinese: 我们见到一例。这是普遍都接受的制度，而且在民法中已有法定条文。
+English: It is a generally accepted institution and has been legalized in the civil code.
+445. [similarity: 5.000] Chinese: 虽然不能认为频繁的土地划分就是农田不相邻的起源，但这种划分确实加大了土地的分散程度。
+English: Although the frequency of land division cannot be taken as the origin of this, it definitely intensifies the scattering of holdings.
+446. [similarity: 5.000] Chinese: 二、母系亲属关系的扩展
+English: 〔2〕Maternal Extension
+447. [similarity: 5.000] Chinese: 这时孩子的祖母、父亲的姐妹，孩子的姐姐以及父亲兄弟的妻子将代替母亲担任起照看孩子的功能。
+English: The child's grandmother, father's sister, own elder sister, and wives of father's brothers are candidates to take up the mother's function.
+448. [similarity: 5.000] Chinese: 姻亲关系是松散的，在许多情况下它已经消失了。
+English: Affinal relation is very loose, and in many cases is entirely eliminated.
+449. [similarity: 5.000] Chinese: 它也是这个家的家产。
+English: It is the family property within the Chia.
+450. [similarity: 5.000] Chinese: 她可以逃奔到城里去，在那里找些事干来维持生活，直到有可能和家庭慢慢达成和解。
+English: She may run away to the town, where she can find a job to maintain herself until a compromise becomes possible.
+451. [similarity: 5.000] Chinese: 对一个有一名老年妇女、两个成人和一个儿童的普通家庭而言，所需米的总量为33蒲式耳。
+English: For an average household, including an old woman, two adults, and a child, the total amount will be thirty-two bushels.
+452. [similarity: 5.000] Chinese: 男孩长大后便与父亲并肩劳动，终于，甚至在成婚前已比他父亲担任更多的工作。
+English: As the boy grows older, he works side by side with his father and eventually undertakes more work than his father, even before he gets married.
+453. [similarity: 5.000] Chinese: 但却不能像在自己娘家那样自由自在。
+English: But she cannot behave there freely as in her own parents' house.
+454. [similarity: 5.000] Chinese: 只有家长才能决定购买农具、肥料，添置新的土地或房屋。
+English: It is he who determines the buying of implements and fertilizer, or the acquisition of new land or a new house.
+455. [similarity: 5.000] Chinese: 这是收入者本人和家长都会感觉到的。
+English: This sense is shared by both parties, the owner herself and the head of the Chia.
+456. [similarity: 5.000] Chinese: 谈论自己的婚姻，被认为是不适当的和羞耻的。
+English: It is considered as improper and shameful to talk about one's own marriage.
+457. [similarity: 5.000] Chinese: 这说明传统的劳动分工是出于实践的安排，而不是由于非经验的原因。
+English: This shows that the traditional division of labour, orginating as a part of economic adjustment, is a practical arrangement and is not due to any non-empirical cause.
+458. [similarity: 5.000] Chinese: 它承认女儿甚至出嫁后，仍像她兄弟一样是她父母的后嗣（第967条）。
+English: It recognizes the daughter, even after marriage, as being as much a descendant of her parents as were her brothers (Article 967).
+459. [similarity: 5.000] Chinese: 父母去世后，已婚的兄弟之间则自动分家。
+English: But the division between married brothers is automatic when their parents are dead.
+460. [similarity: 5.000] Chinese: 另一方面，当婆婆的由于害怕面临这种可能性，因而她通常还不敢把媳妇逼到这种地步，以免激起她自己都十分害怕的后果。
+English: Moreover, since the mother-in-law has to face this possibility, she will usually not drive the daughter-in-law so far as to provoke the result she so much fears.
+461. [similarity: 5.000] Chinese: 对此类财产的分配或多或少是按照死者或其丈夫（或妻子）的意愿，他们有权决定对遗物的处理。
+English: The division of these types of property is subject more or less to the personal will of the deceased or her husband (or his wife) who has the right to decide the disposal of what is left.
+462. [similarity: 5.000] Chinese: 财产由儿子继承，他的责任是赡养其父母。
+English: Property is inherited by the son whose obligation it is to support the old.
+463. [similarity: 5.000] Chinese: 父子之间或兄弟之间分财产时，舅舅是正式的裁判。
+English: When property is divided between father and son or among brothers, the maternal uncle is the formal judge.
+464. [similarity: 5.000] Chinese: 职业分化程度小，这使社区内部市场非常狭窄，
+English: The small degree of occupational differentiation in the community has made the internal market very narrow.
+465. [similarity: 5.000] Chinese: 在村里，出去找新职业的大多数是女青年，她们在这个社区里尚未进入一个固定的社会位置。
+English: In the village, those who go out to find new occupation are mostly young girls who have not yet entered into a fixed social place in the community.
+466. [similarity: 5.000] Chinese: 这些职能对地方社区来说不完全是新的。其中许多项早已由传统的、事实上的群体所实施。
+English: These functions are not altogether new to the local community, most of them having been carried out by various traditional de facto groups.
+467. [similarity: 5.000] Chinese: 一个已婚的妇女则将她收入的一部分留作她自己的积蓄。
+English: A married woman will keep a part of her earnings as her own savings.
+468. [similarity: 5.000] Chinese: 因此，要有子女的愿望是出于双重的动机：
+English: Thus the desire to have children is backed up by a two-fold motive:
+469. [similarity: 5.000] Chinese: 有许多例妻子的年龄大于丈夫。
+English: There are many cases where the wife is older than the husband.
+470. [similarity: 5.000] Chinese: 他将同老一代协商决定分给儿子的那份财产。
+English: He will negotiate with the old to decide the share to be allotted to the son.
+471. [similarity: 5.000] Chinese: 长子接受两份，额外归他的那份一般比较小。
+English: The eldest son receives two shares, the extra share being a small one.
+472. [similarity: 5.000] Chinese: 在礼节性聚会时，可以排除那些远的亲戚，他们也不会坚持要求受邀请。
+English: One can exclude those distant kin in ceremonial gatherings and they will not insist on their claim to be invited.
+473. [similarity: 5.000] Chinese: 我们想的是继续在家里进行这种劳动。
+English: We tried to keep the work in the household.
+474. [similarity: 5.000] Chinese: 孩子常常和她在一起，她也有义务教育孩子。
+English: She also has the obligation to teach her child, who is constantly attached to her.
+475. [similarity: 4.000] Chinese: 分家的过程也就是父母将财产传递给下一代的最重要的步骤之一。
+English: The process of division is one of the most important steps in the transmission of property from the parents to the child.
+476. [similarity: 4.000] Chinese: 我们所考虑的普通的家是由四个人组成：一位老年妇女、一位成年男子、一位成年妇女和一个小孩。这四个人是九亩土地的完全所有者。
+English: The average Chia under consideration consists of four individuals: an old woman, an adult man, an adult woman, and a child, who are full owners of a holding of nine mow of land.
+477. [similarity: 4.000] Chinese: 从成婚率和人们关心的程度来看，传统的婚姻仍然是主要的制度。
+English: Traditional marriage is still the predominant institution, both in frequency of occurrence and in the regard of the people.
+478. [similarity: 4.000] Chinese: 在大一些的社会群体中有同类的交换。例如扩大的亲属关系群体和邻里群体。
+English: A similar type of exchange is found in larger social groups such as extended kinship groups and neighbourhood groups.
+479. [similarity: 4.000] Chinese: 这也为孩子提供了一种较新的社会联系。在前面已谈到过，那些多子女的父母，无论他们是否真正具有精神上的强大力量，他们比较富裕，社会影响大，这是肯定的（第三章第三节）。
+English: It also provides a wider social connection for the child, if we remember that those who have numerous children, whether they really possess spiritual power or not, certainly possess wealth and social influence (III–3).
+480. [similarity: 4.000] Chinese: 实际使用的称谓，其数目取决于亲属关系群体的大小。
+English: The number of terms actually used depends on the size of the kinship groups.
+481. [similarity: 4.000] Chinese: 大家聚集起来，家庭间的联系得到了加强，感情也更加融洽。
+English: In this gathering the family bonds are strengthened and an intimate feeling develops.
+482. [similarity: 4.000] Chinese: 所以真正的意义在于通过象征性的亲属关系称谓和礼仪形式来建立一种新的与亲属关系相似的社会关系。
+English: The real meaning therefore is to create a new social relation similar to kinship by metaphorical use of relationship terms and by ritual acts.
+483. [similarity: 4.000] Chinese: 上代亲属的社会关系区别较少，从称谓的融合来看也反映了这一点。
+English: The less differentiation in social relation with the relatives of higher grade also reflects in the fusion of terminology.
+484. [similarity: 4.000] Chinese: 在中国，地方群体之间的相互依存，是非常密切的，在经济生活中尤为如此。
+English: The inter-dependence of territorial groups, especially in economic life, is very close in China.
+485. [similarity: 4.000] Chinese: 此种互相帮助的关系，并不严格地限制在十户人家之中，它更多地取决于个人之间的密切关系，而不是按照正式规定。
+English: Such relations of mutual help are not rigidly confined to ten households, they depend more on personal intimacy than formal prescriptions.
+486. [similarity: 4.000] Chinese: 父母的一份将足以供给他俩日常生活及女儿出嫁、小儿子成婚所需的费用。
+English: The share reserved for the parents will be sufficient to provide for their daily life as well as the marriage expenses of the second son and the daughter;
+487. [similarity: 4.000] Chinese: 大群体的形成取决于居住在一个较广区域里的人的共同利益。
+English: The formation of larger groups depends on the common interests of those who live in a wider territory.
+488. [similarity: 4.000] Chinese: 女孩子过了 12 岁，一般都耽在家中，和母亲共同操持家务和缫丝，不再和孩子们在一起了。
+English: Girls above twelve generally stay at home with their mothers and are engaged in household work and silk reeling, keeping apart from the children's group.
+489. [similarity: 4.000] Chinese: 它们被用来表示某人身份或对某物享有某种权利，表达说话人对亲属的感情和态度，总之是说话人对亲属的部分行为。
+English: They are used for pragmatic purposes in establishing claims, in expressing affectional attitudes and, in short, as a part of the behaviour of the speaker towards his relatives.
+490. [similarity: 4.000] Chinese: 族的最重要的功能在于控制婚姻规则。
+English: The most important function of the Tsu is in the regulation of marriage.
+491. [similarity: 4.000] Chinese: 所以可以认为，一个村子里的居民有许多不同的姓，说明了这个村里有许多不同的父系亲属群体。
+English: Thus multiplicity of surnames in the village can be taken as an indication of their multiplicity of patrilineal kinship groups.
+492. [similarity: 4.000] Chinese: 这就是说，把一切都记作一笔笼统的账，结果，在欠债人或债权人的脑海中对借贷来作生产用途或家庭用途的钱无所区别。他们不明白：用于生产的钱最后应该产生利润并足以偿还利息，家庭开支在没有意外的不幸事故的情况下，应能以收入偿付。”
+English: Everything goes down, so to speak, in a common account, with the result that there is no discrimination in the mind of either debtor or creditor between the borrowing and advancing of money for productive purposes, which should yield a return sufficient to meet the interest, and household expenses which ought, in the absence of exceptional misfortune, to be met out of income."
+493. [similarity: 4.000] Chinese: 孩子从母亲处分开，就会使家中的亲密关系发生新的安排。
+English: The separation of the child from its mother rearranges the intimate relation in the Chia.
+494. [similarity: 4.000] Chinese: 孩子大一些以后，父亲对孩子的影响就增加了。
+English: As the child grows, the father's influence over the child increases.
+495. [similarity: 4.000] Chinese: 全家人都围着桌子坐着，只有主妇在厨房里忙着给大家端饭。
+English: All the members of the household sit around the same table, except the woman who is busy in the kitchen and serves the table.
+496. [similarity: 4.000] Chinese: 经过协议，女儿的丈夫也可以在自己的姓名前加上他妻子的姓，他们的孩子则接续母亲的家系。
+English: By agreement, a daughter's husband may add his wife's surname to his own and their children will carry their mother's line.
+497. [similarity: 4.000] Chinese: 第二类亲属是孩子母亲方面的亲属，他们通常住在邻近的村子里。
+English: The second group of relatives come from the child's mother's kindred who usually live in some neighbouring village.
+498. [similarity: 4.000] Chinese: 相反，它们是家庭生活中发生争吵和不满的最常见的原因，并且往往发生一种出于妒忌而坚持不下的局面。
+English: On the contrary, they are among the most frequent causes of disputes and dissatisfactions in domestic life and are jealously upheld.
+499. [similarity: 4.000] Chinese: 社会关系的扩展促使社会活动增加，但也会增加开支。
+English: The extension of social relations facilitates social activities but is also expensive.
+500. [similarity: 4.000] Chinese: 支出则包括家庭的成员用于消费、用于完成社会义务和用于生产而由自家生产或从市场购买的全部物品。
+English: Expenditure includes all the goods, produced by the unit or purchased on the market, used by the members for consumption, for fulfilment of social obligation and for production.
+
+Chinese text to translate:
+---
+第四组：中西的家（第六章“家族”）（2310字）
+①我想在这里提出来讨论的是我们乡土社会中的基本社群，这社群普通被称为“大家庭”的。我在《江村经济》中把它称作“扩大了的家庭”（Expanded Family）。这些名词的主体是“家庭”，在家庭上加一个小或大的形容词来说明中国和西洋性质上相同的“家庭”形式上的分别。可是我现在看来却觉得这并不妥当，比较确当的应该称中国乡土社会基本社群作“小家族”。
+②我提出这新名词来的原因是在想从结构的原则上去说明中西社会里“家”的区别。我们普通所谓大家庭和小家庭的差别决不是在大小上，不是在这社群所包括的人数上，而是在结构上。一个有十多个孩子的家并不构成“大家庭”的条件，一个只有公婆儿媳四个人的家却不能称之为“小家庭”。在数目上说，前者比后者为多，但在结构上说，后者却比前者为复杂，两者所用的原则不同。
+③家庭这概念在人类学上有明确的界说：这是个亲子所构成的生育社群。亲子指它的结构，生育指它的功能。亲子是双系的，兼指父母双方；子女限于配偶所出生的孩子。这社群的结合是为了子女的生和育。在由个人来担负孩子生育任务的社会里，这种社群是不会少的。但是生育的功能，就每个个别的家庭说，是短期的，孩子们长成了也就脱离了他们的父母的抚育，去经营他们自己的生育儿女的事务，一代又一代。家庭这社群因之是暂时性的。从这方面说，家庭这社群和普通的社群不完全一样。学校、国家这些社群并不是暂时，虽则事实上也不是永久的，但是都不是临时性的，因为它们所具的功能是长期性的。家庭既以生育为它的功能，在开始时就得准备结束。抚育孩子的目的就在结束抚育。关于这一层意思我在《生育制度》一书中有详细的讨论。
+④但是在任何文化中，家庭这社群总是赋有生育之外其他的功能。夫妇之间的合作并不因儿女长成而结束。如果家庭不变质，限于亲子所构成的社群，在它形成伊始，以及儿女长成之后，有一段期间只是夫妇的结合。夫妇之间固然经营着经济的、感情的、两性的合作，但是所经营的事务受着很大的限制，凡是需要较多人合作的事务就得由其他社群来经营了。
+⑤在西洋，家庭是团体性的社群，这一点我在上面已经说明有严格的团体界限。因为这缘故，这个社群能经营的事务也很少，主要的是生育儿女。可是在中国乡土社会中，家并没有严格的团体界限，这社群里的分子可以依需要，沿亲属差序向外扩大。构成这个我所谓社圈的分子并不限于亲子。但是在结构上扩大的路线却有限制。中国的家扩大的路线是单系的，就是只包括父系这一方面；除了少数例外，家并不能同时包括媳妇和女婿。在父系原则下女婿和结了婚的女儿都是外家人。在父亲方面却可以扩大得很远，五世同堂的家，可以包括五代之内所有父系方面的亲属。
+⑥这种根据单系亲属原则所组成的社群，在人类学中有个专门名称，叫氏族。我们的家在结构上是一个氏族。但是和普通我们所谓族也不完全相同，因为我们所谓族是由许多家所组成，是一个社群的社群。因之，我在这里提了这个“小家族”的名词。小家族和大家族在结构原则上是相同的，不相同是在数量、在大小上。——这是我不愿用大家庭，而用小家族的原因。一字的相差，却说明了这社群的结构性质。
+⑦家族在结构上包括家庭，最小的家族也可以等于家庭。因为亲属的结构的基础是亲子关系，父母子的三角。家族是从家庭基础上推出来的。但是包括在家族中的家庭只是社会圈子中的一轮，不能说它不存在，但也不能说它自成一个独立的单位，不是一个团体。
+⑧形态上的差异，也引起了性质上的变化。家族虽则包括生育的功能，但不限于生育的功能。依人类学上的说法，氏族是一个事业组织，再扩大就可以成为一个部落。氏族和部落赋有政治、经济、宗教等复杂的功能。我们的家也正是这样。我的假设是中国乡土社会采取了差序格局，利用亲属的伦常去组合社群，经营各种事业，使这基本的家，变成氏族性了。一方面我们可以说在中国乡土社会中，不论政治、经济、宗教等功能都可以利用家族来担负；另一方面也可以说，为了要经营这许多事业，家的结构不能限于亲子的小组合，必须加以扩大。而且凡是政治、经济、宗教等事物都需要长期绵续性的，这个基本社群决不能像西洋的家庭一般是临时的。家必须是绵续的，不因个人的长成而分裂，不因个人的死亡而结束，于是家的性质变成了族。氏族本是长期的，和我们的家一般。称我们这种社群作小家族，也表示了这种长期性在内，和家庭的临时性相对照。
+⑨中国的家是一个事业组织，家的大小是依着事业的大小而决定。如果事业小，夫妇两人的合作已够应付，这个家也可以小得等于家庭；如果事业大，超过了夫妇两人所能担负时，兄弟伯叔全可以集合在一个大家里。这说明了我们乡土社会中家的大小变异可以很甚。但不论大小上差别到什么程度，结构原则上却是一贯的、单系的差序格局。
+⑩以生育社群来担负其他很多的功能，使这社群中各分子的关系的内容也发生了变化。在西洋家庭团体中夫妇是主轴，夫妇共同经营生育事务，子女在这团体中是配角，他们长成了就离开这团体。在他们，政治、经济、宗教等功能有其他团体来担负，不在家庭的分内。夫妇成为主轴，两性之间的感情是凝合的力量。两性感情的发展，使他们的家庭成了获取生活上安慰的中心。我在《美国人性格》一书中曾用“生活堡垒”一词去形容它。
+⑾在我们的乡土社会中，家的性质在这方面有着显著的差别。我们的家既是个绵续性的事业社群，它的主轴是在父子之间，在婆媳之间，是纵的，不是横的。夫妇成了配轴。配轴虽则和主轴一样并不是临时性的，但是这两轴却都被事业的需要而排斥了普通的感情。我所谓普通的感情是和纪律相对照的。一切事业都不能脱离效率的考虑。求效率就得讲纪律；纪律排斥私情的宽容。在中国的家庭里有家法，在夫妇间得相敬，女子有着“三从四德”的标准，亲子间讲究负责和服从。这些都是事业社群里的特色。
+---
+Using the reference translations above for terminology and style, provide the best English translation of the Chinese text.

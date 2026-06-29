@@ -1,0 +1,44 @@
+{
+  "source_file": "/Users/wangxiaoliang/dev/myprojects/rag-project/rag-translation/data/sensitive_test_top_k20similarity0.5_llm_rerank_prompt.txt",
+  "output_file": "/Users/wangxiaoliang/dev/myprojects/rag-project/rag-translation/data/sensitive_test_top_k20similarity0.5_llm_rerank_prompt_20260513_143458/sensitive_test_top_k20similarity0.5_llm_rerank_prompt_response.txt",
+  "request_params": {
+    "model": "gpt-5.5",
+    "input": "Reference translations (from glossary):\n1. [similarity: 10.000] Chinese: 使得家的各个成员联系起来的基本纽带便是亲属关系。但亲属关系并不把它自己只限制在这个群体之内。\nEnglish: Kinship is the fundamental bond uniting the members of the Chia, but it does not confine itself within this group.\n2. [similarity: 10.000] Chinese: 父母与子女、夫与妻这两种关系是家庭组织的基本轴心。\nEnglish: The parent-child and the husband-wife relations are two fundamental axes in the family organization.\n3. [similarity: 10.000] Chinese: 农村中的基本社会群体就是家，一个扩大的家庭。\nEnglish: The basic social group in the village is the Chia, an expanded family.\n4. [similarity: 10.000] Chinese: “家庭”这个名词，人类学家普遍使用时，是指一个包括父母及未成年子女的生育单位。\nEnglish: The term family, as commonly used by anthropologists, refers to the procreative unit consisting of parents and immature children.\n5. [similarity: 9.000] Chinese: 它扩展到一个较广的范围，并成为较大社会群体的联系原则。\nEnglish: It extends to a much wider circle and forms the principle of association of larger social groups which will be the subject-matter of this chapter.\n6. [similarity: 9.000] Chinese: 但这种互助会的核心总是亲属关系群体。\nEnglish: But the nucleus of such a society is always the kinship group.\n7. [similarity: 9.000] Chinese: 家庭的作用就是把一个没有独立生活能力的婴儿抚养成为社会中的一名完全的成员。\nEnglish: It is the function of the family to bring up a dependent infant to become a full member of the community.\n8. [similarity: 8.000] Chinese: 村中更大的社会群体是由若干家根据多种不同目的基于亲属、地域等关系组成的。\nEnglish: Larger social groups in the village are formed by combining a number of Chia for various purposes and along kinship or territorial principles.\n9. [similarity: 8.000] Chinese: 尽管大部分对中国的研究强调中国大家庭制度的重要性，但非常奇怪，在这个村里，大家庭很少。\nEnglish: In spite of the fact that most studies of China have stressed the importance of the large-family system in China, curiously enough, in this village a large-family is rare.\n10. [similarity: 8.000] Chinese: 家是由亲属纽带结合在一起的，在经济生活中，它并不必定是一个有效的劳动单位。\nEnglish: The Chia, held together by kinship ties, is not necessarily an efficient working unit in economic life.\n11. [similarity: 8.000] Chinese: 就现有材料看，可以说，这个村里的家是一个小的亲属群体，以一个家庭为核心，并包含有几个依靠他们的亲属。\nEnglish: For the present material, it can be said that in the village here described, the Chia is a small kinship group consisting of a family as its nucleus and several dependent relatives.\n12. [similarity: 8.000] Chinese: 中国人所说的“家”，基本上也是一个家庭，但它包括的子女有时甚至已成年或已婚。\nEnglish: A Chia is essentially a family but it sometimes includes children even when they have grown and married.\n13. [similarity: 8.000] Chinese: 为了履行多种社会职能，各户聚合在一起形成较大的地域群体。\nEnglish: For various social functions, households are associated together to form larger local groups.\n14. [similarity: 7.000] Chinese: 设计这制度的人却忽略了一点，政治是生活的一部分，政治单位必须根据生活单位。生活上互相依赖的单位的性质和范围却受着很多自然的、历史的和社会的条件所决定。我们绝不能硬派一个人进入一个家庭来凑足一定的数目。\nEnglish: The pao-chia system has certain defects which make it unsuited to a democratic system of representation. According to pao-chia, the people were to be organized, with slight variations, in uniform numerical groups. But such units did not necessarily coincide with actual social groups. The size of a community is determined by historical and social forces; we cannot add members to a family or to a local community and have them fit in.\n15. [similarity: 7.000] Chinese: 每一代用同一主干定名，垂直分裂成两组，年长的和年轻的，然后在这个‘家庭’（父母子女这个团体）的称谓前加修饰词以此表示它不同于其他‘家庭’；其他‘家庭’又根据其与这个‘家庭’的亲疏加以区别。\nEnglish: Each generation is designated by the same stem, vertically split into two groups of older and younger, and then the family group is distinguished, by using modifications of the terms, from the other groups which are again differentiated according to their closeness to the family group.\n16. [similarity: 7.000] Chinese: 因此，家的规模大小是由两股对立的力量的平衡决定的：一股要结合在一起的力量，另一股要分散的力量。\nEnglish: The size of the group is, therefore, maintained by the balance of the opposing forces working for integration on the one hand and for disintegration on the other.\n17. [similarity: 6.000] Chinese: 除了亲属关系的联结，另外一个基本的社会纽带就是地域性的纽带。\nEnglish: Beside kinship bonds, another fundamental social tie is that of territorial bonds.\n18. [similarity: 6.000] Chinese: 这并不意味着权利和义务的相互关系的概念、贡献和享受对等的概念不存在于亲近的社会群体中。\nEnglish: This does not mean that the ideas of reciprocity in privilege and obligation, and of equivalence in contribution and share do not exist in the intimate social groups.\n19. [similarity: 6.000] Chinese: 由于村庄是各户密集在一起的聚居区，村和村之间都间隔着相当的距离，这就使它在直接扩大地域联系以实现多种功能方面受到了限制。\nEnglish: The village, being an aggregate of households in a compact residential area, separated from other similar units by a considerable distance, sets a limitation on the direct extension of territorial ties for various functions.\n20. [similarity: 6.000] Chinese: 他们虽然有各自的房子和财产，但仍然有社会纽带把他们联系起来，照顾彼此的福利。\nEnglish: Although they may have separate houses and properties, they are still bound by social ties to look after each other's welfare.\n\nChinese text to translate:\n---\n1. 西洋的社会有些像我们在田里捆柴，几根稻草束成一把，几把束成一扎，几扎束成一捆，几捆束成一挑。\n2. 在中国，这句话是含糊得很。\n3. 这个网络像个蜘蛛的网，有一个中心，就是自己。\n4. “公民”的观念不能不先有个“国家”。\n5. 生活相倚赖的一群人不能单独地、零散地在山林里求生。\n6. 宪法观念是和西洋公务观念相配合的。\n7. 这社群的结合是为了子女的生和育。\n8. 在父亲方面却可以扩大得很远，五世同堂的家，可以包括五代之内所有父系方面的亲属。\n9. 夫妇成为主轴，两性之间的感情是凝合的力量。\n10. 我在《美国人性格》一书中曾用“生活堡垒”一词去形容它。\n11. “家里的”可以指自己的太太一个人；“家门”可以指伯叔侄子一大批；“自家人”可以包罗任何要拉入自己的圈子，表示亲热的人物。自家人的范围是因时因地可伸缩的，大到数不清，真是天下可成一家。\n12. 中国乡土社会的基层机构是一种我所谓“差序格局”，是一个“一根根私人联系所构成的网络”。这种格局和现代西洋的“团体格局”是不同的。\n13. 可是我现在看来却觉得这并不妥当，比较确当的应该称中国乡土社会基本社群作“小家族”。\n14. 家族在结构上包括家庭，最小的家族也可以等于家庭。因为亲属的结构的基础是亲子关系，父母子的三角。\n15. 依人类学上的说法，氏族是一个事业组织，再扩大就可以成为一个部落。\n16. 我的假设是中国乡土社会采取了差序格局，利用亲属的伦常去组合社群，经营各种事业，使这基本的家，变成氏族性了。\n17. 中国的家是一个事业组织，家的大小是依着事业的大小而决定。\n18. 我们的家既是个绵续性的事业社群，它的主轴是在父子之间，在婆媳之间，是纵的，不是横的。\n19. 我用这譬喻是在想具体一些使我们看到社会生活中人和人的关系的一种格局。我们不妨称之作团体格局。\n20. 现代的保甲制度是团体格局性的，但是这和传统的结构却格格不相入。\n21. 从生育和婚姻所结成的网络，可以一直推出去包括无穷的人，过去的、现在的和未来的人物。我们俗语里有“一表三千里”，就是这个意思，其实三千里者也不过指其广袤的意思而已。\n22. 我们在亲属体系里都有父母，可是我的父母却不是你的父母。再进一步说，天下没有两个人所认取的亲属可以完全相同的。兄弟两人固然有相同的父母了，但是各人有各人的妻子儿女。\n23. 这和我们的亲属圈子一般的。像贾家的大观园里，可以住着姑表林黛玉、姨表薛宝钗，后来更多了，什么宝琴、岫烟，凡是拉得上亲戚的，都包容得下。可是势力一变，树倒猢狲散，缩成一小团。\n24. 以“己”为中心，像石子一般投入水中，和别人所联系成的社会关系，不像团体中的分子一般大家立在一个平面上的，而是像水的波纹一般，一圈圈推出去，愈推愈远，也愈推愈薄。\n25. 伦重在分别，在《礼记·祭统》里所讲的十伦，鬼神、君臣、父子、贵贱、亲疏、爵赏、夫妇、政事、长幼、上下，都是指差等。“不失其伦”是在别父子、远近、亲疏。伦是有差等的次序。\n26. “本立而道生”，“其为人也孝悌，而好犯上者鲜矣，不好犯上而好作乱者，未之有也”。从己到家，由家到国，由国到天下，是一条通路。《中庸》里把五伦作为“天下之达道”。\n27. 团体是个超于个人的“实在”，不是有形的东西。我们不能具体地拿出一个有形体的东西来说这是团体。它是一束人和人的关系，是一个控制各个人行为的力量，是一种组成分子生活所倚赖的对象，是先于任何个人而又不能脱离个人的共同意志……\n28. “代理者”Minister是团体格局的社会中一个基本的概念。执行上帝意志的牧师是Minister，执行团体权力的官吏也是Minister，都是“代理者”，而不是神或团体的本身。这上帝和牧师、国家和政府的分别是不容混淆的。\n29. 从己向外推以构成的社会范围是一根根私人联系，每根绳子被一种道德要素维持着。社会范围是从“己”推出去的，而推的过程里有着各种路线，最基本的是亲属：亲子和同胞，相配的道德要素是孝和悌。\n30. 亲子是双系的，兼指父母双方；子女限于配偶所出生的孩子。这社群的结合是为了子女的生和育。在由个人来担负孩子生育任务的社会里，这种社群是不会少的。\n---\nUsing the reference translations above for terminology and style, provide the best English translation of the Chinese text.\n"
+  },
+  "response_metadata": {
+    "response_id": "resp_bGl0ZWxsbTpjdXN0b21fbGxtX3Byb3ZpZGVyOm9wZW5haTttb2RlbF9pZDpOb25lO3Jlc3BvbnNlX2lkOnJlc3BfMGZjZmZiYWU2NWYxY2M3NTAxNmEwNDZmZjJiZmM0ODFhM2FmYjYyMzVkYjhmZjA0NjQ=",
+    "model": "gpt-5.5-2026-04-23",
+    "created_at": 1778675698.0,
+    "status": "completed",
+    "effective_params": {
+      "temperature": 1.0,
+      "top_p": 0.98,
+      "max_output_tokens": null,
+      "service_tier": "default",
+      "truncation": "disabled",
+      "parallel_tool_calls": true,
+      "reasoning": {
+        "effort": "medium",
+        "generate_summary": null,
+        "summary": null
+      },
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      }
+    },
+    "usage": {
+      "input_tokens": 2963,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 2017,
+      "output_tokens_details": {
+        "reasoning_tokens": 516
+      },
+      "total_tokens": 4980
+    }
+  }
+}

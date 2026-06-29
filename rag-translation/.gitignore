@@ -1,0 +1,4 @@
+**/rag_index_storage
+__pycache__
+**/.DS_Store
+**/.venv

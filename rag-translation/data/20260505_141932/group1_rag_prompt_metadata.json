@@ -1,0 +1,44 @@
+{
+  "source_file": "/Users/wangxiaoliang/dev/myprojects/rag-project/rag-translation/data/group1_rag_prompt.txt",
+  "output_file": "/Users/wangxiaoliang/dev/myprojects/rag-project/rag-translation/data/20260505_141932/group1_rag_prompt_response.txt",
+  "request_params": {
+    "model": "gpt-5.5",
+    "input": "Reference translations (from glossary):\n1. [similarity: 0.624] Chinese: 我觉得，我们对于城乡关系问题的讨论，已经到了对这有关的双方——城和乡——的性质在概念上应当作更进一步加以详细检讨的时候了。记得我最初写《乡村·市镇·都会》的那篇短文中，就已感觉到应当把我们通常归入“城”的一类的社区，加以分别成“市镇”和“都会”两种形式，我那时的看法多少带了一点历史的观点，就是把没有受到现代工业影响的“城”和由于现代工业的发生而出现的“城”分开来说，前者称之作“市镇”，后者称之作“都会”。半年多以来，参考了许多朋友们的讨论，我已觉得这种分类还不够；不够的意思是说，依这分类，每个形式中还有值得再加以分类的“次形”。换一句话说，在原来所分出的形式中，还包括若干在某些方面性质相异的社区。当我们讨论时，如果不在概念上有清楚的规定，很容易因为用同一名词指着不同对象而发生混淆。我在本文中，想对于“城”这一类社区加以分析，希望能有助于今后的讨论。\nEnglish: Having discussed the place of the gentry in the political structure of China, I now turn to their place in the economic order. But, in order to understand this, we must first make clear the difference in form between rural and urban communities and the nature of the economic and other relationships which hold them together.\n2. [similarity: 0.613] Chinese: 家中每一个人在桌旁都有一定的位置。按家庭的亲缘顺序。\nEnglish: At the table they have definite positions, following the kinship order of the family.\n3. [similarity: 0.609] Chinese: 使得家的各个成员联系起来的基本纽带便是亲属关系。但亲属关系并不把它自己只限制在这个群体之内。\nEnglish: Kinship is the fundamental bond uniting the members of the Chia, but it does not confine itself within this group.\n4. [similarity: 0.608] Chinese: 村中更大的社会群体是由若干家根据多种不同目的基于亲属、地域等关系组成的。\nEnglish: Larger social groups in the village are formed by combining a number of Chia for various purposes and along kinship or territorial principles.\n5. [similarity: 0.603] Chinese: 本文中想特别提出城和镇的两个概念来，目的是想指出这两种性质上不完全相同的社区，它们和乡村的关系也有差别。这里所指的城，那种以官僚地主为基础的社区，对于乡村偏重于统治和剥削的关系；而那种我称作镇的社区，因为是偏重于乡村间的商业中心，在经济上是有助于乡村的。\n最后让我补一笔，在很多事例中，城镇可能是合一的，我在本文中，因为注重于社区的分类，所以着眼于比较单纯的事例，两种形式的混合是不免的，但是为了分析的方便，我们在概念上最好能分开来。如果我们要分析现实的社区，还得增加一个概念就是“都会”。我在本文里不能对这一个概念多加说明，只能简单地说，它是以现代工商业为基础的人口密集的社区。但是中国的都会性质上也不能完全和西洋的都会相比，因为它主要的经济基础是殖民地性质的。它可以说是西洋都会的附庸。关于这一方面，我想留到以后再分析了。\nEnglish: But even though these two types of towns do tend to overlap and are sometimes even combined into one community, it seems worth while to try to differentiate them conceptually, the garrison town as the seat of traditional bureaucratic authority and the wealthy gentry, the market town as a link between the peasants’ local industry and more highly developed commerce and manufacturing.\n6. [similarity: 0.603] Chinese: 每一代用同一主干定名，垂直分裂成两组，年长的和年轻的，然后在这个‘家庭’（父母子女这个团体）的称谓前加修饰词以此表示它不同于其他‘家庭’；其他‘家庭’又根据其与这个‘家庭’的亲疏加以区别。\nEnglish: Each generation is designated by the same stem, vertically split into two groups of older and younger, and then the family group is distinguished, by using modifications of the terms, from the other groups which are again differentiated according to their closeness to the family group.\n7. [similarity: 0.603] Chinese: 家是由亲属纽带结合在一起的，在经济生活中，它并不必定是一个有效的劳动单位。\nEnglish: The Chia, held together by kinship ties, is not necessarily an efficient working unit in economic life.\n8. [similarity: 0.600] Chinese: 在一个兄弟平均继承土地的社会中，一个农家经历了几代就可以长成一个小小的同姓村落。如果这地方的四围还有可以开垦的土地，这种村落也可以继续长大。\nEnglish: Where, as in China, brothers inherit their father’s land equally, all tend to remain together upon the land. If there is any free land near by, the family may spread out, and in the course of several generations a clan village may be developed.\n9. [similarity: 0.595] Chinese: 但这种互助会的核心总是亲属关系群体。\nEnglish: But the nucleus of such a society is always the kinship group.\n10. [similarity: 0.595] Chinese: 这个根就是供给他生长资料，供给他教育文化的社会：小之一家一村，大之一乡一国。\nEnglish: For man the roots are the society from which he gets his material well-being and his education; they are the family, the village, the region, and the nation.\n\n\nChinese text to translate:\n---\n第一组：中西社会关系（第四章“差序格局”）（1720字）\n①西洋的社会有些像我们在田里捆柴，几根稻草束成一把，几把束成一扎，几扎束成一捆，几捆束成一挑。每一根柴在整个挑里都属于一定的捆、扎、把。每一根柴也可以找到同把、同扎、同捆的柴，分扎得清楚不会乱的。在社会，这些单位就是团体。我说西洋社会组织像捆柴就是想指明：他们常常由若干人组成一个个的团体。团体是有一定界限的，谁是团体里的人，谁是团体外的人，不能模糊，一定分得清楚。在团体里的人是一伙，对于团体的关系是相同的，如果同一团体中有组别或等级的分别，那也是先规定的。我用捆柴来比拟，有一点不太合，就是一个人可以参加好几个团体，而好几扎柴里都有某一根柴当然是不可能的，这是人和柴不同的地方。我用这譬喻是在想具体一些使我们看到社会生活中人和人的关系的一种格局。我们不妨称之作团体格局。\n②家庭在西洋是一种界限分明的团体。如果有一位朋友写信给你说他将要“带了他的家庭”一起来看你，他很知道要和他一同来的是哪几个人。在中国，这句话是含糊得很。在英美，家庭包括他和他的妻以及未成年的孩子。如果他只和他太太一起来，就不会用“家庭”。在我们中国“阖第光临”虽则常见，但是很少人能说得出这个“第”字究竟应当包括些什么人。\n③提到了我们的用字，这个“家”字可以说最能伸缩自如了。“家里的”可以指自己的太太一个人；“家门”可以指伯叔侄子一大批；“自家人”可以包罗任何要拉入自己的圈子，表示亲热的人物。自家人的范围是因时因地可伸缩的，大到数不清，真是天下可成一家。\n④为什么我们这个最基本的社会单位的名词会这样不清不楚呢？在我看来却表示了我们的社会结构本身和西洋的格局是不相同的，我们的格局不是一捆一捆扎清楚的柴，而是好像把一块石头丢在水面上所发生的一圈圈推出去的波纹。每个人都是他社会影响所推出去的圈子的中心。被圈子的波纹所推及的就发生联系。每个人在某一时间某一地点所动用的圈子是不一定相同的。\n⑤我们社会中最重要的亲属关系就是这种丢石头形成同心圆波纹的性质。亲属关系是根据生育和婚姻事实所发生的社会关系。从生育和婚姻所结成的网络，可以一直推出去包括无穷的人，过去的、现在的和未来的人物。我们俗语里有“一表三千里”，就是这个意思，其实三千里者也不过指其广袤的意思而已。这个网络像个蜘蛛的网，有一个中心，就是自己。我们每个人都有这么一个以亲属关系布出去的网，但是没有一个网所罩住的人是相同的。在一个社会里的人可以用同一个体系来记认他们的亲属，所同的只是这体系罢了。体系是抽象的格局，或是范畴性的有关概念。当我们用这体系来认取具体的亲亲戚戚时，各人所认的就不同了。我们在亲属体系里都有父母，可是我的父母却不是你的父母。再进一步说，天下没有两个人所认取的亲属可以完全相同的。兄弟两人固然有相同的父母了，但是各人有各人的妻子儿女。因之，以亲属关系所联系成的社会关系的网络来说，是个别的。每一个网络有个“己”作为中心，各个网络的中心都不同。\n⑥在我们乡土社会里，不但亲属关系如此，地缘关系也是如此。现代的保甲制度是团体格局性的，但是这和传统的结构却格格不相入。在传统结构中，每一家以自己的地位作中心，周围划出一个圈子，这个圈子是“街坊”。有喜事要请酒，生了孩子要送红蛋，有丧事要出来助殓、抬棺材，是生活上的互助机构。可是这不是一个固定的团体，而是一个范围。范围的大小也要依着中心的势力厚薄而定。有势力的人家的街坊可以遍及全村，穷苦人家的街坊只是比邻的两三家。这和我们的亲属圈子一般的。像贾家的大观园里，可以住着姑表林黛玉、姨表薛宝钗，后来更多了，什么宝琴、岫烟，凡是拉得上亲戚的，都包容得下。可是势力一变，树倒猢狲散，缩成一小团。到极端时，可以像苏秦潦倒归来，“妻不以为夫，嫂不以为叔”。中国传统结构中的差序格局具有这种伸缩能力。在乡下，家庭可以很小，而一到有钱的地主和官僚阶层，可以大到像个小国。中国人也特别对世态炎凉有感触，正因为这富于伸缩的社会圈子会因中心势力的变化而大小。\n⑦在孩子成年了住在家里都得给父母膳宿费的西洋社会里，大家承认团体的界限。在团体里的有一定的资格。资格取消了就得走出这个团体。在他们不是人情冷热的问题，而是权利问题。在西洋社会里争的是权，而在我们却是攀关系、讲交情。\n---\n\nUsing the reference translations above for terminology and style, provide the best English translation of the Chinese text.\n"
+  },
+  "response_metadata": {
+    "response_id": "resp_bGl0ZWxsbTpjdXN0b21fbGxtX3Byb3ZpZGVyOm9wZW5haTttb2RlbF9pZDpOb25lO3Jlc3BvbnNlX2lkOnJlc3BfMDY4OWZlNmVlOGVhYjE5NjAxNjlmOWUwYzZkZWY4ODE5NzlkYTViM2E2MGU4YWY5M2M=",
+    "model": "gpt-5.5-2026-04-23",
+    "created_at": 1777983686.0,
+    "status": "completed",
+    "effective_params": {
+      "temperature": 1.0,
+      "top_p": 0.98,
+      "max_output_tokens": null,
+      "service_tier": "default",
+      "truncation": "disabled",
+      "parallel_tool_calls": true,
+      "reasoning": {
+        "effort": "medium",
+        "generate_summary": null,
+        "summary": null
+      },
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      }
+    },
+    "usage": {
+      "input_tokens": 2806,
+      "input_tokens_details": {
+        "cached_tokens": 2304
+      },
+      "output_tokens": 2046,
+      "output_tokens_details": {
+        "reasoning_tokens": 516
+      },
+      "total_tokens": 4852
+    }
+  }
+}

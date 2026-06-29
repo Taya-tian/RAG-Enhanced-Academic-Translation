@@ -1,0 +1,41 @@
+Reference translations (from glossary):
+1. [similarity: 0.597] Chinese: 这并不意味着权利和义务的相互关系的概念、贡献和享受对等的概念不存在于亲近的社会群体中。
+English: This does not mean that the ideas of reciprocity in privilege and obligation, and of equivalence in contribution and share do not exist in the intimate social groups.
+2. [similarity: 0.594] Chinese: 这个脱节可真脱得严重，也是发生那流落在西洋和传统文化之外，流落在生产事业之外的倚赖权势为生的阶层，中国悲剧中的主角和导演。
+English: This lack of foundation creates a special class of people who live superficially in Western culture but without a traditional base from either the West or the East. These are both the victims and the directors of China's tragedy.
+3. [similarity: 0.583] Chinese: 我觉得，我们对于城乡关系问题的讨论，已经到了对这有关的双方——城和乡——的性质在概念上应当作更进一步加以详细检讨的时候了。记得我最初写《乡村·市镇·都会》的那篇短文中，就已感觉到应当把我们通常归入“城”的一类的社区，加以分别成“市镇”和“都会”两种形式，我那时的看法多少带了一点历史的观点，就是把没有受到现代工业影响的“城”和由于现代工业的发生而出现的“城”分开来说，前者称之作“市镇”，后者称之作“都会”。半年多以来，参考了许多朋友们的讨论，我已觉得这种分类还不够；不够的意思是说，依这分类，每个形式中还有值得再加以分类的“次形”。换一句话说，在原来所分出的形式中，还包括若干在某些方面性质相异的社区。当我们讨论时，如果不在概念上有清楚的规定，很容易因为用同一名词指着不同对象而发生混淆。我在本文中，想对于“城”这一类社区加以分析，希望能有助于今后的讨论。
+English: Having discussed the place of the gentry in the political structure of China, I now turn to their place in the economic order. But, in order to understand this, we must first make clear the difference in form between rural and urban communities and the nature of the economic and other relationships which hold them together.
+4. [similarity: 0.580] Chinese: 这些是地方的公务，在中国的传统（依旧活着的传统）里是并非政府的事务，而是由人民自理的。
+English: In China such things are local community affairs, and, according to the tradition still preserved, they are not an affair of government but are managed by the local community under the leadership of the better-educated and wealthier family heads. Practical affairs such as might come up in dealing with irrigation, for example, might be dealt with by nonscholarly responsible individuals, but the more scholarly would generally have greater prestige in the making of decisions.
+5. [similarity: 0.580] Chinese: 四、自治团体是由当地人民具体需要中发生的，而且享受着地方人民所授予的权力，不受中央干涉。于是人民对于“天高皇帝远”的中央权力极少接触，履行了有限的义务后，可以鼓腹而歌，帝力于我何有哉！
+English: (5) The self-governing organization so called arose from the practical needs of the community. The power of this group was not derived from the central imperial power but came from the local people themselves. When the central authority collected only a limited amount of taxes and of conscripts,
+the people would be likely to feel that ‘‘Heaven is high,
+the emperor is far away.”’
+6. [similarity: 0.577] Chinese: 当村领导人的基础在于，不论他们代表社区面向外界时，或是他们在领导社区的事务中，都能得到公众的承认和支持。
+English: The basis of the headmanship lies in public recognition and support in the leadership in community affairs, and in being the representative of the community against the outside world.
+7. [similarity: 0.577] Chinese: 本文中想特别提出城和镇的两个概念来，目的是想指出这两种性质上不完全相同的社区，它们和乡村的关系也有差别。这里所指的城，那种以官僚地主为基础的社区，对于乡村偏重于统治和剥削的关系；而那种我称作镇的社区，因为是偏重于乡村间的商业中心，在经济上是有助于乡村的。
+最后让我补一笔，在很多事例中，城镇可能是合一的，我在本文中，因为注重于社区的分类，所以着眼于比较单纯的事例，两种形式的混合是不免的，但是为了分析的方便，我们在概念上最好能分开来。如果我们要分析现实的社区，还得增加一个概念就是“都会”。我在本文里不能对这一个概念多加说明，只能简单地说，它是以现代工商业为基础的人口密集的社区。但是中国的都会性质上也不能完全和西洋的都会相比，因为它主要的经济基础是殖民地性质的。它可以说是西洋都会的附庸。关于这一方面，我想留到以后再分析了。
+English: But even though these two types of towns do tend to overlap and are sometimes even combined into one community, it seems worth while to try to differentiate them conceptually, the garrison town as the seat of traditional bureaucratic authority and the wealthy gentry, the market town as a link between the peasants’ local industry and more highly developed commerce and manufacturing.
+8. [similarity: 0.576] Chinese: 这个根就是供给他生长资料，供给他教育文化的社会：小之一家一村，大之一乡一国。
+English: For man the roots are the society from which he gets his material well-being and his education; they are the family, the village, the region, and the nation.
+9. [similarity: 0.574] Chinese: 人们凭借慷慨相助和尽亲属义务的思想（第十五章第二节）去帮助生活困难的人，使他们的生活标准不致于同公认的标准相差太远。
+English: It is the idea of generosity and kinship obligation in helping relatives (XV– 2), that keeps individuals from sinking too much below the standard.
+10. [similarity: 0.570] Chinese: 互相帮助的真正的社会义务则在更小的群体内进行，例如刚分家的兄弟。
+English: Real social obligations of mutual aid exist between smaller groups, such as brothers with newly divided households.
+
+
+Chinese text to translate:
+---
+第三组：中西社会结构不同引起的道德观念（第五章“维系着私人的道德”）（1950字）
+①中国乡土社会的基层机构是一种我所谓“差序格局”，是一个“一根根私人联系所构成的网络”。这种格局和现代西洋的“团体格局”是不同的。在团体格局里个人间的联系靠着一个共同的架子；先有了这架子，每个人结上这架子，而互相发生关联。“公民”的观念不能不先有个“国家”。这种结构很可能是从初民民族的“部落”形态中传下来的。部落形态在游牧经济中很显著的是“团体格局”的。生活相倚赖的一群人不能单独地、零散地在山林里求生。在他们，“团体”是生活的前提。可是在一个安居的乡土社会，每个人可以在土地上自食其力地生活时，只在偶然的和临时的非常状态中才感觉到伙伴的需要。在他们，和别人发生关系是后起和次要的，而且他们在不同的场合下需要着不同程度的结合，并不显著地需要一个经常的和广被的团体。因之他们的社会采取了“差序格局”。
+②社会结构格局的差别引起了不同的道德观念。道德观念是在社会里生活的人自觉应当遵守社会行为规范的信念。它包括着行为规范、行为者的信念和社会的制裁。它的内容是人和人关系的行为规范，是依着该社会的格局而决定的。从社会观点说，道德是社会对个人行为的制裁力，使他们合于规定下的形式行事，用以维持该社会的生存和绵续。
+③在“团体格局”中，道德的基本观念建筑在团体和个人的关系上。团体是个超于个人的“实在”，不是有形的东西。我们不能具体地拿出一个有形体的东西来说这是团体。它是一束人和人的关系，是一个控制各个人行为的力量，是一种组成分子生活所倚赖的对象，是先于任何个人而又不能脱离个人的共同意志……这种“实在”只能用有形的东西去象征它、表示它。在“团体格局”的社会中才发生笼罩万有的神的观念。团体对个人的关系就象征在神对于信徒的关系中，是个有赏罚的裁判者，是个公正的维持者，是个全能的保护者。
+④我们如果要了解西洋的“团体格局”社会中的道德体系，决不能离开他们的宗教观念的。宗教的虔诚和信赖不但是他们道德观念的来源，而且是支持行为规范的力量，是团体的象征。在象征着团体的神的观念下，有着两个重要的派生观念：一是每个个人在神前的平等；一是神对每个个人的公道。
+⑤耶稣称神是父亲，是个和每一个人共同的父亲，他甚至当着众人的面否认了生育他的父母。为了要贯彻这“平等”，基督教的神话中，耶稣是童贞女所生的。亲子间个别的和私人的联系在这里被否定了。其实这并不是“无稽之谈”，而是有力的象征，象征着“公有”的团体，团体的代表——神，必须是无私的。每个“人子”，耶稣所象征的“团体构成分子”，在私有的父亲外必须有一个更重要的与人相共的是“天父”，就是团体。——这样每个个人人格上的平等才能确立，每个团体分子和团体的关系是相等的。团体不能为任何个人所私有。在这基础上才发生美国《独立宣言》中开宗明义的话：“全人类生来都平等，他们都有天赋不可夺的权利。”
+⑥可是上帝是在冥冥之中，正象征团体无形的实在；但是在执行团体的意志时，还得有人来代理。“代理者”Minister是团体格局的社会中一个基本的概念。执行上帝意志的牧师是Minister，执行团体权力的官吏也是Minister，都是“代理者”，而不是神或团体的本身。这上帝和牧师、国家和政府的分别是不容混淆的。在基督教历史里，人们一度再度地要求直接和上帝交通，反抗“代理者”不能真正代理上帝的意旨。同样的，实际上是相通的，也可以说是一贯的，美国《独立宣言》可以接下去说：“人类为了保障这些权利，所以才组织政府，政府的适当力量，须由受治者的同意中产生出来；假如任何种政体有害于这些目标，人民即有改革或废除任何政体之权。这些真理，我们认为是不证自明的。”
+⑦神对每个个人是公道的，是一视同仁的，是爱的；如果代理者违反了这些“不证自明的真理”，代理者就失去了代理的资格。团体格局的道德体系中于是发生了权利的观念。人对人得互相尊重权利，团体对个人也必须保障这些个人的权利，防止团体代理人滥用权力，于是发生了宪法。宪法观念是和西洋公务观念相配合的。国家可以要求人民的服务，但是国家也得保证不侵害人民的权利，在公道和爱护的范围内行使权力。
+⑧我说了不少关于“团体格局”中道德体系的话，目的是在陪衬出“差序格局”中道德体系的特点来。从它们的差别上看去，很多地方是刚刚相反的。在以自己作中心的社会关系网络中，最主要的自然是“克己复礼”，“壹是皆以修身为本”。——这是差序格局中道德体系的出发点。
+⑨从己向外推以构成的社会范围是一根根私人联系，每根绳子被一种道德要素维持着。社会范围是从“己”推出去的，而推的过程里有着各种路线，最基本的是亲属：亲子和同胞，相配的道德要素是孝和悌。“孝悌也者其为仁之本欤。”向另一路线推是朋友，相配的是忠信。“为人谋而不忠乎，与朋友交而不信乎？”“主忠信，无友不如己者。”孔子曾总结说：“弟子入则孝，出则悌，谨而信，泛爱众，而亲仁。”
+---
+
+Using the reference translations above for terminology and style, provide the best English translation of the Chinese text.

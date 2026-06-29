@@ -1,0 +1,44 @@
+{
+  "source_file": "/Users/wangxiaoliang/dev/myprojects/rag-project/rag-translation/data/group2_rag_prompt.txt",
+  "output_file": "/Users/wangxiaoliang/dev/myprojects/rag-project/rag-translation/data/20260505_131601/group2_rag_prompt_response.txt",
+  "request_params": {
+    "model": "gpt-5.5",
+    "input": "Reference translations (from glossary):\n1. [similarity: 0.582] Chinese: 在研究社会制度之间的功能关系时，研究变迁的顺序是特别有意义的。\nEnglish: The sequence of change is of special interest for studying the functional relations between social institutions.\n2. [similarity: 0.578] Chinese: 这个脱节可真脱得严重，也是发生那流落在西洋和传统文化之外，流落在生产事业之外的倚赖权势为生的阶层，中国悲剧中的主角和导演。\nEnglish: This lack of foundation creates a special class of people who live superficially in Western culture but without a traditional base from either the West or the East. These are both the victims and the directors of China's tragedy.\n3. [similarity: 0.568] Chinese: 困难在于社会制度是由人际关系构成的，只有通过一致行动才能改变它，而一致行动不是一下子就组织得起来的。\nEnglish: The difficulty lies in the fact that since a social institution consists of human relations, it can be changed only through concerted actions which cannot readily be organized.\n4. [similarity: 0.565] Chinese: 他们和自己在社会关系方面没有区别。\nEnglish: No difference in social relation with ego is found between them.\n5. [similarity: 0.560] Chinese: 就是中国政治中极重要的人物——绅士。绅士可以从一切社会关系：亲戚、同乡、同年等等，把压力透到上层，一直可以到皇帝本人。\nEnglish: (4) The mechanism of bringing influences to bear from the bottom upward was worked through the informal pressure of the gentry upon their relatives in office and out or upon friends who had taken the same examinations. By this means influence could be brought to bear sometimes even upon the emperor himself.\n6. [similarity: 0.558] Chinese: 然而中国社会组织的新变化，如族的部分瓦解、母系亲属的日益重要、妇女社会地位的变化等，正如对吴江情况分析中所显示的，已经形成了一种变化的趋向，这些是过去的理论家所未预见到的，同时也是在已编纂的书面称谓系统中找不到的。\nEnglish: However, new changes in the Chinese social organization, such as the partial disintegration of the clan organization, the growing importance of the mother clan, and the change of the social status of the females, as shown in the analysis of the Wukiang system, has resulted in a direction of change which was not foreseen by the old theorists and is not to be found in the codified written system.\n7. [similarity: 0.556] Chinese: 设计这制度的人却忽略了一点，政治是生活的一部分，政治单位必须根据生活单位。生活上互相依赖的单位的性质和范围却受着很多自然的、历史的和社会的条件所决定。我们绝不能硬派一个人进入一个家庭来凑足一定的数目。\nEnglish: The pao-chia system has certain defects which make it unsuited to a democratic system of representation. According to pao-chia, the people were to be organized, with slight variations, in uniform numerical groups. But such units did not necessarily coincide with actual social groups. The size of a community is determined by historical and social forces; we cannot add members to a family or to a local community and have them fit in.\n8. [similarity: 0.554] Chinese: 人们凭借慷慨相助和尽亲属义务的思想（第十五章第二节）去帮助生活困难的人，使他们的生活标准不致于同公认的标准相差太远。\nEnglish: It is the idea of generosity and kinship obligation in helping relatives (XV– 2), that keeps individuals from sinking too much below the standard.\n9. [similarity: 0.553] Chinese: 这表明他们很不愿意把自己的行动自由驯服于社会性的限制，这种限制是社会强加于他们的。\nEnglish: It shows their unwillingness to submit their personal freedom of action to the social restriction which is imposed on them in society.\n10. [similarity: 0.552] Chinese: 一、中国传统政治结构是有着中央集权和地方自治的两层。\nEnglish: (1) In the traditional Chinese power structure there were two different layers: on the top, the central government; at the bottom, the local governing unit whose leaders were the gentry class.\n\n\nChinese text to translate:\n---\n第二组：中西自我主义与个人主义（第四章“差序格局”）（1420字）\n①以“己”为中心，像石子一般投入水中，和别人所联系成的社会关系，不像团体中的分子一般大家立在一个平面上的，而是像水的波纹一般，一圈圈推出去，愈推愈远，也愈推愈薄。在这里我们遇到了中国社会结构的基本特性了。我们儒家最考究的是人伦，伦是什么呢？我的解释就是从自己推出去的和自己发生社会关系的那一群人里所发生的一轮轮波纹的差序。《释名》于“沦”字下也说：“伦也，水文相次有伦理也。”潘光旦先生曾说：凡是有“仑”作公分母的意义都相通，“共同表示的是条理、类别、秩序的一番意思”（见潘光旦《说伦字》，《社会研究》第十九期）。\n②伦重在分别，在《礼记·祭统》里所讲的十伦，鬼神、君臣、父子、贵贱、亲疏、爵赏、夫妇、政事、长幼、上下，都是指差等。“不失其伦”是在别父子、远近、亲疏。伦是有差等的次序。在我们现在读来，鬼神、君臣、父子、夫妇等具体的社会关系，怎能和贵贱、亲疏、远近、上下等抽象的相对地位相提并论？其实在我们传统的社会结构里最基本的概念，这个人和人往来所构成的网络中的纲纪，就是一个差序，也就是伦。《礼记·大传》里说：“亲亲也，尊尊也，长长也，男女有别，此其不可得与民变革者也。”意思是这个社会结构的架格是不能变的，变的只是利用这架格所做的事。\n③孔子最注重的就是水纹波浪向外扩张的“推”字。他先承认一个己，推己及人的己，对于这己，得加以克服于礼，克己就是修身。顺着这同心圆的伦常，就可向外推了。“本立而道生”，“其为人也孝悌，而好犯上者鲜矣，不好犯上而好作乱者，未之有也”。从己到家，由家到国，由国到天下，是一条通路。《中庸》里把五伦作为“天下之达道”。因为在这种社会结构里，从己到天下是一圈一圈推出去的，所以孟子说他“善推而已矣”。\n④在这种富于伸缩性的网络里，随时随地是有一个“己”作中心的。这并不是个人主义，而是自我主义。个人是对团体而说的，是分子对团体。在个人主义下，一方面是平等观念，指在同一团体中各分子的地位相等，个人不能侵犯大家的权利；一方面是宪法观念，指团体不能抹煞个人，只能在个人所愿意交出的一份权利上控制个人。这些观念必须先假定了团体的存在。在我们中国传统思想里是没有这一套的，因为我们所有的是自我主义，一切价值是以“己”作为中心的主义。\n⑤自我主义并不限于拔一毛而利天下不为的杨朱，连儒家都该包括在内。杨朱和孔子不同的是杨朱忽略了自我主义的相对性和伸缩性，他太死心眼儿，一口咬了一个自己不放；孔子是会推己及人的，可是尽管放之于四海，中心还是在自己。子曰：“为政以德，譬如北辰，居其所，而众星拱之。”这是很好一个差序格局的譬喻，自己总是中心，像四季不移的北斗星，所有其他的人，随着他转动。孔子并不像耶稣，耶稣是有超于个人的团体的，他有他的天国，所以他可以牺牲自己去成全天国。孔子呢？不然。\n⑥子贡曰：“如有博施于民，而能济众，何如？可谓仁乎？”子曰：“何事于仁，必也圣乎！尧舜其犹病诸？夫仁者，己欲立而立人，己欲达而达人，能近取譬，可谓仁之方也已。”\n⑦孔子的道德系统里绝不肯离开差序格局的中心，“君子求诸己，小人求诸人”。因之，他不能像耶稣一样普爱天下，甚至而爱他的仇敌，还要为杀死他的人求上帝的饶赦——这些不是从自我中心出发的。孔子呢？或曰：“以德报怨，何如？”子曰：“何以报德？以直报怨，以德报德。”这是差序层次，孔子是决不放松的。孔子并不像杨朱一般以小己来应付一切情境，他把这道德范围依着需要而推广或缩小。他不像耶稣或中国的墨翟，一放不能收。\n---\n\nUsing the reference translations above for terminology and style, provide the best English translation of the Chinese text.\n"
+  },
+  "response_metadata": {
+    "response_id": "resp_bGl0ZWxsbTpjdXN0b21fbGxtX3Byb3ZpZGVyOm9wZW5haTttb2RlbF9pZDpOb25lO3Jlc3BvbnNlX2lkOnJlc3BfMDVjYzBiZjVmZTEwZmFhNTAxNjlmOWQyMDNmMGE4ODE5Njk4NmE2ZWRiOGI2MDFmYTY=",
+    "model": "gpt-5.5-2026-04-23",
+    "created_at": 1777979908.0,
+    "status": "completed",
+    "effective_params": {
+      "temperature": 1.0,
+      "top_p": 0.98,
+      "max_output_tokens": null,
+      "service_tier": "default",
+      "truncation": "disabled",
+      "parallel_tool_calls": true,
+      "reasoning": {
+        "effort": "medium",
+        "generate_summary": null,
+        "summary": null
+      },
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      }
+    },
+    "usage": {
+      "input_tokens": 2262,
+      "input_tokens_details": {
+        "cached_tokens": 1792
+      },
+      "output_tokens": 1764,
+      "output_tokens_details": {
+        "reasoning_tokens": 251
+      },
+      "total_tokens": 4026
+    }
+  }
+}

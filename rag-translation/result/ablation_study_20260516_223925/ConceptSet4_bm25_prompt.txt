@@ -1,0 +1,231 @@
+Reference translations (from glossary):
+1. [similarity: 946.818] Chinese: 本文中想特别提出城和镇的两个概念来，目的是想指出这两种性质上不完全相同的社区，它们和乡村的关系也有差别。这里所指的城，那种以官僚地主为基础的社区，对于乡村偏重于统治和剥削的关系；而那种我称作镇的社区，因为是偏重于乡村间的商业中心，在经济上是有助于乡村的。
+最后让我补一笔，在很多事例中，城镇可能是合一的，我在本文中，因为注重于社区的分类，所以着眼于比较单纯的事例，两种形式的混合是不免的，但是为了分析的方便，我们在概念上最好能分开来。如果我们要分析现实的社区，还得增加一个概念就是“都会”。我在本文里不能对这一个概念多加说明，只能简单地说，它是以现代工商业为基础的人口密集的社区。但是中国的都会性质上也不能完全和西洋的都会相比，因为它主要的经济基础是殖民地性质的。它可以说是西洋都会的附庸。关于这一方面，我想留到以后再分析了。
+English: But even though these two types of towns do tend to overlap and are sometimes even combined into one community, it seems worth while to try to differentiate them conceptually, the garrison town as the seat of traditional bureaucratic authority and the wealthy gentry, the market town as a link between the peasants’ local industry and more highly developed commerce and manufacturing.
+2. [similarity: 797.942] Chinese: 我觉得，我们对于城乡关系问题的讨论，已经到了对这有关的双方——城和乡——的性质在概念上应当作更进一步加以详细检讨的时候了。记得我最初写《乡村·市镇·都会》的那篇短文中，就已感觉到应当把我们通常归入“城”的一类的社区，加以分别成“市镇”和“都会”两种形式，我那时的看法多少带了一点历史的观点，就是把没有受到现代工业影响的“城”和由于现代工业的发生而出现的“城”分开来说，前者称之作“市镇”，后者称之作“都会”。半年多以来，参考了许多朋友们的讨论，我已觉得这种分类还不够；不够的意思是说，依这分类，每个形式中还有值得再加以分类的“次形”。换一句话说，在原来所分出的形式中，还包括若干在某些方面性质相异的社区。当我们讨论时，如果不在概念上有清楚的规定，很容易因为用同一名词指着不同对象而发生混淆。我在本文中，想对于“城”这一类社区加以分析，希望能有助于今后的讨论。
+English: Having discussed the place of the gentry in the political structure of China, I now turn to their place in the economic order. But, in order to understand this, we must first make clear the difference in form between rural and urban communities and the nature of the economic and other relationships which hold them together. Five types of concentration of population may be recognized: the village, the walled or garrison town, the temporary market, the market town, and the treaty port.
+3. [similarity: 745.524] Chinese: 这假定当然是堂皇的，但是比了传统任何皇权的自信还大。从这假定中发生的中央和地方合一的保甲制度发生了许多事实上的困难了。
+English: But practical difficulties arose at once as the result of the new
+system.
+4. [similarity: 743.969] Chinese: 农村中的基本社会群体就是家，一个扩大的家庭。
+English: The basic social group in the village is the Chia, an expanded family.
+5. [similarity: 737.080] Chinese: 家是一个未分家的、扩大的父系亲属群体，它不包括母亲方面的亲戚和已出嫁的女儿。
+English: The Chia is an undivided expanded patrilineal family, because it excludes the relatives on the mother's side and also married daughters.
+6. [similarity: 736.487] Chinese: 这种假设是由以下的事实来证明的，即进行婚配的地区与从事某种家庭工业的地区是相同的，而这地区的蚕丝业对女孩子的需求也是相同的。
+English: Such an assumption is justified by the fact that the marriage area is identical with the industrial area, and that the silk industry in this area makes identical demands upon girls.
+7. [similarity: 733.311] Chinese: 家是由亲属纽带结合在一起的，在经济生活中，它并不必定是一个有效的劳动单位。
+English: The Chia, held together by kinship ties, is not necessarily an efficient working unit in economic life.
+8. [similarity: 731.958] Chinese: 就现有材料看，可以说，这个村里的家是一个小的亲属群体，以一个家庭为核心，并包含有几个依靠他们的亲属。
+English: For the present material, it can be said that in the village here described, the Chia is a small kinship group consisting of a family as its nucleus and several dependent relatives.
+9. [similarity: 731.390] Chinese: 舅姨家的亲属是不属于这个功能群体之内的。
+English: Their extended kindred is excluded from the functional grouping.
+10. [similarity: 722.889] Chinese: 中国人所说的“家”，基本上也是一个家庭，但它包括的子女有时甚至已成年或已婚。
+English: A Chia is essentially a family but it sometimes includes children even when they have grown and married.
+11. [similarity: 715.281] Chinese: 设计这制度的人却忽略了一点，政治是生活的一部分，政治单位必须根据生活单位。生活上互相依赖的单位的性质和范围却受着很多自然的、历史的和社会的条件所决定。我们绝不能硬派一个人进入一个家庭来凑足一定的数目。
+English: The pao-chia system has certain defects which make it unsuited to a democratic system of representation. According to pao-chia, the people were to be organized, with slight variations, in uniform numerical groups. But such units did not necessarily coincide with actual social groups. The size of a community is determined by historical and social forces; we cannot add members to a family or to a local community and have them fit in.
+12. [similarity: 714.568] Chinese: 这两个过程是总的过程的两个方面，这就是社会职能逐代的继替。虽然在生物学上一代代的个体是要死亡的，但社会的连续性却由此得到了保证。
+English: These two processes are actually two phases of a general process, that is, the transmission of social functions from one generation to the other—whereby social continuity is secured in spite of biological discontinuity.
+13. [similarity: 707.457] Chinese: 之所以称它是一个扩大了的家庭，是因为儿子在结婚之后并不和他们的父母分居，因而把家庭扩大了。
+English: We can call it an expanded family, because it is an expansion of a family due to the reluctance of the sons to separate from their parents after marriage.
+14. [similarity: 707.171] Chinese: 并不是出于耕种技术上经济的需要，而是出于社会的需要，主要的是亲属的联系和安全的保卫。
+English: Two factors, the kinship organization and the need for mutual protection, are important in particular in bringing this about.
+15. [similarity: 699.668] Chinese: 在这群体中，基本的情况是合作的。
+English: In the group, co-operation is essential.
+16. [similarity: 697.599] Chinese: 但在中国所谓的“家”中，前者的关系似乎更为重要。
+English: But in the Chia the former seems more important.
+17. [similarity: 693.616] Chinese: 有趣的是我们发现在这一点上，改革者的行动与他们的目的不那么一致。
+English: It is interesting to note that in this respect the reformers were inconsistent in their aims.
+18. [similarity: 687.501] Chinese: 像我在以往几篇讨论中的假定一般，我想在以往传统的环境中，我们中国是有一套足以使大多数人民能过得去的办法的。
+English: In the traditional organization of society it appears we had a system under which most of the people could manage to live.
+19. [similarity: 686.287] Chinese: 损蚀作用中所带走的还有选择：最早离乡的多少是自动的，在经济地位上说是较富的，在教育程度上说是较优秀的。
+English: In the process of social erosion, at first only the top layers are carried away, those economically well-to-do and better educated who no longer choose to remain.
+20. [similarity: 685.483] Chinese: 这一类多少是自给的生活单位的聚居，不论人数有多少，在性质上并不能构成我们普通所谓“城”。“城”的形成必须是功能上的区位分化，那就是说，有一个赋予某种特殊社区功能的中心区。换句话说，为了功能分化而发生的集中形式。
+English: Whatever the variation in form and whatever the size, as an assemblage of self-sufficient units, without a differentiation of function or division of labor among its members, we may recognize it as a village or rural community rather than as a town or urban center. The village, then, may be seen as one type of organization. The towns of China, on the other hand, are not all of one type but vary according to their function.
+21. [similarity: 684.998] Chinese: 在乡土性的地方自足的经济时代，这超于地方性的权力没有积极加以动用的需要。这不但在中国如此，在西洋也如此。
+English: But in economically self-sufficient communities it is not necessary to employ authority beyond that found in the local community.
+22. [similarity: 684.471] Chinese: 不幸的是我们的经济和政治却处于次殖民地的地位，大规模的工业化并不可能。
+English: Unfortunately China is still in the status of a semicolony. Large-scale industrial development is not feasible.
+23. [similarity: 677.848] Chinese: 的确可以争辩说，在中国政治结合的过程中，用一个合理的和统一的结构来代替参差不齐的传统结构，看起来比较理想。
+English: It could indeed be argued that in the process of political integration in China it was desirable to substitute for the heterogenous traditional structure a rational and uniform structure.
+24. [similarity: 676.413] Chinese: 但毫无疑问的是，妻子的不忠实始终是家庭中发生争吵的一个因素。
+English: But unfaithfulness of a wife is undoubtedly a factor for domestic conflict.
+25. [similarity: 673.613] Chinese: 我在本文开始时提出TVA是有用意的。念过李林塞尔那本书的，可以说上面的理论在美国也并不完全正确。
+English: I mentioned above Lilienthal’s work. From what he says I suspect that this principle is not alway true for America either.
+26. [similarity: 670.357] Chinese: 一、家，扩大的家庭
+English: 〔1〕Chia as an Expanded Family
+27. [similarity: 666.763] Chinese: 社会的一个完全的成员，需要一定数量属于他自己支配的财物，同时一个家庭的正常功能需要较丰富的物质基础。
+English: A full member of the community needs a certain amount of property under his own disposal and a normal functioning of a family requires a larger material basis;
+28. [similarity: 664.636] Chinese: 我们的根本目的是明确的，这就是满足每个中国人共同的基本需要。
+English: The fundamental end is evident; it is the satisfaction of the basic requirements common to every Chinese.
+29. [similarity: 662.336] Chinese: 因此，家的规模大小是由两股对立的力量的平衡决定的：一股要结合在一起的力量，另一股要分散的力量。
+English: The size of the group is, therefore, maintained by the balance of the opposing forces working for integration on the one hand and for disintegration on the other.
+30. [similarity: 661.162] Chinese: 如果这条桥不能造就，现代的教育，从乡土社会论，是悬空了的，不切实的。
+English: Without such a bridge, modern knowledge is ineffectually hanging in the air.
+31. [similarity: 660.176] Chinese: 可是传统的工业却并不集中在都市里，而分散在无数的乡村里，所以是乡土工业。各地依它的土产加工制造成消费品，日积月累，各种工业都有著名的地域。中国早年出口的生丝最有名的叫辑里丝，查海关报告还有这英文译音；辑里丝是太湖附近很小一个区域里出的丝，居然成了个中国出口生丝的别名。其他如龙井的茶，景德的瓷器，高阳的布，都属此类。
+English: These necessities were not produced in large-scale manufactories, to be sure, but were scattered throughout numerous villages. Besides the specialized products of certain regions, such as the raw silk known to the English as tsatlee, which came from a small district near Lake Tai, the tea of Lung Ching, and the china of Ching-te-chen, widespread rural industries, such as cotton-spinning, were carried on by many farm families very largely within the home.
+32. [similarity: 659.187] Chinese: 大致的观点是：这些祖宗的鬼魂生活在一个和我们非常相像的社会中，但在经济方面他们部分地依靠子孙所作的奉献，这就是定时地烧纸钱、纸衣服和其他纸扎的模拟品。
+English: The general view is that the spirits live in a world very similar to ours, but that economically they are partially dependent on the contributions of their descendents which are made by periodically burning paper money, paper clothes, and paper articles.
+33. [similarity: 659.117] Chinese: 族这个单位的另一个特征是：它的成员是家。
+English: Another character of this unit is that its membership is the Chia.
+34. [similarity: 658.886] Chinese: 为了维持正常生活所必需的一定数量的食物，或多或少是恒定的，因此它在家庭生活中成为一个相对恒定的项目。
+English: The amount of food that is necessary in order to maintain a normal living is more or less constant and consequently represents a relatively constant item in the domestic livelihood.
+35. [similarity: 655.136] Chinese: 从理论上说，地租原是在土地能在供养耕者之外还有剩余的情形下发生的。可是中国的租佃制度却并不直接建筑在土地生产的剩余上，而间接地建筑在农民兼营的乡村工业上，所以乡土工业崩溃实在打击了中国“地租”的基础，注定了地主阶层的命运。
+English: Since the tenant system in China is not built up on the basis of a surplus of produce from the land but rather ts supported
+by the surplus income derived from rural industries, rural
+ industries really determine the basic rents for land and,
+in fact, the future of the landlord class.
+36. [similarity: 653.739] Chinese: 为什么呢？同情他们的人惋惜当时“反动势力”的阻梗，其实忘了这几位想把政治的权变成能的人物，都忽略了在法律范围管不住皇帝的专制政治下，政府的有为只是在自上而下的单轨上开快车。
+English: It may be said by those who sympathized with them that they were prevented by reactionaries from attaining their goals. And yet none of these reformers went so far as to attempt to restrict the monarchical power by law.
+37. [similarity: 651.949] Chinese: 如果考虑到日常的家庭生活，婆媳之间存在的潜在冲突是可想而知的了
+English: The potential conflict between them can be understood considering the daily life of the household.
+38. [similarity: 651.757] Chinese: 这是说中国人才缺乏集中性的事实，也就是原来在乡间的，并不因为被科举选择出来之后就脱离本乡。这和现代西洋社会不同。
+English: This shows that, in China, men of ability and learning were not concentrated to a very large extent in the city as they are in the countries of the West.
+39. [similarity: 650.447] Chinese: 对生育的期待与恐惧，使家庭充满了紧张的气氛。
+English: Expectation and fear cause a general tension in the house.
+40. [similarity: 650.191] Chinese: 在这个村子里，我发现28起个人被吸收到另外的经济单位中的情况。作为户的一员，一起居住、吃饭和劳动，但他们和家的成员有着明显的区别。
+English: In the village I found that in twenty-eight cases individuals have been introduced into the economic unit, living, eating, and working as members of the household but clearly distinguished from the members of the Chia.
+41. [similarity: 649.535] Chinese: 我们所考虑的普通的家是由四个人组成：一位老年妇女、一位成年男子、一位成年妇女和一个小孩。这四个人是九亩土地的完全所有者。
+English: The average Chia under consideration consists of four individuals: an old woman, an adult man, an adult woman, and a child, who are full owners of a holding of nine mow of land.
+42. [similarity: 646.854] Chinese: 在我们传统的乡土文化中，人才是分散在地方上的。
+English: In our traditional culture the men of talent were spread throughout the local communities.
+43. [similarity: 646.567] Chinese: 但是我们称作“城”的却又常限于一种较大规模的防御工事，它所保卫的是一区域的政治中心。
+English: But, when the word ch’eng is used, it designates a wall or defensive construction on a larger scale, one built to protect a political center.
+44. [similarity: 646.560] Chinese: 通过他们采用新技术和工具的方式，也可以看到他们对所经营的事业采取了一种经验式的方法。
+English: Their empirical approach to their enterprise is again seen in the way in which they adopt new technique and implements.
+45. [similarity: 645.981] Chinese: 夫妻之间的关系，在一定的意义上说，是父母与儿女关系中的干扰因素。
+English: The relation between husband and wife is in a certain sense a disturbing factor in the parent-child relation.
+46. [similarity: 644.550] Chinese: 家庭的作用就是把一个没有独立生活能力的婴儿抚养成为社会中的一名完全的成员。
+English: It is the function of the family to bring up a dependent infant to become a full member of the community.
+47. [similarity: 644.383] Chinese: 另外，社会情况通常是复杂的，参与改革的一个个人，他们的期望也可以各不相同。
+English: Moreover, the social situation is usually complicated and expectation varies among the individuals involved.
+48. [similarity: 642.250] Chinese: 从这众多因素的结合中可以看到，活下来的孩子便受到高度的珍爱，虽然从表面上看，对待孩子的态度是淡漠的。
+English: As a result of these factors, we can see that the children who survive are highly valued, even though there is an outward show of indifference.
+49. [similarity: 641.431] Chinese: 由于家谱记载了家庭祖先的姓名，这些记录的持有者得到这些家庭的酬报，所以这种记录簿在某种程度上成为和尚的个人财产。
+English: Since the record keeper is rewarded by the family whose ancestor names are kept, the record book becomes in a way the personal property of the priest.
+50. [similarity: 641.324] Chinese: 然而中国社会组织的新变化，如族的部分瓦解、母系亲属的日益重要、妇女社会地位的变化等，正如对吴江情况分析中所显示的，已经形成了一种变化的趋向，这些是过去的理论家所未预见到的，同时也是在已编纂的书面称谓系统中找不到的。
+English: However, new changes in the Chinese social organization, such as the partial disintegration of the clan organization, the growing importance of the mother clan, and the change of the social status of the females, as shown in the analysis of the Wukiang system, has resulted in a direction of change which was not foreseen by the old theorists and is not to be found in the codified written system.
+51. [similarity: 640.246] Chinese: 正如我已在上面说明的，与自己有亲密关系的母系亲属限于母亲的父母、母亲的兄弟和姐妹以及他们的儿女。
+English: As I have shown above, those maternal relatives who have intimate association with ego are limited to mother's parents, mother's brothers and sisters and their children.
+52. [similarity: 639.384] Chinese: 除了我自己的家庭以外，我还把过去由于丝业的不断失败而受苦的20家召集在一起。
+English: In addition to my own family, I called together twenty other families which had suffered very much in the past from continuous failure in the industry.
+53. [similarity: 639.009] Chinese: 如果我们从这类事情所代表的意义来看，可能是值得我们细加思索的。这象征着乡土联系的最高表现，而乡土联系却维持着这自然的有机循环。也就是这有机循环，从农民一朝的拾粪起，到万里关山运柩回乡止，那一套所维系着的人地关联，支持着这历久未衰的中国文化。
+English: It seems to me that one does not understand what the
+underlying feeling here is if one does not see that this
+strong sense of the importance of kinship ties is extended
+to a symbolic kinship between man and the earth. Better
+not to leave one’s own place, but, if one goes, one must come back.
+54. [similarity: 639.004] Chinese: 父系方面的较大的亲属群体是这样一个群体：即其成员在分家后，仍然在一定程度上，保持着家的原来的社会关系。
+English: The larger kinship group on the father's side is the group in which members have still preserved, to a certain degree, the social relations originated in the Chia after it is divided.
+55. [similarity: 638.974] Chinese: 当他们对家庭的贡献超出他们自己的消费时，便已开始赡养父母。虽则由于经济收入归家庭的缘故，他们供给家庭的份额并不明显。
+English: When their contribution to the family exceeds their own consumption, they begin to support their parents, although their share is not apparent owing to the collective economy.
+56. [similarity: 638.919] Chinese: 这扩大并不引起制度上的困难，因为中国的传统本是中央集权的，甚至可以说，在法律上中央的权力可以大到无限。于是防止权力被滥用的第一道防线溃决了。
+English: Theoretically, no changes were needed in the government itself, since we already had a highly developed centralized political system; we required only more efficiency in its
+working. It is true that since, legally, the power of the central government was unlimited, increasing its efficiency might break down the first line of defense against a tyrannical authority.
+57. [similarity: 638.896] Chinese: 我们中间绝大多数向前看的人类学者，对我们自己的工作感到不耐烦，我们厌烦它的好古、猎奇和不切实际，虽然这也许是表面上的，实际并不如此。
+English: Most of us forward-looking anthropologists have felt impatient with our own work for its remoteness, exoticism, and irrelevancy—though perhaps these may be more apparent than real.
+58. [similarity: 637.660] Chinese: 并提出了这样的事实，在男方和女方亲家之间，很明显地缺少经济的互惠关系。而且婚姻的安排很少考虑到丈夫和妻子的爱好，因而存在着家庭不和睦的可能性，它会导致家的不稳定。
+English: I have brought out the fact that there is an apparent lack of economic reciprocity between the boy's and girl's families, and that owing to the marriages being arranged without regard for the inclinations of husband and wife, there is the possibility of domestic disharmony which may lead to the instability of the Chia.
+59. [similarity: 636.757] Chinese: 在人口普查记录里，家庭的职业是根据一家之长的职业而定的。
+English: The occupation of a Chia is recorded in the census according to the occupation of its head.
+60. [similarity: 635.868] Chinese: 在这种机构中，管事决不能在公务上和差人接头，因为如果自治团体成了行政机构里的一级，自下而上的轨道就被淤寒了在这种机构中，管事决不能在公务上和差人接头，因为如果自治团体成了行政机构里的一级，自下而上的轨道就被淤寒了。
+English: According to this system, the local leader did not come into contact with the despised governmental petty servants. If the self-governing unit had been an actual part of the de jure administration, however, the track from the bottom up would have been blocked.
+61. [similarity: 634.589] Chinese: 对农村生活、农民生活资料、村民的典型职业的描述以及完美的节气农历和土地占有的准确定义等都为读者提供了一种深入的确实的资料，这在任何有关的中国文献中都是十分罕见的。
+English: The account of agricultural life, of the means of livelihood, and the typical occupations of the villagers; the excellent seasonal calendar, and the precise definition of land tenure, give a type of intimate and at the same time tangible information not to be found anywhere else in the literature on China.
+62. [similarity: 634.547] Chinese: 但我的自白无疑是真实的，我说过：“人类学，至少对我来说是对我们过分标准化的文化的一种罗曼蒂克式的逃避。”
+English: But there is no doubt that my own confession that "Anthropology, to me at least, was a romantic escape from our over-standardized culture," was essentially true.
+63. [similarity: 634.535] Chinese: 当然，这种供应在一定程度上是受到人类感情和社会规则的保证的，但即使这一点也不一定总有保障。
+English: Indeed, this consent is to a certain extent guaranteed by human sentiment and social rules, but even this is not always secured.
+64. [similarity: 633.008] Chinese: 而地方自治团体是人民自己经营的具体有关生活和生存的事的，所以效率是不能低的。
+English: The work of local self-governing groups followed local needs and conformed to local attitudes. Occasionally, the local organization attempted to regulate life in minute detail.
+65. [similarity: 632.900] Chinese: 单以农业的区域来说，如果没有其他的原因，纯从耕种技术上的需要，每个农家最好是住在他所经营的土地上。这样他们可以免于运输和往来的跋涉，而且易于看守他的田地——这是散居式的社区。美国的农家大多还是散居式的，
+English: In cultivating the land, for practical reasons, if for no other, we should expect to find farmers settled on their own land
+so as to be near their work and to have their produce close at hand. This is what we call the dispersed type of agriculture, which is the usual thing in America.
+66. [similarity: 632.787] Chinese: 和我们聚居的村落不同（但在四川，因为地形和历史的原因，还可以看到散居的形式），经济上充分自给的农家聚居在一个地点构成村落，
+English: But in China, except for a few places, such as the hilly areas of Szechwan, the situation is quite different. Chinese farmers live not in isolation but close together in villages.
+67. [similarity: 632.554] Chinese: 这种努力的部分成功是很重要的，它也是在尖锐的土地问题下减轻农民痛苦的一个因素。
+English: The partial success of this industrial reform is significant also as a factor relieving the acute land problem.
+68. [similarity: 632.527] Chinese: 到后来，土地只给农作物一个生长的空间，所能从土里长出来的，都得依靠不断加到土里去的原料，像工厂里的机器，李氏认为这是和农业的原则不合的。土地是有生命的机体，地力得培养，如果培养得法，可以取之不竭，用之不穷，不是个矿山。田纳西河流域土地变质，农作技术的不良固然是一个重要原因，河水的冲洗影响更大。土质变坏，作物不长，加以原有的森林日渐砍伐之后，土地大多暴露。童山濯濯，大雨过后，泥土里没有草根，留不住本来可以滋养土地的水分，反而被水溶解了各色各样植物的营养品，挟之而去。水往低处聚，汇成巨流，澎湃急涌，拖带力也愈来愈大，一路把膏腴之地冲洗侵蚀，浩浩荡荡，奔流到海不复回——经过这样冲洗过的土地，由肥田而成瘠土，由农地而成荒区。
+English: Even the addition of chemical fertilizers could not combat the evil effects of soil erosion accelerated by floods—floods at least in part directly due to the decrease in cover crops, deforestation, and the resulting lack of organic matter in the soil to make it hold water. It was through this sort of erosion that the soil of the Tennessee Valley, originally quite fertile, became barren and unproductive.
+69. [similarity: 631.671] Chinese: 这种道路和田埂的使用权，是对此有特殊权利的家所专有的。
+English: The right to use them for this purpose is exclusive to a group which have special claims—the Chia.
+70. [similarity: 631.543] Chinese: 在第一种情况下，这女孩子成为她父亲的姊妹的儿媳，她的婆婆是从她的父亲的家中来的，和儿媳的父亲还有着亲密的关系。
+English: In the first case the girl will be the daughter-in-law of her father's sister, who is from the father's Chia and still stands in an intimate relation to her father;
+71. [similarity: 631.364] Chinese: 每一代用同一主干定名，垂直分裂成两组，年长的和年轻的，然后在这个‘家庭’（父母子女这个团体）的称谓前加修饰词以此表示它不同于其他‘家庭’；其他‘家庭’又根据其与这个‘家庭’的亲疏加以区别。
+English: Each generation is designated by the same stem, vertically split into two groups of older and younger, and then the family group is distinguished, by using modifications of the terms, from the other groups which are again differentiated according to their closeness to the family group.
+72. [similarity: 629.467] Chinese: 但是在乡间至少还有个中坚阶层足以维持——两极的移动多少是都市化过程中对农村所发生的一般影响。这两极也就是都市中劳资阶层的来源。
+English: Movement away thus comes from both upper and lower levels, leaving behind only the middle class of peasants.
+73. [similarity: 629.436] Chinese: 小贩卖的货可以是他们自己制作的，也可能是从市场上零买来的。
+English: Goods may be produced by the pedlars themselves or may be retailed from the market.
+74. [similarity: 629.428] Chinese: 在清代，震泽和吴江分县的时候，两个县政府却一起挤在这荒凉的县城里，不利用经济繁荣的镇作政治中心，也表现出“城”和“镇”在性质上的分化。
+English: In the Ch’ing dynasty this garrison town contained two district governments, but, besides the governmental yamens,
+it had mainly private residences and only one main street. Here one sees clearly the difference in function between garrison and market town.
+75. [similarity: 628.328] Chinese: 此外，正如我们将在以后的描述中所看到的，这两种力量相互作用的产物不会是西方世界的复制品或者传统的复旧。
+English: Moreover, the product of the interaction of these two forces, as we shall see in the later description, cannot be a reproduction of the West or a restoration of the past.
+76. [similarity: 627.573] Chinese: 当这种职司的人在社会地位上爬不起来时，他即使滥用权力，并不能借此擢升，因之他们的贪婪有了个事实上的限制。
+English: But with no hope of ascending in the social scale, even if they abused their power, they still would not be too formidable.
+77. [similarity: 626.360] Chinese: 中国传统社会能很久地维持着这配合，那是因为它至少可以给在这种经济里生活的人不饥不寒的小康的生活。
+English: So long as such an adjustment gave the people a standard of living which was “‘not starving, nor freezing,’ traditional Chinese society could be maintained.
+78. [similarity: 626.123] Chinese: 供养老人的义务，落在子女身上的社会里，在目前父居家庭的婚姻制度下，女儿和儿子不能分担同等的义务。
+English: the obligation of supporting the old, in a society where that responsibility falls upon the children, cannot be equally shared by sons and daughters under the present system of patrilocal marriage.
+79. [similarity: 625.577] Chinese: 但他们不在的时候，他们不能算作户的成员，虽然他们和这一户有着明确的经济关系。
+English: But during their absence, they cannot be considered as a member of the household, although they have definite economic relations with it.
+80. [similarity: 623.339] Chinese: 在以后的章节里我将说明子女如何有助于建立夫妇间亲密的关系，因为丈夫和妻子在结婚前是互不相识的。
+English: In later sections I shall show how the child helps the development of intimate relations between husband and wife, who are little acquainted with one another before marriage.
+81. [similarity: 621.947] Chinese: 有一个组织完善的天庭的观念，使得人类的行动与上天的干预这两者之间的关系复杂化了。
+English: The idea of a well organized supernatural kingdom complicates the connection between human actions and supernatural interference.
+82. [similarity: 621.526] Chinese: 而且在政治结构上破坏了传统的专制安全瓣，把基层的社会逼入了政治死角。
+English: It has destroyed the safety valve of the traditional political system.
+83. [similarity: 620.691] Chinese: 在研究社会制度之间的功能关系时，研究变迁的顺序是特别有意义的。
+English: The sequence of change is of special interest for studying the functional relations between social institutions.
+84. [similarity: 620.530] Chinese: 如果我在一个全然不熟悉的地方工作，要在这样短的时间内进行任何细致的研究是不可能的。
+English: It would have been impossible in this short time to carry out any intensive study, if I had worked in an entirely unfamiliar field.
+85. [similarity: 620.032] Chinese: 城墙的工程浩大，费用繁重，不是被包围在内的人民所能担负的，它须是一个较大区域中人民共同的事业。
+English: To make a wall of this sort is a big enterprise which cannot be accomplished by private means alone; it must be a public work shared in by the people over a large area.
+86. [similarity: 619.869] Chinese: 对这种家庭群体的经济关系作出定量分析，需要精确的实地调查技术，但并不是不可能的。
+English: Quantitative assessment of these economic relations in the domestic group requires a very refined field technique, but is not impossible.
+87. [similarity: 618.044] Chinese: 一个已婚妇女到了丈夫的家，便自动成了丈夫的族的一员。
+English: A married woman entering her husband's Chia automatically becomes a member of her husband's Tsu.
+88. [similarity: 617.971] Chinese: 这变化在地方上引起的迷惑是深刻的。
+English: The difficulty is that the functions of mediator and of administrator have become confused.
+89. [similarity: 616.505] Chinese: 不但在历史上我们常读到长期守城待援的事例，就是在我们自有的经验中，城门也有时会阻碍经常的出入，那时城里的田园的重要性就显著了。最理想的“城”是一个能自足的堡垒。
+English: The ideal city, from the traditional point of view, was a self-
+sufficient castle. And even now the government may, in emergencies, order the gates of a city to be closed. Recently, even before martial law was established in Peking, the city gates were closed every evening at seven o'clock.
+90. [similarity: 615.945] Chinese: 我们从村里的人了解到他们对财产的一种分类办法。他们是根据所有者的性质来分类的。
+English: From the villagers, we can get a classification of property based on the nature of the owner.
+91. [similarity: 615.912] Chinese: 这一类不稳定的家占总数的 27%。
+English: This type of unstable Chia amounts to 27 per cent. of the total.
+92. [similarity: 615.738] Chinese: 且不提那些正在被战事所蹂躏的区域，就是在战区之外的地方，乡间也是容不下大学毕业生的。在学校里，即使什么学问和技术都没有学得，可是生活方式、价值观念却必然会起重要的变化，足够使他自己觉得已异于乡下人，而无法再和充满着土气的人为伍了。言语无味，面目可憎。即使肯屈就乡里，在别人看来也已非昔比，刮目相视，结果不免到家里都成了个客人，无法住下去了——这是从个人的感觉上所发生的隔膜。城乡之别在中国已经大异其趣，做人对事种种方面已经可以互相不能了解，文化的差异造下了城乡的解纽。
+English: In the country there are no jobs for college graduates. It is not so much that in the modern college the student may have learned Western science or technology as that he has become accustomed to a new way of life and to a system of ideas quite different from that found in the country. The change is enough to make him conscious of the fact that he is different. So the college graduate of today feels that in the country there is no one to talk with, no one who understands him, and he often even feels alienated from his own kin.
+93. [similarity: 615.217] Chinese: 从表面上看来中国以往的政治只有自上而下的一个方向，人民似乎完全是被动的，地方的意见是不考虑的。
+English: It would appear from this that the Chinese political system was one controlled completely from the top, one in which the people were entirely passive and in which local interests had no voice.
+94. [similarity: 614.496] Chinese: 本章所使用的农业一词，只是从它的狭义说的，指的是使用土地来种植人们想要种的作物。
+English: The term agriculture is used here only in a narrow sense, and refers to the use of the land for cultivating desirable crops.
+95. [similarity: 614.149] Chinese: 因之，“城”的地点也是依政治和军事的需要而决定的。
+English: As a result, the location of a cheng is usually chosen with its political and military uses in mind.
+96. [similarity: 613.596] Chinese: 这在现代民主政治中看得很清楚，其实即是在所谓专制政治的实际运行中也是如此的。
+English: This is clearly seen in modern democratic institutions, but in fact it may also be traced in the so-called absolutistic governments.
+97. [similarity: 613.575] Chinese: 在土地所有权这一问题上，我们可以看到，土地的使用权、处理权和利益的享用权是如何在这一群体的各个成员中分布的。
+English: In the ownership of land, we can see how the right of use, the right of enjoying the benefit and the right of disposal have been diffused among the members of the group.
+98. [similarity: 613.353] Chinese: 如果我以上的分析是正确的，在租佃制下经营小农场上的佃户并不能靠土地维持“不饥不寒”的水准，则在传统的乡土经济早应该发生土地问题了，为什么土地问题到近二三十年来才见严重呢？
+English: If the foregoing analysis is correct, tenant farmers cannot rely upon the products of their land alone for maintaining even a minimum standard of living. But tenant farming has existed in China for a long time. Why did not the problems connected with it become really serious until about twenty or thirty years ago?
+99. [similarity: 612.701] Chinese: 在在这里指出这点也许是有意思的，在遇到农业危机的时候，村里缺少独立的宗教活动，这是与人们对有关这神道的神话模糊不清或无知有联系的。
+English: But it may be interesting to point out here that the lack of independent religious activity in the village on the occasion of agricultural crises is correlated with vagueness and ignorance about the myth connected with the god.
+100. [similarity: 612.026] Chinese: 但是当中国所特有的流落在城乡生产机构之外的新阶层一旦出现，一旦庞大，他们利用着权势构成种种法外的“团阀”（法外并不指他们表面的地位而言，指他们获取财富的手段而言），
+English: As for the elements mentioned above who are left outside of productive work, they tend to form a new class of organized parasites.
+
+Chinese text to translate:
+---
+第四组：中西的家（第六章“家族”）（2310字）
+①我想在这里提出来讨论的是我们乡土社会中的基本社群，这社群普通被称为“大家庭”的。我在《江村经济》中把它称作“扩大了的家庭”（Expanded Family）。这些名词的主体是“家庭”，在家庭上加一个小或大的形容词来说明中国和西洋性质上相同的“家庭”形式上的分别。可是我现在看来却觉得这并不妥当，比较确当的应该称中国乡土社会基本社群作“小家族”。
+②我提出这新名词来的原因是在想从结构的原则上去说明中西社会里“家”的区别。我们普通所谓大家庭和小家庭的差别决不是在大小上，不是在这社群所包括的人数上，而是在结构上。一个有十多个孩子的家并不构成“大家庭”的条件，一个只有公婆儿媳四个人的家却不能称之为“小家庭”。在数目上说，前者比后者为多，但在结构上说，后者却比前者为复杂，两者所用的原则不同。
+③家庭这概念在人类学上有明确的界说：这是个亲子所构成的生育社群。亲子指它的结构，生育指它的功能。亲子是双系的，兼指父母双方；子女限于配偶所出生的孩子。这社群的结合是为了子女的生和育。在由个人来担负孩子生育任务的社会里，这种社群是不会少的。但是生育的功能，就每个个别的家庭说，是短期的，孩子们长成了也就脱离了他们的父母的抚育，去经营他们自己的生育儿女的事务，一代又一代。家庭这社群因之是暂时性的。从这方面说，家庭这社群和普通的社群不完全一样。学校、国家这些社群并不是暂时，虽则事实上也不是永久的，但是都不是临时性的，因为它们所具的功能是长期性的。家庭既以生育为它的功能，在开始时就得准备结束。抚育孩子的目的就在结束抚育。关于这一层意思我在《生育制度》一书中有详细的讨论。
+④但是在任何文化中，家庭这社群总是赋有生育之外其他的功能。夫妇之间的合作并不因儿女长成而结束。如果家庭不变质，限于亲子所构成的社群，在它形成伊始，以及儿女长成之后，有一段期间只是夫妇的结合。夫妇之间固然经营着经济的、感情的、两性的合作，但是所经营的事务受着很大的限制，凡是需要较多人合作的事务就得由其他社群来经营了。
+⑤在西洋，家庭是团体性的社群，这一点我在上面已经说明有严格的团体界限。因为这缘故，这个社群能经营的事务也很少，主要的是生育儿女。可是在中国乡土社会中，家并没有严格的团体界限，这社群里的分子可以依需要，沿亲属差序向外扩大。构成这个我所谓社圈的分子并不限于亲子。但是在结构上扩大的路线却有限制。中国的家扩大的路线是单系的，就是只包括父系这一方面；除了少数例外，家并不能同时包括媳妇和女婿。在父系原则下女婿和结了婚的女儿都是外家人。在父亲方面却可以扩大得很远，五世同堂的家，可以包括五代之内所有父系方面的亲属。
+⑥这种根据单系亲属原则所组成的社群，在人类学中有个专门名称，叫氏族。我们的家在结构上是一个氏族。但是和普通我们所谓族也不完全相同，因为我们所谓族是由许多家所组成，是一个社群的社群。因之，我在这里提了这个“小家族”的名词。小家族和大家族在结构原则上是相同的，不相同是在数量、在大小上。——这是我不愿用大家庭，而用小家族的原因。一字的相差，却说明了这社群的结构性质。
+⑦家族在结构上包括家庭，最小的家族也可以等于家庭。因为亲属的结构的基础是亲子关系，父母子的三角。家族是从家庭基础上推出来的。但是包括在家族中的家庭只是社会圈子中的一轮，不能说它不存在，但也不能说它自成一个独立的单位，不是一个团体。
+⑧形态上的差异，也引起了性质上的变化。家族虽则包括生育的功能，但不限于生育的功能。依人类学上的说法，氏族是一个事业组织，再扩大就可以成为一个部落。氏族和部落赋有政治、经济、宗教等复杂的功能。我们的家也正是这样。我的假设是中国乡土社会采取了差序格局，利用亲属的伦常去组合社群，经营各种事业，使这基本的家，变成氏族性了。一方面我们可以说在中国乡土社会中，不论政治、经济、宗教等功能都可以利用家族来担负；另一方面也可以说，为了要经营这许多事业，家的结构不能限于亲子的小组合，必须加以扩大。而且凡是政治、经济、宗教等事物都需要长期绵续性的，这个基本社群决不能像西洋的家庭一般是临时的。家必须是绵续的，不因个人的长成而分裂，不因个人的死亡而结束，于是家的性质变成了族。氏族本是长期的，和我们的家一般。称我们这种社群作小家族，也表示了这种长期性在内，和家庭的临时性相对照。
+⑨中国的家是一个事业组织，家的大小是依着事业的大小而决定。如果事业小，夫妇两人的合作已够应付，这个家也可以小得等于家庭；如果事业大，超过了夫妇两人所能担负时，兄弟伯叔全可以集合在一个大家里。这说明了我们乡土社会中家的大小变异可以很甚。但不论大小上差别到什么程度，结构原则上却是一贯的、单系的差序格局。
+⑩以生育社群来担负其他很多的功能，使这社群中各分子的关系的内容也发生了变化。在西洋家庭团体中夫妇是主轴，夫妇共同经营生育事务，子女在这团体中是配角，他们长成了就离开这团体。在他们，政治、经济、宗教等功能有其他团体来担负，不在家庭的分内。夫妇成为主轴，两性之间的感情是凝合的力量。两性感情的发展，使他们的家庭成了获取生活上安慰的中心。我在《美国人性格》一书中曾用“生活堡垒”一词去形容它。
+⑾在我们的乡土社会中，家的性质在这方面有着显著的差别。我们的家既是个绵续性的事业社群，它的主轴是在父子之间，在婆媳之间，是纵的，不是横的。夫妇成了配轴。配轴虽则和主轴一样并不是临时性的，但是这两轴却都被事业的需要而排斥了普通的感情。我所谓普通的感情是和纪律相对照的。一切事业都不能脱离效率的考虑。求效率就得讲纪律；纪律排斥私情的宽容。在中国的家庭里有家法，在夫妇间得相敬，女子有着“三从四德”的标准，亲子间讲究负责和服从。这些都是事业社群里的特色。
+---
+Using the reference translations above for terminology and style, provide the best English translation of the Chinese text.

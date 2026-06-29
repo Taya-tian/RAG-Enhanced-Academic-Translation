@@ -1,0 +1,31 @@
+# Install PyTorch first (required by sentence-transformers / llama-index)
+torch>=1.13.0
+torchvision
+torchaudio
+
+# RAG / embeddings
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-openai
+llama-index-llms-openai-like
+
+# ML / transformers
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+optimum
+matplotlib
+seaborn
+
+# Data loading for knowledge base
+pandas
+openpyxl
+python-docx
+openai
+fastapi-poe
+numpy
+jieba
+rank_bm25
+faiss-cpu

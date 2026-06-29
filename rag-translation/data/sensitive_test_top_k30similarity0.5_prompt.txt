@@ -1,0 +1,102 @@
+Reference translations (from glossary):
+1. [similarity: 0.665] Chinese: 本文中想特别提出城和镇的两个概念来，目的是想指出这两种性质上不完全相同的社区，它们和乡村的关系也有差别。这里所指的城，那种以官僚地主为基础的社区，对于乡村偏重于统治和剥削的关系；而那种我称作镇的社区，因为是偏重于乡村间的商业中心，在经济上是有助于乡村的。
+最后让我补一笔，在很多事例中，城镇可能是合一的，我在本文中，因为注重于社区的分类，所以着眼于比较单纯的事例，两种形式的混合是不免的，但是为了分析的方便，我们在概念上最好能分开来。如果我们要分析现实的社区，还得增加一个概念就是“都会”。我在本文里不能对这一个概念多加说明，只能简单地说，它是以现代工商业为基础的人口密集的社区。但是中国的都会性质上也不能完全和西洋的都会相比，因为它主要的经济基础是殖民地性质的。它可以说是西洋都会的附庸。关于这一方面，我想留到以后再分析了。
+English: But even though these two types of towns do tend to overlap and are sometimes even combined into one community, it seems worth while to try to differentiate them conceptually, the garrison town as the seat of traditional bureaucratic authority and the wealthy gentry, the market town as a link between the peasants’ local industry and more highly developed commerce and manufacturing.
+2. [similarity: 0.661] Chinese: 我觉得，我们对于城乡关系问题的讨论，已经到了对这有关的双方——城和乡——的性质在概念上应当作更进一步加以详细检讨的时候了。记得我最初写《乡村·市镇·都会》的那篇短文中，就已感觉到应当把我们通常归入“城”的一类的社区，加以分别成“市镇”和“都会”两种形式，我那时的看法多少带了一点历史的观点，就是把没有受到现代工业影响的“城”和由于现代工业的发生而出现的“城”分开来说，前者称之作“市镇”，后者称之作“都会”。半年多以来，参考了许多朋友们的讨论，我已觉得这种分类还不够；不够的意思是说，依这分类，每个形式中还有值得再加以分类的“次形”。换一句话说，在原来所分出的形式中，还包括若干在某些方面性质相异的社区。当我们讨论时，如果不在概念上有清楚的规定，很容易因为用同一名词指着不同对象而发生混淆。我在本文中，想对于“城”这一类社区加以分析，希望能有助于今后的讨论。
+English: Having discussed the place of the gentry in the political structure of China, I now turn to their place in the economic order. But, in order to understand this, we must first make clear the difference in form between rural and urban communities and the nature of the economic and other relationships which hold them together.
+3. [similarity: 0.629] Chinese: 这一类多少是自给的生活单位的聚居，不论人数有多少，在性质上并不能构成我们普通所谓“城”。“城”的形成必须是功能上的区位分化，那就是说，有一个赋予某种特殊社区功能的中心区。换句话说，为了功能分化而发生的集中形式。
+English: Whatever the variation in form and whatever the size, as an assemblage of self-sufficient units, without a differentiation of function or division of labor among its members, we may recognize it as a village or rural community rather than as a town or urban center. The village, then, may be seen as one type of organization. The towns of China, on the other hand, are not all of one type but vary according to their function.
+4. [similarity: 0.624] Chinese: 村中更大的社会群体是由若干家根据多种不同目的基于亲属、地域等关系组成的。
+English: Larger social groups in the village are formed by combining a number of Chia for various purposes and along kinship or territorial principles.
+5. [similarity: 0.621] Chinese: 这个根就是供给他生长资料，供给他教育文化的社会：小之一家一村，大之一乡一国。
+English: For man the roots are the society from which he gets his material well-being and his education; they are the family, the village, the region, and the nation.
+6. [similarity: 0.617] Chinese: 单以农业的区域来说，如果没有其他的原因，纯从耕种技术上的需要，每个农家最好是住在他所经营的土地上。这样他们可以免于运输和往来的跋涉，而且易于看守他的田地——这是散居式的社区。美国的农家大多还是散居式的，
+English: In cultivating the land, for practical reasons, if for no other, we should expect to find farmers settled on their own land
+so as to be near their work and to have their produce close at hand. This is what we call the dispersed type of agriculture, which is the usual thing in America.
+7. [similarity: 0.617] Chinese: 人和地在乡土社会中有着感情的联系，一种桑梓情谊，落叶归根的有机循环中所培养出来的精神。这种精神在那些倚赖矿产来维持生活的人看来是迂阔的。
+English: In the folk society man and the land are linked by strong bonds of sentiment—an attachment called, in Chinese, the sang (‘mulberry’’) and the tzu (‘catalpa’’), a name derived from the two varieties of trees (sang and tzu) traditionally in ancient China planted near the house. Men, it is suggested, are like plants that take their nourishment from the land. But when the springtime of their growth is past and they come to the fall of life, they must return to the land, just as leaves of a plant fall and come in time to nourish its roots. Such a conception, in recognizing genuine ties between man and nature, emphasizes the fundamental unity of life.
+8. [similarity: 0.613] Chinese: 使得家的各个成员联系起来的基本纽带便是亲属关系。但亲属关系并不把它自己只限制在这个群体之内。
+English: Kinship is the fundamental bond uniting the members of the Chia, but it does not confine itself within this group.
+9. [similarity: 0.613] Chinese: 像我在以往几篇讨论中的假定一般，我想在以往传统的环境中，我们中国是有一套足以使大多数人民能过得去的办法的。
+English: In the traditional organization of society it appears we had a system under which most of the people could manage to live.
+10. [similarity: 0.604] Chinese: 尽管大部分对中国的研究强调中国大家庭制度的重要性，但非常奇怪，在这个村里，大家庭很少。
+English: In spite of the fact that most studies of China have stressed the importance of the large-family system in China, curiously enough, in this village a large-family is rare.
+11. [similarity: 0.603] Chinese: 父母与子女、夫与妻这两种关系是家庭组织的基本轴心。
+English: The parent-child and the husband-wife relations are two fundamental axes in the family organization.
+12. [similarity: 0.602] Chinese: 设计这制度的人却忽略了一点，政治是生活的一部分，政治单位必须根据生活单位。生活上互相依赖的单位的性质和范围却受着很多自然的、历史的和社会的条件所决定。我们绝不能硬派一个人进入一个家庭来凑足一定的数目。
+English: The pao-chia system has certain defects which make it unsuited to a democratic system of representation. According to pao-chia, the people were to be organized, with slight variations, in uniform numerical groups. But such units did not necessarily coincide with actual social groups. The size of a community is determined by historical and social forces; we cannot add members to a family or to a local community and have them fit in.
+13. [similarity: 0.602] Chinese: 村庄是一个社区，其特征是：农户聚集在一个紧凑的居住区内，与其他相似的单位隔开相当一段距离（在中国有些地区，农户散居，情况并非如此），作为一个群体组织各种社会活动，具有其特定的名称。
+English: A village is a community characterized by its being an aggregate of households on a compact residential area, separated from other similar units by a considerable distance (this may not hold good in some parts of China where households are scattered), organized in various social activities as a group, and possessing a special name of its own.
+14. [similarity: 0.601] Chinese: 家是由亲属纽带结合在一起的，在经济生活中，它并不必定是一个有效的劳动单位。
+English: The Chia, held together by kinship ties, is not necessarily an efficient working unit in economic life.
+15. [similarity: 0.599] Chinese: 我在本文开始时引了一节关于美国南部土地损蚀和冲洗的情形，因为这情形给我一种启示，使我觉得中国的乡土社会中本来包含着赖以维持其健全性的习惯、制度、道德、人才，
+English: In considering the TVA experiment, it has become clearer to me that Chinese agriculture is not only a matter of techniques but also a system of customs, institutions, morality, and leadership which, in the past at least, worked together to maintain the life of China.
+16. [similarity: 0.599] Chinese: 除了亲属关系的联结，另外一个基本的社会纽带就是地域性的纽带。
+English: Beside kinship bonds, another fundamental social tie is that of territorial bonds.
+17. [similarity: 0.598] Chinese: 如果我们从这类事情所代表的意义来看，可能是值得我们细加思索的。这象征着乡土联系的最高表现，而乡土联系却维持着这自然的有机循环。也就是这有机循环，从农民一朝的拾粪起，到万里关山运柩回乡止，那一套所维系着的人地关联，支持着这历久未衰的中国文化。
+English: It seems to me that one does not understand what the
+underlying feeling here is if one does not see that this
+strong sense of the importance of kinship ties is extended
+to a symbolic kinship between man and the earth. Better
+not to leave one’s own place, but, if one goes, one must come back.
+18. [similarity: 0.598] Chinese: 在职能性的群体中，我们已知有一种群体叫“乡邻”。它包括十户。
+English: Among the functional groupings, we have seen that there is a type of group called shanlin, the neighbourhood, which consists of ten households.
+19. [similarity: 0.597] Chinese: 且不提那些正在被战事所蹂躏的区域，就是在战区之外的地方，乡间也是容不下大学毕业生的。在学校里，即使什么学问和技术都没有学得，可是生活方式、价值观念却必然会起重要的变化，足够使他自己觉得已异于乡下人，而无法再和充满着土气的人为伍了。言语无味，面目可憎。即使肯屈就乡里，在别人看来也已非昔比，刮目相视，结果不免到家里都成了个客人，无法住下去了——这是从个人的感觉上所发生的隔膜。城乡之别在中国已经大异其趣，做人对事种种方面已经可以互相不能了解，文化的差异造下了城乡的解纽。
+English: In the country there are no jobs for college graduates. It is not so much that in the modern college the student may have learned Western science or technology as that he has become accustomed to a new way of life and to a system of ideas quite different from that found in the country. The change is enough to make him conscious of the fact that he is different. So the college graduate of today feels that in the country there is no one to talk with, no one who understands him, and he often even feels alienated from his own kin.
+20. [similarity: 0.595] Chinese: 和我们聚居的村落不同（但在四川，因为地形和历史的原因，还可以看到散居的形式），经济上充分自给的农家聚居在一个地点构成村落，
+English: But in China, except for a few places, such as the hilly areas of Szechwan, the situation is quite different. Chinese farmers live not in isolation but close together in villages.
+21. [similarity: 0.594] Chinese: 在一个兄弟平均继承土地的社会中，一个农家经历了几代就可以长成一个小小的同姓村落。如果这地方的四围还有可以开垦的土地，这种村落也可以继续长大。
+English: Where, as in China, brothers inherit their father’s land equally, all tend to remain together upon the land. If there is any free land near by, the family may spread out, and in the course of several generations a clan village may be developed.
+22. [similarity: 0.593] Chinese: 中国人所说的“家”，基本上也是一个家庭，但它包括的子女有时甚至已成年或已婚。
+English: A Chia is essentially a family but it sometimes includes children even when they have grown and married.
+23. [similarity: 0.593] Chinese: 弗思博士说：“应当以一个村子作研究中心来考察村民们相互间的关系，就亲属关系而言，考察权力的分配、经济的组织、宗教的皈依以及其他种种社会联系，并进而观察这种种社会关系如何相互影响，如何综合以决定这社区的合作生活。
+English: "To start with a single village as a centre," says Dr. Firth, "investigate the relationships of the persons composing it, in terms of kinship, the distribution of authority, economic organization, religious affiliations, and other social ties, and try to see how these relationships affect one another and determine the co-operative life of the small community.
+24. [similarity: 0.590] Chinese: 这是说中国人才缺乏集中性的事实，也就是原来在乡间的，并不因为被科举选择出来之后就脱离本乡。这和现代西洋社会不同。
+English: This shows that, in China, men of ability and learning were not concentrated to a very large extent in the city as they are in the countries of the West.
+25. [similarity: 0.590] Chinese: 它扩展到一个较广的范围，并成为较大社会群体的联系原则。
+English: It extends to a much wider circle and forms the principle of association of larger social groups which will be the subject-matter of this chapter.
+26. [similarity: 0.590] Chinese: 这并不意味着权利和义务的相互关系的概念、贡献和享受对等的概念不存在于亲近的社会群体中。
+English: This does not mean that the ideas of reciprocity in privilege and obligation, and of equivalence in contribution and share do not exist in the intimate social groups.
+27. [similarity: 0.590] Chinese: 我希望读者不要误解我竟“落伍”落到提倡拾粪运柩，这些是在某种环境中所流露出来代表一种精神的方式，方式尽可以变，我绝不留恋于任何方式，但是我确觉悟到这种精神的重要。我因为怕有些把中国传统看得全无是处的人，因为我提到了拾粪运柩而连其所表示的精神一并忽视，所以不得不借重李林塞尔的话，以及标准美国事业的TVA，来作重提此种精神的助证。
+English: From the peasant’s first act of the morning in collecting manure from the streets to the putting of a coffin in the ground, all is part of the same big cycle of nature and of man’s attachment to the soil. And it is the strength of this relationship which to my mind has maintained Chinese culture throughout the years. I hope, however, the reader will not misunderstand me as advocating this type of attitude. I wish merely to emphasize the existence of this spirit in Chinese life and particularly in relation to the changes now taking place—changes which I call the process of “‘social erosion.”’
+28. [similarity: 0.589] Chinese: 在中国，地方群体之间的相互依存，是非常密切的，在经济生活中尤为如此。
+English: The inter-dependence of territorial groups, especially in economic life, is very close in China.
+29. [similarity: 0.588] Chinese: 农业的人民是很容易受到侵略的，除非在安全上有着保障，不必自卫，妇孺老幼加上存贮的农产品最好是集中在一个容易保卫的地点，周围加上一些防御工程，成为一个“村落”。
+English: Farming communities are easily invaded, and the best way to be safe is for the farmers to concentrate their families and produce in one place which is easier to protect and which may be inclosed with some sort of wall. A concentration of farm families of this sort we call a village.
+30. [similarity: 0.587] Chinese: 就现有材料看，可以说，这个村里的家是一个小的亲属群体，以一个家庭为核心，并包含有几个依靠他们的亲属。
+English: For the present material, it can be said that in the village here described, the Chia is a small kinship group consisting of a family as its nucleus and several dependent relatives.
+
+Chinese text to translate:
+---
+1. 西洋的社会有些像我们在田里捆柴，几根稻草束成一把，几把束成一扎，几扎束成一捆，几捆束成一挑。
+2. 在中国，这句话是含糊得很。
+3. 这个网络像个蜘蛛的网，有一个中心，就是自己。
+4. “公民”的观念不能不先有个“国家”。
+5. 生活相倚赖的一群人不能单独地、零散地在山林里求生。
+6. 宪法观念是和西洋公务观念相配合的。
+7. 这社群的结合是为了子女的生和育。
+8. 在父亲方面却可以扩大得很远，五世同堂的家，可以包括五代之内所有父系方面的亲属。
+9. 夫妇成为主轴，两性之间的感情是凝合的力量。
+10. 我在《美国人性格》一书中曾用“生活堡垒”一词去形容它。
+11. “家里的”可以指自己的太太一个人；“家门”可以指伯叔侄子一大批；“自家人”可以包罗任何要拉入自己的圈子，表示亲热的人物。自家人的范围是因时因地可伸缩的，大到数不清，真是天下可成一家。
+12. 中国乡土社会的基层机构是一种我所谓“差序格局”，是一个“一根根私人联系所构成的网络”。这种格局和现代西洋的“团体格局”是不同的。
+13. 可是我现在看来却觉得这并不妥当，比较确当的应该称中国乡土社会基本社群作“小家族”。
+14. 家族在结构上包括家庭，最小的家族也可以等于家庭。因为亲属的结构的基础是亲子关系，父母子的三角。
+15. 依人类学上的说法，氏族是一个事业组织，再扩大就可以成为一个部落。
+16. 我的假设是中国乡土社会采取了差序格局，利用亲属的伦常去组合社群，经营各种事业，使这基本的家，变成氏族性了。
+17. 中国的家是一个事业组织，家的大小是依着事业的大小而决定。
+18. 我们的家既是个绵续性的事业社群，它的主轴是在父子之间，在婆媳之间，是纵的，不是横的。
+19. 我用这譬喻是在想具体一些使我们看到社会生活中人和人的关系的一种格局。我们不妨称之作团体格局。
+20. 现代的保甲制度是团体格局性的，但是这和传统的结构却格格不相入。
+21. 从生育和婚姻所结成的网络，可以一直推出去包括无穷的人，过去的、现在的和未来的人物。我们俗语里有“一表三千里”，就是这个意思，其实三千里者也不过指其广袤的意思而已。
+22. 我们在亲属体系里都有父母，可是我的父母却不是你的父母。再进一步说，天下没有两个人所认取的亲属可以完全相同的。兄弟两人固然有相同的父母了，但是各人有各人的妻子儿女。
+23. 这和我们的亲属圈子一般的。像贾家的大观园里，可以住着姑表林黛玉、姨表薛宝钗，后来更多了，什么宝琴、岫烟，凡是拉得上亲戚的，都包容得下。可是势力一变，树倒猢狲散，缩成一小团。
+24. 以“己”为中心，像石子一般投入水中，和别人所联系成的社会关系，不像团体中的分子一般大家立在一个平面上的，而是像水的波纹一般，一圈圈推出去，愈推愈远，也愈推愈薄。
+25. 伦重在分别，在《礼记·祭统》里所讲的十伦，鬼神、君臣、父子、贵贱、亲疏、爵赏、夫妇、政事、长幼、上下，都是指差等。“不失其伦”是在别父子、远近、亲疏。伦是有差等的次序。
+26. “本立而道生”，“其为人也孝悌，而好犯上者鲜矣，不好犯上而好作乱者，未之有也”。从己到家，由家到国，由国到天下，是一条通路。《中庸》里把五伦作为“天下之达道”。
+27. 团体是个超于个人的“实在”，不是有形的东西。我们不能具体地拿出一个有形体的东西来说这是团体。它是一束人和人的关系，是一个控制各个人行为的力量，是一种组成分子生活所倚赖的对象，是先于任何个人而又不能脱离个人的共同意志……
+28. “代理者”Minister是团体格局的社会中一个基本的概念。执行上帝意志的牧师是Minister，执行团体权力的官吏也是Minister，都是“代理者”，而不是神或团体的本身。这上帝和牧师、国家和政府的分别是不容混淆的。
+29. 从己向外推以构成的社会范围是一根根私人联系，每根绳子被一种道德要素维持着。社会范围是从“己”推出去的，而推的过程里有着各种路线，最基本的是亲属：亲子和同胞，相配的道德要素是孝和悌。
+30. 亲子是双系的，兼指父母双方；子女限于配偶所出生的孩子。这社群的结合是为了子女的生和育。在由个人来担负孩子生育任务的社会里，这种社群是不会少的。
+---
+Using the reference translations above for terminology and style, provide the best English translation of the Chinese text.
